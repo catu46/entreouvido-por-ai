@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Entreouvido por AI</title><link>https://catu46.github.io/entreouvido-por-ai/</link><language>pt-br</language><copyright>© 2026 Artur Ururahy</copyright><description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description><atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" /><lastBuildDate>Sat, 14 Nov 2026 13:52:31 +0000</lastBuildDate><itunes:author>Artur Ururahy</itunes:author><itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>Artur Ururahy</itunes:name><itunes:email>catu46@users.noreply.github.com</itunes:email></itunes:owner><itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" /><image><url>https://catu46.github.io/entreouvido-por-ai/cover.jpg</url><title>Entreouvido por AI</title><link>https://catu46.github.io/entreouvido-por-ai/</link></image><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:category text="Technology" /><item><title>Entreouvido por AI — 14 de novembro de 2026</title><link>https://catu46.github.io/entreouvido-por-ai/</link><guid isPermaLink="false">tag:catu46.github.io,2026-11-14:entreouvido-por-ai/ep-2026-11-14</guid><pubDate>Sat, 14 Nov 2026 13:52:22 +0000</pubDate><description>O Senado avançou o pacote de ajuste fiscal e o Brazil Journal apontou uma pedalada jurídica no texto. O Banco do Brasil ainda absorve o tombo no lucro do terceiro trimestre. Nos Estados Unidos, uma pane no controle de tráfego aéreo parou decolagens em todo o país. A Microsoft derrubou Outlook e Teams no mundo, e o Supremo suspendeu prazos no Brasil. No recorte de empresas: um fundo da Crescera para negócios sem sucessão e a Buser vendendo passagem aérea. Em inteligência artificial, a United barra agentes de reserva e a OpenAI lança uma carteira para esses agentes pagarem. E a mensuração de TV ganha uma proposta baseada no tamanho da tela.
+
+## Política, geopolítica e economia
+
+- Texto principal do ajuste fiscal é aprovado pelo Senado (https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado) (Agência Senado)
+- Pedalar é preciso. Cortar gastos, jamais (https://braziljournal.com/pedalar-e-preciso-cortar-gastos-jamais) (Brazil Journal)
+- BB está atravessando o ciclo mais severo de sua história, diz presidente (https://valor.globo.com/financas/noticia/2026/11/12/bb-esta-atravessando-o-ciclo-mais-severo-de-sua-historia-diz-presidente-acoes-desabam.ghtml) (Valor)
+- Além do agro: por que o lucro do Banco do Brasil despencou 66,5% (https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml) (G1)
+- BB vê rentabilidade ainda pressionada no curto prazo (https://economia.uol.com.br/noticias/reuters/2026/11/12/bb-ve-rentabilidade-ainda-pressionada-no-curto-prazo-mas-promete-medidas.htm) (Reuters / UOL)
+- Nu Holdings Ltd. Reports Third Quarter 2026 Financial Results (https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-third-quarter-2026-financial-results) (Nubank)
+- Inter&amp;Co tem lucro líquido recorde de R$ 425 milhões no 3º tri (https://www.cnnbrasil.com.br/economia/money/negocios/interco-tem-lucro-liquido-recorde-de-r-425-milhoes-no-3o-tri-alta-de-26/) (CNN Brasil)
+- Lucro da JHSF cresce quase 30% no 3º tri (https://economia.uol.com.br/noticias/reuters/2026/11/13/lucro-da-jhsf-cresce-quase-30-no-3-tri.htm) (Reuters / UOL)
+- IPCA fica em 0,14% em outubro (https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48568-ipca-fica-em-0-14-em-outubro) (IBGE)
+- Flávio rejeita apoiar reeleição de Motta (https://www.metropoles.com/brasil/com-pl-rachado-flavio-rejeita-apoiar-reeleicao-de-motta-na-camara) (Metrópoles, via the news)
+- Câmara pede que STF derrube parte das regras de Dino para a escala 5x2 (https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml) (G1)
+- Lula se encontra com Marcos Jr. e fala em minerais críticos e semicondutores (https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml) (G1)
+- FAA issues national ground stop (https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/) (Reuters)
+- FAA Statement on Nationwide Ground Stop (https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop) (FAA)
+- Live updates: FAA grounds flights (https://apnews.com/live/ground-stop-aviation-flights-news-updates-11-13-2026) (Associated Press)
+- Microsoft 'deeply sorry' for global outage (https://www.bbc.com/news/live/cq5y10ge3dp3t) (BBC)
+- Microsoft says services fully restored (https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a) (Associated Press)
+- STF e CNJ suspendem prazos por instabilidade da Microsoft (https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml) (G1)
+- Russia-Ukraine talks: Kaja Kallas (https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit) (The Guardian)
+- Paraguay adds criminal association charge against ex-president Peña (https://www.reuters.com/business/finance/paraguay-adds-criminal-association-charge-against-ex-president-pea-2026-11-13/) (Reuters)
+
+## VC e startups
+
+- Um fundo para comprar empresas sem sucessão (https://braziljournal.com/um-fundo-para-comprar-empresas-sem-sucessao) (Brazil Journal)
+- Buser vai vender passagens aéreas e busca novas viações (https://exame.com/insight/buser-entra-na-venda-de-passagens-aereas-e-negocia-compra-de-cinco-viacoes/p) (Exame)
+- Anthropic launches roadshow for proposed IPO (https://www.anthropic.com/news/roadshow-launch) (Anthropic)
+- Anthropic sets price range of $70 to $78 (https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html) (CNBC)
+- Stock Market Today, Nov. 13: Nvidia slides (https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/) (Motley Fool)
+
+## Inteligência artificial
+
+- United Airlines stance on third-party AI agents (https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html) (United)
+- United Airlines blocks AI agents from booking flights (https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/) (The Washington Post)
+- United won’t let your AI agent book your flight (https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents) (The Verge)
+- Introducing ChatGPT Wallet (https://openai.com/index/introducing-chatgpt-wallet) (OpenAI)
+- ChatGPT Wallet lets OpenAI’s Dots agents make purchases (https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) (The Verge)
+
+## Mídia, software e plataformas
+
+- Hours-long Microsoft outage (https://www.reuters.com/technology/) — ver também a edição Reuters Technology de 13/11 e a BBC (https://www.bbc.com/news/live/cq5y10ge3dp3t)
+- Can V Really Shake Up TV Measurement? (https://www.tvrev.com/news/can-v-really-shake-up-tv-measurement) (Alan Wolk / TVREV)
+- Telecompaper, 13/11/2026: Microsoft 365 worldwide outage; Ofcom multa a Meta em 450 mil libras
+
+Fontes também consultadas nas newsletters Brazil Journal, the news, the news night, tns business, Reuters Business e Technology, The New York Times, Alan Wolk e Telecompaper.</description><content:encoded>&lt;p&gt;O Senado avançou o pacote de ajuste fiscal e o Brazil Journal apontou uma pedalada jurídica no texto. O Banco do Brasil ainda absorve o tombo no lucro do terceiro trimestre. Nos Estados Unidos, uma pane no controle de tráfego aéreo parou decolagens em todo o país. A Microsoft derrubou Outlook e Teams no mundo, e o Supremo suspendeu prazos no Brasil. No recorte de empresas: um fundo da Crescera para negócios sem sucessão e a Buser vendendo passagem aérea. Em inteligência artificial, a United barra agentes de reserva e a OpenAI lança uma carteira para esses agentes pagarem. E a mensuração de TV ganha uma proposta baseada no tamanho da tela.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;/p&gt;
+&lt;p&gt;- &lt;a href="https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"&gt;Texto principal do ajuste fiscal é aprovado pelo Senado&lt;/a&gt; (Agência Senado)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/pedalar-e-preciso-cortar-gastos-jamais"&gt;Pedalar é preciso. Cortar gastos, jamais&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/financas/noticia/2026/11/12/bb-esta-atravessando-o-ciclo-mais-severo-de-sua-historia-diz-presidente-acoes-desabam.ghtml"&gt;BB está atravessando o ciclo mais severo de sua história, diz presidente&lt;/a&gt; (Valor)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml"&gt;Além do agro: por que o lucro do Banco do Brasil despencou 66,5%&lt;/a&gt; (G1)&lt;br/&gt;
+- &lt;a href="https://economia.uol.com.br/noticias/reuters/2026/11/12/bb-ve-rentabilidade-ainda-pressionada-no-curto-prazo-mas-promete-medidas.htm"&gt;BB vê rentabilidade ainda pressionada no curto prazo&lt;/a&gt; (Reuters / UOL)&lt;br/&gt;
+- &lt;a href="https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-third-quarter-2026-financial-results"&gt;Nu Holdings Ltd. Reports Third Quarter 2026 Financial Results&lt;/a&gt; (Nubank)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/economia/money/negocios/interco-tem-lucro-liquido-recorde-de-r-425-milhoes-no-3o-tri-alta-de-26/"&gt;Inter&amp;amp;Co tem lucro líquido recorde de R$ 425 milhões no 3º tri&lt;/a&gt; (CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://economia.uol.com.br/noticias/reuters/2026/11/13/lucro-da-jhsf-cresce-quase-30-no-3-tri.htm"&gt;Lucro da JHSF cresce quase 30% no 3º tri&lt;/a&gt; (Reuters / UOL)&lt;br/&gt;
+- &lt;a href="https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48568-ipca-fica-em-0-14-em-outubro"&gt;IPCA fica em 0,14% em outubro&lt;/a&gt; (IBGE)&lt;br/&gt;
+- &lt;a href="https://www.metropoles.com/brasil/com-pl-rachado-flavio-rejeita-apoiar-reeleicao-de-motta-na-camara"&gt;Flávio rejeita apoiar reeleição de Motta&lt;/a&gt; (Metrópoles, via the news)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml"&gt;Câmara pede que STF derrube parte das regras de Dino para a escala 5x2&lt;/a&gt; (G1)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml"&gt;Lula se encontra com Marcos Jr. e fala em minerais críticos e semicondutores&lt;/a&gt; (G1)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"&gt;FAA issues national ground stop&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"&gt;FAA Statement on Nationwide Ground Stop&lt;/a&gt; (FAA)&lt;br/&gt;
+- &lt;a href="https://apnews.com/live/ground-stop-aviation-flights-news-updates-11-13-2026"&gt;Live updates: FAA grounds flights&lt;/a&gt; (Associated Press)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/live/cq5y10ge3dp3t"&gt;Microsoft &amp;#x27;deeply sorry&amp;#x27; for global outage&lt;/a&gt; (BBC)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a"&gt;Microsoft says services fully restored&lt;/a&gt; (Associated Press)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml"&gt;STF e CNJ suspendem prazos por instabilidade da Microsoft&lt;/a&gt; (G1)&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"&gt;Russia-Ukraine talks: Kaja Kallas&lt;/a&gt; (The Guardian)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/business/finance/paraguay-adds-criminal-association-charge-against-ex-president-pea-2026-11-13/"&gt;Paraguay adds criminal association charge against ex-president Peña&lt;/a&gt; (Reuters)&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;/p&gt;
+&lt;p&gt;- &lt;a href="https://braziljournal.com/um-fundo-para-comprar-empresas-sem-sucessao"&gt;Um fundo para comprar empresas sem sucessão&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://exame.com/insight/buser-entra-na-venda-de-passagens-aereas-e-negocia-compra-de-cinco-viacoes/p"&gt;Buser vai vender passagens aéreas e busca novas viações&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://www.anthropic.com/news/roadshow-launch"&gt;Anthropic launches roadshow for proposed IPO&lt;/a&gt; (Anthropic)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"&gt;Anthropic sets price range of $70 to $78&lt;/a&gt; (CNBC)&lt;br/&gt;
+- &lt;a href="https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/"&gt;Stock Market Today, Nov. 13: Nvidia slides&lt;/a&gt; (Motley Fool)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;/p&gt;
+&lt;p&gt;- &lt;a href="https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"&gt;United Airlines stance on third-party AI agents&lt;/a&gt; (United)&lt;br/&gt;
+- &lt;a href="https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/"&gt;United Airlines blocks AI agents from booking flights&lt;/a&gt; (The Washington Post)&lt;br/&gt;
+- &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"&gt;United won’t let your AI agent book your flight&lt;/a&gt; (The Verge)&lt;br/&gt;
+- &lt;a href="https://openai.com/index/introducing-chatgpt-wallet"&gt;Introducing ChatGPT Wallet&lt;/a&gt; (OpenAI)&lt;br/&gt;
+- &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"&gt;ChatGPT Wallet lets OpenAI’s Dots agents make purchases&lt;/a&gt; (The Verge)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;/p&gt;
+&lt;p&gt;- &lt;a href="https://www.reuters.com/technology/"&gt;Hours-long Microsoft outage&lt;/a&gt; — ver também a edição Reuters Technology de 13/11 e a &lt;a href="https://www.bbc.com/news/live/cq5y10ge3dp3t"&gt;BBC&lt;/a&gt;&lt;br/&gt;
+- &lt;a href="https://www.tvrev.com/news/can-v-really-shake-up-tv-measurement"&gt;Can V Really Shake Up TV Measurement?&lt;/a&gt; (Alan Wolk / TVREV)&lt;br/&gt;
+- Telecompaper, 13/11/2026: Microsoft 365 worldwide outage; Ofcom multa a Meta em 450 mil libras&lt;/p&gt;
+&lt;p&gt;Fontes também consultadas nas newsletters Brazil Journal, the news, the news night, tns business, Reuters Business e Technology, The New York Times, Alan Wolk e Telecompaper.&lt;/p&gt;</content:encoded><enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-14/entreouvido-por-ai-2026-11-14.mp3" length="44666923" type="audio/mpeg" /><itunes:title>Entreouvido por AI — 14 de novembro de 2026</itunes:title><itunes:author>Artur Ururahy</itunes:author><itunes:summary>O Senado avançou o pacote de ajuste fiscal e o Brazil Journal apontou uma pedalada jurídica no texto. O Banco do Brasil ainda absorve o tombo no lucro do terceiro trimestre. Nos Estados Unidos, uma pane no controle de tráfego aéreo parou decolagens em todo o país. A Microsoft derrubou Outlook e Teams no mundo, e o Supremo suspendeu prazos no Brasil. No recorte de empresas: um fundo da Crescera para negócios sem sucessão e a Buser vendendo passagem aérea. Em inteligência artificial, a United barra agentes de reserva e a OpenAI lança uma carteira para esses agentes pagarem. E a mensuração de TV ganha uma proposta baseada no tamanho da tela.
+
+## Política, geopolítica e economia
+
+- Texto principal do ajuste fiscal é aprovado pelo Senado (https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado) (Agência Senado)
+- Pedalar é preciso. Cortar gastos, jamais (https://braziljournal.com/pedalar-e-preciso-cortar-gastos-jamais) (Brazil Journal)
+- BB está atravessando o ciclo mais severo de sua história, diz presidente (https://valor.globo.com/financas/noticia/2026/11/12/bb-esta-atravessando-o-ciclo-mais-severo-de-sua-historia-diz-presidente-acoes-desabam.ghtml) (Valor)
+- Além do agro: por que o lucro do Banco do Brasil despencou 66,5% (https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml) (G1)
+- BB vê rentabilidade ainda pressionada no curto prazo (https://economia.uol.com.br/noticias/reuters/2026/11/12/bb-ve-rentabilidade-ainda-pressionada-no-curto-prazo-mas-promete-medidas.htm) (Reuters / UOL)
+- Nu Holdings Ltd. Reports Third Quarter 2026 Financial Results (https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-third-quarter-2026-financial-results) (Nubank)
+- Inter&amp;Co tem lucro líquido recorde de R$ 425 milhões no 3º tri (https://www.cnnbrasil.com.br/economia/money/negocios/interco-tem-lucro-liquido-recorde-de-r-425-milhoes-no-3o-tri-alta-de-26/) (CNN Brasil)
+- Lucro da JHSF cresce quase 30% no 3º tri (https://economia.uol.com.br/noticias/reuters/2026/11/13/lucro-da-jhsf-cresce-quase-30-no-3-tri.htm) (Reuters / UOL)
+- IPCA fica em 0,14% em outubro (https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48568-ipca-fica-em-0-14-em-outubro) (IBGE)
+- Flávio rejeita apoiar reeleição de Motta (https://www.metropoles.com/brasil/com-pl-rachado-flavio-rejeita-apoiar-reeleicao-de-motta-na-camara) (Metrópoles, via the news)
+- Câmara pede que STF derrube parte das regras de Dino para a escala 5x2 (https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml) (G1)
+- Lula se encontra com Marcos Jr. e fala em minerais críticos e semicondutores (https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml) (G1)
+- FAA issues national ground stop (https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/) (Reuters)
+- FAA Statement on Nationwide Ground Stop (https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop) (FAA)
+- Live updates: FAA grounds flights (https://apnews.com/live/ground-stop-aviation-flights-news-updates-11-13-2026) (Associated Press)
+- Microsoft 'deeply sorry' for global outage (https://www.bbc.com/news/live/cq5y10ge3dp3t) (BBC)
+- Microsoft says services fully restored (https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a) (Associated Press)
+- STF e CNJ suspendem prazos por instabilidade da Microsoft (https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml) (G1)
+- Russia-Ukraine talks: Kaja Kallas (https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit) (The Guardian)
+- Paraguay adds criminal association charge against ex-president Peña (https://www.reuters.com/business/finance/paraguay-adds-criminal-association-charge-against-ex-president-pea-2026-11-13/) (Reuters)
+
+## VC e startups
+
+- Um fundo para comprar empresas sem sucessão (https://braziljournal.com/um-fundo-para-comprar-empresas-sem-sucessao) (Brazil Journal)
+- Buser vai vender passagens aéreas e busca novas viações (https://exame.com/insight/buser-entra-na-venda-de-passagens-aereas-e-negocia-compra-de-cinco-viacoes/p) (Exame)
+- Anthropic launches roadshow for proposed IPO (https://www.anthropic.com/news/roadshow-launch) (Anthropic)
+- Anthropic sets price range of $70 to $78 (https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html) (CNBC)
+- Stock Market Today, Nov. 13: Nvidia slides (https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/) (Motley Fool)
+
+## Inteligência artificial
+
+- United Airlines stance on third-party AI agents (https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html) (United)
+- United Airlines blocks AI agents from booking flights (https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/) (The Washington Post)
+- United won’t let your AI agent book your flight (https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents) (The Verge)
+- Introducing ChatGPT Wallet (https://openai.com/index/introducing-chatgpt-wallet) (OpenAI)
+- ChatGPT Wallet lets OpenAI’s Dots agents make purchases (https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) (The Verge)
+
+## Mídia, software e plataformas
+
+- Hours-long Microsoft outage (https://www.reuters.com/technology/) — ver também a edição Reuters Technology de 13/11 e a BBC (https://www.bbc.com/news/live/cq5y10ge3dp3t)
+- Can V Really Shake Up TV Measurement? (https://www.tvrev.com/news/can-v-really-shake-up-tv-measurement) (Alan Wolk / TVREV)
+- Telecompaper, 13/11/2026: Microsoft 365 worldwide outage; Ofcom multa a Meta em 450 mil libras
+
+Fontes também consultadas nas newsletters Brazil Journal, the news, the news night, tns business, Reuters Business e Technology, The New York Times, Alan Wolk e Telecompaper.</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:duration>31:01</itunes:duration><itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" /><itunes:episodeType>full</itunes:episodeType></item></channel></rss>
