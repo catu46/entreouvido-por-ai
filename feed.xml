@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Nov 2026 13:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:06:34 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,187 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 15 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-15:entreouvido-por-ai/ep-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Lula encerra a viagem à Ásia com o ajuste fiscal, a sucessão no Banco do Brasil e a disputa do Centrão por ministérios na fila. O Tesouro Nacional tira sistemas do ar após ataque hacker. Zelensky diz que os EUA levantaram trocar o Donbas pela entrada na Otan, e Trump e Putin tentam um encontro a três com Xi na Apec. O venture capital brasileiro tem o pior mês em 13 meses, e o IPO da Anthropic chega a seis vezes de demanda. Em IA, a Centauro coloca 900 agentes para trabalhar. Em mídia, o Globoplay passa a vender publicidade do Disney+.
+
+## Política, geopolítica e economia
+
+### Nacional
+- Medidas fiscais ficam para depois de 15 de novembro, diz Durigan (https://acaonabolsa.com.br/noticia/627-medidas-fiscais-ficam-para-depois-de-15-de-novembro-diz-durigan) (Ação na Bolsa)
+- Ministro diz que governo adotará novas medidas fiscais se necessário (https://www1.folha.uol.com.br/mercado/2026/11/ministro-diz-que-governo-adotara-novas-medidas-fiscais-se-necessario-mas-descarta-desvincular-beneficios.shtml) (Folha)
+- Cúpula do PT decide apoiar ajuste fiscal e elege Banco Central o culpado por crise (https://www.infomoney.com.br/mercados/cupula-do-pt-decide-apoiar-ajuste-fiscal-e-elege-banco-central-o-culpado-por-crise/) (InfoMoney/Estadão)
+- Centrão pede ministérios com maior orçamento, enquanto governo busca mais poder sobre emendas (https://oglobo.globo.com/politica/noticia/2026/11/15/centrao-pede-ministerios-com-maior-orcamento-enquanto-governo-busca-mais-poder-sobre-emendas-parlamentares.ghtml) (O Globo)
+- Centrão exige mais ministérios no governo Lula 4 (https://www1.folha.uol.com.br/poder/2026/11/centrao-exige-mais-ministerios-no-governo-lula-4-em-troca-de-cobranca-por-mais-fidelidade-no-congresso.shtml) (Folha)
+- Balanço frustrante aumenta pressão por troca de Tarciana Medeiros no BB (https://valor.globo.com/financas/noticia/2026/11/12/balanco-frustrante-aumenta-pressao-por-troca-de-tarciana-medeiros-na-presidencia-do-bb-dizem-fontes.ghtml) (Valor)
+- Banco do Brasil: ações estendem queda após tombo no lucro (https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/13/banco-do-brasil-bbas3-acoes-estendem-queda-apos-tombo-no-lucro.ghtml) (Valor Investe)
+- Tesouro Nacional derruba sistemas após ataque que roubou dados de beneficiários (https://www1.folha.uol.com.br/mercado/2026/11/tesouro-nacional-derruba-sistemas-apos-ataque-que-roubou-dados-de-beneficiarios-do-governo.shtml) (Folha)
+- Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2 (https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml) (g1)
+- Fachin defende indicação de uma mulher negra para o STF (https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml) (g1)
+- Cosan anuncia saída do CEO Marcelo Martins e nomeia Guilherme Penin como interino (https://www.infomoney.com.br/mercados/cosan-anuncia-saida-do-ceo-marcelo-martins-e-nomeia-guilherme-penin-como-interino/) (InfoMoney; pauta do Brazil Journal)
+
+### Internacional
+- US floated idea of Ukraine swapping land for NATO, Zelensky says (https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl) (CNN)
+- US has floated Ukraine ceding Donbas for Nato membership (https://www.bbc.com/news/articles/cwvg2l312ylqo) (BBC)
+- Russia seeks NATO pullback (https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/) (Washington Post)
+- A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting (https://www.reuters.com/5f374b32b07b/world/china/new-yalta-trump-putin-push-meeting-that-xi-is-wary-hosting-2026-11-14/) (Reuters)
+- After midterm sweep, Democrats split over Trump, cost-cutting agenda (https://www.reuters.com/3fec1b0a85a0/world/us/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda-2026-11-14/) (Reuters)
+- Ground stop followed contractor upgrade to L3Harris telecom system (https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html) (CNBC)
+- US air travel disruptions to persist until late on Sunday (https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/thousands-us-flights-canceled-delayed-air-travel-system-recovers-shutdown-2026-11-14/) (Reuters)
+- Starship Flight 15 (https://www.spacex.com/launches/starship-flight-15/) (SpaceX) · CNBC (https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html)
+- COP31 Bulletin Day 6 (https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/) (Climate Home News)
+- Lula na abertura da Cúpula da ASEAN (https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/11/201cnavegar-juntos-implica-escolher-a-rota-do-desenvolvimento-sustentavel-e-da-reducao-das-desigualdades201d-diz-lula-na-abertura-da-cupula-da-asean) (Planalto)
+
+## VC e startups
+
+### Brasil
+- Rodadas da semana: outubro foi o mês mais fraco para venture capital brasileiro no ano (https://www.bloomberglinea.com.br/startups/rodadas-da-semana-outubro-foi-o-mes-mais-fraco-para-venture-capital-brasileiro-no-ano/) (Bloomberg Línea) — Sling Hub, Finaya/Crescera
+- Trampay lança fundo de R$ 250 mi para emprestar a entregadores (https://pipelinevalor.globo.com/startups/noticia/trampay-lanca-fundo-de-r-250-mi-para-emprestar-a-entregadores.ghtml) (Pipeline/Valor)
+- Giro da semana: earn-out e Clara (https://crescimentocomposto.com.br/giro/giro-da-semana-13-11-2026/) (resumo de reportagens do Startups)
+
+### Global
+- Exclusive: Investors flock to Anthropic IPO but question durability of AI lead (https://www.investing.com/news/stock-market-news/exclusiveinvestors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead-5026644) (Reuters)
+- Startup Funding News, November 13, 2026: Q-CTRL, Databento, Kindo, Orakl (https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/) (Tech Startups)
+- Musk says Nvidia will lose 'critical' deals without Jensen Huang (https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369) (Reuters)
+- China acusa EUA de usar caso de CEO da Nvidia para bloquear tecnologia (https://exame.com/mundo/china-acusa-eua-de-usar-caso-de-ceo-da-nvidia-para-bloquear-tecnologia/) (Exame)
+
+## Inteligência artificial
+- Centauro coloca 900 agentes de IA para trabalhar e resolve 60% dos chamados sem humanos (https://exame.com/inteligencia-artificial/centauro-coloca-900-agentes-de-ia-para-trabalhar-e-resolve-60-dos-chamados-sem-humanos/) (Exame)
+- Riachuelo amplia experiência do cliente com IA agêntica (https://estrategiasenegocios.com.br/2026/11/10/riachuelo-agentica-conceito/) (Estratégias &amp; Negócios)
+- Sicoob lança Sebah, agente de IA para operações de TI (https://www.sicoob.com.br/web/sicoobsanta/noticias/-/asset_publisher/xAioIawpOI5S/content/id/325742018) (Sicoob)
+- Hertz opens a direct line to Muse with Decagon's Personal Agent Gateway (https://decagon.ai/blog/hertz-opens-a-direct-line-to-muse-with-decagons-personal-agent-gateway) (Decagon)
+- Welcome to the B2A economy (https://a16z.com/welcome-to-the-b2a-economy/) (a16z, via the news)
+- AI risks are the biggest threat to the financial system, Fed survey finds (https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html) (CNBC)
+
+## Mídia, software e plataformas
+- Globoplay e Disney+ passam a comercializar publicidade em conjunto (https://www.meioemensagem.com.br/midia/globoplay-passa-a-comercializar-publicidade-do-disney) (Meio &amp; Mensagem)
+- Meta é alvo de 11 ações no TSE relacionadas à eleição presidencial (https://g1.globo.com/politica/noticia/2026/11/14/meta-acoes-tse-eleicoes-presidenciais-2026.ghtml) (g1)
+- Meta fined $887 million in Italy over Android gallery photos (https://apnews.com/article/italy-meta-android-facebook-feature-9b3073c52464d5cd0e8facbc57285194) (AP) · DW (https://www.dw.com/en/italy-slaps-meta-with-805mn-fine-over-access-to-android-photos/a-79949032)
+- Microsoft outage cost: $7 billion in lost productivity (https://www.inc.com/chloe-aiello/microsoft-outage-cost-confusion-an-opening-for-criminals-and-7-billion-in-lost-productivity/91436447) (Inc.)
+- NetChoice sues New York over social media warning label law (https://news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law) (Bloomberg Law)
+- Motorola nomeia Amar Babu como CEO global (https://www.bloomberglinea.com.br/tech/motorola-nomeia-amar-babu-da-lenovo-como-ceo-global-apos-saida-de-sergio-buniac/) (Bloomberg Línea)
+
+Roteiro produzido com apoio de IA a partir de fontes abertas; narração sintética (Google Chirp 3 HD).</description>
+      <content:encoded>&lt;p&gt;Lula encerra a viagem à Ásia com o ajuste fiscal, a sucessão no Banco do Brasil e a disputa do Centrão por ministérios na fila. O Tesouro Nacional tira sistemas do ar após ataque hacker. Zelensky diz que os EUA levantaram trocar o Donbas pela entrada na Otan, e Trump e Putin tentam um encontro a três com Xi na Apec. O venture capital brasileiro tem o pior mês em 13 meses, e o IPO da Anthropic chega a seis vezes de demanda. Em IA, a Centauro coloca 900 agentes para trabalhar. Em mídia, o Globoplay passa a vender publicidade do Disney+.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;/p&gt;
+&lt;p&gt;### Nacional&lt;br/&gt;
+- &lt;a href="https://acaonabolsa.com.br/noticia/627-medidas-fiscais-ficam-para-depois-de-15-de-novembro-diz-durigan"&gt;Medidas fiscais ficam para depois de 15 de novembro, diz Durigan&lt;/a&gt; (Ação na Bolsa)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/mercado/2026/11/ministro-diz-que-governo-adotara-novas-medidas-fiscais-se-necessario-mas-descarta-desvincular-beneficios.shtml"&gt;Ministro diz que governo adotará novas medidas fiscais se necessário&lt;/a&gt; (Folha)&lt;br/&gt;
+- &lt;a href="https://www.infomoney.com.br/mercados/cupula-do-pt-decide-apoiar-ajuste-fiscal-e-elege-banco-central-o-culpado-por-crise/"&gt;Cúpula do PT decide apoiar ajuste fiscal e elege Banco Central o culpado por crise&lt;/a&gt; (InfoMoney/Estadão)&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/politica/noticia/2026/11/15/centrao-pede-ministerios-com-maior-orcamento-enquanto-governo-busca-mais-poder-sobre-emendas-parlamentares.ghtml"&gt;Centrão pede ministérios com maior orçamento, enquanto governo busca mais poder sobre emendas&lt;/a&gt; (O Globo)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/poder/2026/11/centrao-exige-mais-ministerios-no-governo-lula-4-em-troca-de-cobranca-por-mais-fidelidade-no-congresso.shtml"&gt;Centrão exige mais ministérios no governo Lula 4&lt;/a&gt; (Folha)&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/financas/noticia/2026/11/12/balanco-frustrante-aumenta-pressao-por-troca-de-tarciana-medeiros-na-presidencia-do-bb-dizem-fontes.ghtml"&gt;Balanço frustrante aumenta pressão por troca de Tarciana Medeiros no BB&lt;/a&gt; (Valor)&lt;br/&gt;
+- &lt;a href="https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/13/banco-do-brasil-bbas3-acoes-estendem-queda-apos-tombo-no-lucro.ghtml"&gt;Banco do Brasil: ações estendem queda após tombo no lucro&lt;/a&gt; (Valor Investe)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/mercado/2026/11/tesouro-nacional-derruba-sistemas-apos-ataque-que-roubou-dados-de-beneficiarios-do-governo.shtml"&gt;Tesouro Nacional derruba sistemas após ataque que roubou dados de beneficiários&lt;/a&gt; (Folha)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml"&gt;Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml"&gt;Fachin defende indicação de uma mulher negra para o STF&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://www.infomoney.com.br/mercados/cosan-anuncia-saida-do-ceo-marcelo-martins-e-nomeia-guilherme-penin-como-interino/"&gt;Cosan anuncia saída do CEO Marcelo Martins e nomeia Guilherme Penin como interino&lt;/a&gt; (InfoMoney; pauta do Brazil Journal)&lt;/p&gt;
+&lt;p&gt;### Internacional&lt;br/&gt;
+- &lt;a href="https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl"&gt;US floated idea of Ukraine swapping land for NATO, Zelensky says&lt;/a&gt; (CNN)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/cwvg2l312ylqo"&gt;US has floated Ukraine ceding Donbas for Nato membership&lt;/a&gt; (BBC)&lt;br/&gt;
+- &lt;a href="https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/"&gt;Russia seeks NATO pullback&lt;/a&gt; (Washington Post)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/5f374b32b07b/world/china/new-yalta-trump-putin-push-meeting-that-xi-is-wary-hosting-2026-11-14/"&gt;A new &amp;#x27;Yalta&amp;#x27;? Trump and Putin push for a meeting that Xi is wary of hosting&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/world/us/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda-2026-11-14/"&gt;After midterm sweep, Democrats split over Trump, cost-cutting agenda&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"&gt;Ground stop followed contractor upgrade to L3Harris telecom system&lt;/a&gt; (CNBC)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/thousands-us-flights-canceled-delayed-air-travel-system-recovers-shutdown-2026-11-14/"&gt;US air travel disruptions to persist until late on Sunday&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.spacex.com/launches/starship-flight-15/"&gt;Starship Flight 15&lt;/a&gt; (SpaceX) · &lt;a href="https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"&gt;CNBC&lt;/a&gt;&lt;br/&gt;
+- &lt;a href="https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"&gt;COP31 Bulletin Day 6&lt;/a&gt; (Climate Home News)&lt;br/&gt;
+- &lt;a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/11/201cnavegar-juntos-implica-escolher-a-rota-do-desenvolvimento-sustentavel-e-da-reducao-das-desigualdades201d-diz-lula-na-abertura-da-cupula-da-asean"&gt;Lula na abertura da Cúpula da ASEAN&lt;/a&gt; (Planalto)&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;/p&gt;
+&lt;p&gt;### Brasil&lt;br/&gt;
+- &lt;a href="https://www.bloomberglinea.com.br/startups/rodadas-da-semana-outubro-foi-o-mes-mais-fraco-para-venture-capital-brasileiro-no-ano/"&gt;Rodadas da semana: outubro foi o mês mais fraco para venture capital brasileiro no ano&lt;/a&gt; (Bloomberg Línea) — Sling Hub, Finaya/Crescera&lt;br/&gt;
+- &lt;a href="https://pipelinevalor.globo.com/startups/noticia/trampay-lanca-fundo-de-r-250-mi-para-emprestar-a-entregadores.ghtml"&gt;Trampay lança fundo de R$ 250 mi para emprestar a entregadores&lt;/a&gt; (Pipeline/Valor)&lt;br/&gt;
+- &lt;a href="https://crescimentocomposto.com.br/giro/giro-da-semana-13-11-2026/"&gt;Giro da semana: earn-out e Clara&lt;/a&gt; (resumo de reportagens do Startups)&lt;/p&gt;
+&lt;p&gt;### Global&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/exclusiveinvestors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead-5026644"&gt;Exclusive: Investors flock to Anthropic IPO but question durability of AI lead&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/"&gt;Startup Funding News, November 13, 2026: Q-CTRL, Databento, Kindo, Orakl&lt;/a&gt; (Tech Startups)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"&gt;Musk says Nvidia will lose &amp;#x27;critical&amp;#x27; deals without Jensen Huang&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://exame.com/mundo/china-acusa-eua-de-usar-caso-de-ceo-da-nvidia-para-bloquear-tecnologia/"&gt;China acusa EUA de usar caso de CEO da Nvidia para bloquear tecnologia&lt;/a&gt; (Exame)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://exame.com/inteligencia-artificial/centauro-coloca-900-agentes-de-ia-para-trabalhar-e-resolve-60-dos-chamados-sem-humanos/"&gt;Centauro coloca 900 agentes de IA para trabalhar e resolve 60% dos chamados sem humanos&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://estrategiasenegocios.com.br/2026/11/10/riachuelo-agentica-conceito/"&gt;Riachuelo amplia experiência do cliente com IA agêntica&lt;/a&gt; (Estratégias &amp;amp; Negócios)&lt;br/&gt;
+- &lt;a href="https://www.sicoob.com.br/web/sicoobsanta/noticias/-/asset_publisher/xAioIawpOI5S/content/id/325742018"&gt;Sicoob lança Sebah, agente de IA para operações de TI&lt;/a&gt; (Sicoob)&lt;br/&gt;
+- &lt;a href="https://decagon.ai/blog/hertz-opens-a-direct-line-to-muse-with-decagons-personal-agent-gateway"&gt;Hertz opens a direct line to Muse with Decagon&amp;#x27;s Personal Agent Gateway&lt;/a&gt; (Decagon)&lt;br/&gt;
+- &lt;a href="https://a16z.com/welcome-to-the-b2a-economy/"&gt;Welcome to the B2A economy&lt;/a&gt; (a16z, via the news)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"&gt;AI risks are the biggest threat to the financial system, Fed survey finds&lt;/a&gt; (CNBC)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/globoplay-passa-a-comercializar-publicidade-do-disney"&gt;Globoplay e Disney+ passam a comercializar publicidade em conjunto&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/14/meta-acoes-tse-eleicoes-presidenciais-2026.ghtml"&gt;Meta é alvo de 11 ações no TSE relacionadas à eleição presidencial&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/italy-meta-android-facebook-feature-9b3073c52464d5cd0e8facbc57285194"&gt;Meta fined $887 million in Italy over Android gallery photos&lt;/a&gt; (AP) · &lt;a href="https://www.dw.com/en/italy-slaps-meta-with-805mn-fine-over-access-to-android-photos/a-79949032"&gt;DW&lt;/a&gt;&lt;br/&gt;
+- &lt;a href="https://www.inc.com/chloe-aiello/microsoft-outage-cost-confusion-an-opening-for-criminals-and-7-billion-in-lost-productivity/91436447"&gt;Microsoft outage cost: $7 billion in lost productivity&lt;/a&gt; (Inc.)&lt;br/&gt;
+- &lt;a href="https://news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law"&gt;NetChoice sues New York over social media warning label law&lt;/a&gt; (Bloomberg Law)&lt;br/&gt;
+- &lt;a href="https://www.bloomberglinea.com.br/tech/motorola-nomeia-amar-babu-da-lenovo-como-ceo-global-apos-saida-de-sergio-buniac/"&gt;Motorola nomeia Amar Babu como CEO global&lt;/a&gt; (Bloomberg Línea)&lt;/p&gt;
+&lt;p&gt;Roteiro produzido com apoio de IA a partir de fontes abertas; narração sintética (Google Chirp 3 HD).&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-15/entreouvido-por-ai-2026-11-15.mp3" length="44201107" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 15 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Lula encerra a viagem à Ásia com o ajuste fiscal, a sucessão no Banco do Brasil e a disputa do Centrão por ministérios na fila. O Tesouro Nacional tira sistemas do ar após ataque hacker. Zelensky diz que os EUA levantaram trocar o Donbas pela entrada na Otan, e Trump e Putin tentam um encontro a três com Xi na Apec. O venture capital brasileiro tem o pior mês em 13 meses, e o IPO da Anthropic chega a seis vezes de demanda. Em IA, a Centauro coloca 900 agentes para trabalhar. Em mídia, o Globoplay passa a vender publicidade do Disney+.
+
+## Política, geopolítica e economia
+
+### Nacional
+- Medidas fiscais ficam para depois de 15 de novembro, diz Durigan (https://acaonabolsa.com.br/noticia/627-medidas-fiscais-ficam-para-depois-de-15-de-novembro-diz-durigan) (Ação na Bolsa)
+- Ministro diz que governo adotará novas medidas fiscais se necessário (https://www1.folha.uol.com.br/mercado/2026/11/ministro-diz-que-governo-adotara-novas-medidas-fiscais-se-necessario-mas-descarta-desvincular-beneficios.shtml) (Folha)
+- Cúpula do PT decide apoiar ajuste fiscal e elege Banco Central o culpado por crise (https://www.infomoney.com.br/mercados/cupula-do-pt-decide-apoiar-ajuste-fiscal-e-elege-banco-central-o-culpado-por-crise/) (InfoMoney/Estadão)
+- Centrão pede ministérios com maior orçamento, enquanto governo busca mais poder sobre emendas (https://oglobo.globo.com/politica/noticia/2026/11/15/centrao-pede-ministerios-com-maior-orcamento-enquanto-governo-busca-mais-poder-sobre-emendas-parlamentares.ghtml) (O Globo)
+- Centrão exige mais ministérios no governo Lula 4 (https://www1.folha.uol.com.br/poder/2026/11/centrao-exige-mais-ministerios-no-governo-lula-4-em-troca-de-cobranca-por-mais-fidelidade-no-congresso.shtml) (Folha)
+- Balanço frustrante aumenta pressão por troca de Tarciana Medeiros no BB (https://valor.globo.com/financas/noticia/2026/11/12/balanco-frustrante-aumenta-pressao-por-troca-de-tarciana-medeiros-na-presidencia-do-bb-dizem-fontes.ghtml) (Valor)
+- Banco do Brasil: ações estendem queda após tombo no lucro (https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/13/banco-do-brasil-bbas3-acoes-estendem-queda-apos-tombo-no-lucro.ghtml) (Valor Investe)
+- Tesouro Nacional derruba sistemas após ataque que roubou dados de beneficiários (https://www1.folha.uol.com.br/mercado/2026/11/tesouro-nacional-derruba-sistemas-apos-ataque-que-roubou-dados-de-beneficiarios-do-governo.shtml) (Folha)
+- Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2 (https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml) (g1)
+- Fachin defende indicação de uma mulher negra para o STF (https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml) (g1)
+- Cosan anuncia saída do CEO Marcelo Martins e nomeia Guilherme Penin como interino (https://www.infomoney.com.br/mercados/cosan-anuncia-saida-do-ceo-marcelo-martins-e-nomeia-guilherme-penin-como-interino/) (InfoMoney; pauta do Brazil Journal)
+
+### Internacional
+- US floated idea of Ukraine swapping land for NATO, Zelensky says (https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl) (CNN)
+- US has floated Ukraine ceding Donbas for Nato membership (https://www.bbc.com/news/articles/cwvg2l312ylqo) (BBC)
+- Russia seeks NATO pullback (https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/) (Washington Post)
+- A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting (https://www.reuters.com/5f374b32b07b/world/china/new-yalta-trump-putin-push-meeting-that-xi-is-wary-hosting-2026-11-14/) (Reuters)
+- After midterm sweep, Democrats split over Trump, cost-cutting agenda (https://www.reuters.com/3fec1b0a85a0/world/us/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda-2026-11-14/) (Reuters)
+- Ground stop followed contractor upgrade to L3Harris telecom system (https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html) (CNBC)
+- US air travel disruptions to persist until late on Sunday (https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/thousands-us-flights-canceled-delayed-air-travel-system-recovers-shutdown-2026-11-14/) (Reuters)
+- Starship Flight 15 (https://www.spacex.com/launches/starship-flight-15/) (SpaceX) · CNBC (https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html)
+- COP31 Bulletin Day 6 (https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/) (Climate Home News)
+- Lula na abertura da Cúpula da ASEAN (https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/11/201cnavegar-juntos-implica-escolher-a-rota-do-desenvolvimento-sustentavel-e-da-reducao-das-desigualdades201d-diz-lula-na-abertura-da-cupula-da-asean) (Planalto)
+
+## VC e startups
+
+### Brasil
+- Rodadas da semana: outubro foi o mês mais fraco para venture capital brasileiro no ano (https://www.bloomberglinea.com.br/startups/rodadas-da-semana-outubro-foi-o-mes-mais-fraco-para-venture-capital-brasileiro-no-ano/) (Bloomberg Línea) — Sling Hub, Finaya/Crescera
+- Trampay lança fundo de R$ 250 mi para emprestar a entregadores (https://pipelinevalor.globo.com/startups/noticia/trampay-lanca-fundo-de-r-250-mi-para-emprestar-a-entregadores.ghtml) (Pipeline/Valor)
+- Giro da semana: earn-out e Clara (https://crescimentocomposto.com.br/giro/giro-da-semana-13-11-2026/) (resumo de reportagens do Startups)
+
+### Global
+- Exclusive: Investors flock to Anthropic IPO but question durability of AI lead (https://www.investing.com/news/stock-market-news/exclusiveinvestors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead-5026644) (Reuters)
+- Startup Funding News, November 13, 2026: Q-CTRL, Databento, Kindo, Orakl (https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/) (Tech Startups)
+- Musk says Nvidia will lose 'critical' deals without Jensen Huang (https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369) (Reuters)
+- China acusa EUA de usar caso de CEO da Nvidia para bloquear tecnologia (https://exame.com/mundo/china-acusa-eua-de-usar-caso-de-ceo-da-nvidia-para-bloquear-tecnologia/) (Exame)
+
+## Inteligência artificial
+- Centauro coloca 900 agentes de IA para trabalhar e resolve 60% dos chamados sem humanos (https://exame.com/inteligencia-artificial/centauro-coloca-900-agentes-de-ia-para-trabalhar-e-resolve-60-dos-chamados-sem-humanos/) (Exame)
+- Riachuelo amplia experiência do cliente com IA agêntica (https://estrategiasenegocios.com.br/2026/11/10/riachuelo-agentica-conceito/) (Estratégias &amp; Negócios)
+- Sicoob lança Sebah, agente de IA para operações de TI (https://www.sicoob.com.br/web/sicoobsanta/noticias/-/asset_publisher/xAioIawpOI5S/content/id/325742018) (Sicoob)
+- Hertz opens a direct line to Muse with Decagon's Personal Agent Gateway (https://decagon.ai/blog/hertz-opens-a-direct-line-to-muse-with-decagons-personal-agent-gateway) (Decagon)
+- Welcome to the B2A economy (https://a16z.com/welcome-to-the-b2a-economy/) (a16z, via the news)
+- AI risks are the biggest threat to the financial system, Fed survey finds (https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html) (CNBC)
+
+## Mídia, software e plataformas
+- Globoplay e Disney+ passam a comercializar publicidade em conjunto (https://www.meioemensagem.com.br/midia/globoplay-passa-a-comercializar-publicidade-do-disney) (Meio &amp; Mensagem)
+- Meta é alvo de 11 ações no TSE relacionadas à eleição presidencial (https://g1.globo.com/politica/noticia/2026/11/14/meta-acoes-tse-eleicoes-presidenciais-2026.ghtml) (g1)
+- Meta fined $887 million in Italy over Android gallery photos (https://apnews.com/article/italy-meta-android-facebook-feature-9b3073c52464d5cd0e8facbc57285194) (AP) · DW (https://www.dw.com/en/italy-slaps-meta-with-805mn-fine-over-access-to-android-photos/a-79949032)
+- Microsoft outage cost: $7 billion in lost productivity (https://www.inc.com/chloe-aiello/microsoft-outage-cost-confusion-an-opening-for-criminals-and-7-billion-in-lost-productivity/91436447) (Inc.)
+- NetChoice sues New York over social media warning label law (https://news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law) (Bloomberg Law)
+- Motorola nomeia Amar Babu como CEO global (https://www.bloomberglinea.com.br/tech/motorola-nomeia-amar-babu-da-lenovo-como-ceo-global-apos-saida-de-sergio-buniac/) (Bloomberg Línea)
+
+Roteiro produzido com apoio de IA a partir de fontes abertas; narração sintética (Google Chirp 3 HD).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>30:42</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 14 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
