@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Nov 2026 08:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:28:33 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,125 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 16 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-16:entreouvido-por-ai/ep-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Lula volta ao Brasil para montar o quarto governo, o Senado vota os destaques do ajuste fiscal e Fux zera o placar da escala 6x1 no STF. O Irã volta a atacar o Bahrein com drones, e Trump, Putin e Xi marcam encontro inédito para quinta em Shenzhen. É a semana do IPO da Anthropic. A Nvidia chega ao balanço sem Jensen Huang, com Scott Bessent pedindo um CEO de fora e um abaixo-assinado pela volta do fundador. Em IA, o primeiro colocado de um exame na Coreia do Sul confessa que colou com inteligência artificial.
+
+## Política, geopolítica e economia
+- Lula volta da viagem e retoma montagem do quarto governo; Ministério da Segurança Pública no desenho (https://www.cnnbrasil.com.br/politica/lula-volta-ao-brasil-e-deve-retomar-negociacoes-para-novo-governo/) (CNN Brasil)
+- Senado vota em 17/11 os quatro destaques do PLP 299; Marinho fala em calote (https://distritonews.com/politica/senado-destaques-ajuste-fiscal-plp-299-kandir-compensacao-17-novembro-2026) (DistritoNews / Agência Senado)
+- Fux pede destaque e julgamento da liminar da 6x1 recomeça no plenário físico; governo prepara decreto (https://www.cnnbrasil.com.br/politica/fux-interrompe-julgamento-sobre-fim-da-escala-6x1-e-leva-caso-ao-plenario/) (CNN Brasil)
+- Gustavo Franco e Bichara: IVA acima de 30% e inflação já em 2027 (https://braziljournal.com/opiniao-ao-vencedor-as-aliquotas-ao-contribuinte-a-inflacao) (Brazil Journal)
+- Tesouro prevê sistemas normalizados na manhã de 16/11 (https://www.gov.br/tesouronacional/pt-br/noticias/comunicado-sobre-sistemas-do-tesouro-nacional) (Tesouro Nacional)
+- Irã ataca o Bahrein com drones pela segunda vez em três dias (https://g1.globo.com/mundo/noticia/2026/11/15/ira-ataca-bahrein.ghtml) (g1 / France Presse)
+- Trump, Putin e Xi se reúnem em 19/11 em Shenzhen (https://g1.globo.com/mundo/noticia/2026/11/15/encontro-trump-putin-xi-jinping-china-russia-eua.ghtml) (g1 / France Presse)
+- Ucrânia ataca polo petroquímico de Nijnekamsk, no Tartaristão (https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/) (Kyiv Independent)
+- Avião da Copa e cargueiro da UPS se tocam em pista de Miami (https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/) (CBS News Miami)
+- COP31 entra na semana final com ministros; rascunho da decisão no início da semana (https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443) (Hurriyet Daily News)
+- Bolsas asiáticas caem com temor sobre a Nvidia; Kospi -3,6% (https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7) (AP)
+
+## VC e startups
+- KPMG: VC no Brasil cresce 56% no 3º tri, a US$ 609 mi; mundo cai 28,5% (https://valor.globo.com/financas/noticia/2026/11/10/investimento-em-startups-cresce-56-pontos-percentuais-no-brasil-na-contramo-da-queda-mundial.ghtml) (Valor Econômico)
+- HRtechs captam R$ 334 mi até outubro, segundo Liga Ventures e iFood (https://tiinside.com.br/13/11/2026/hrtechs-captam-r334-milhoes-em-10-meses/) (TI Inside)
+- Buser entra na venda de passagens aéreas e negocia cinco viações (https://exame.com/insight/buser-entra-na-venda-de-passagens-aereas-e-negocia-compra-de-cinco-viacoes/p) (Exame)
+- Semana do IPO da Anthropic: dúvidas de investidores e projeções de receita (https://www.calcalistech.com/ctechnews/article/6reux2chn) (Calcalist (Reuters))
+- 349 rodadas e US$ 26,5 bi na semana; Bharat Semi capta US$ 24 mi (https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/) (TechCrunch)
+
+## Inteligência artificial
+- Primeiro colocado em exame tributário na Coreia confessa cola com IA (https://www.koreaherald.com/article/10937594) (The Korea Herald)
+- Fleury, PicPay, Record TV e Vinci Compass mostram ganhos com agentes de IA (https://www.xataka.com.br/diversos/agentes-ia-nas-empresas-onde-eles-ja-economizam-tempo-no-brasil) (Xataka Brasil)
+- Google lança Gemini 4 Hydrogen como modelo padrão no app e na busca (https://ivoka.ai/en/noticias/nota-2026-11-15-gemini-4-hydrogen-el-nuevo-modelo-de-diario-de-google-llega-a-la-app-y-a-search) (Ivoka (citando Google e VentureBeat))
+- NYT: Nvidia, TSMC e ASML como pontos de estrangulamento da IA (https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html) (The New York Times (The World))
+- Primeiro AI Music Awards premia Xania Monet (https://www.investing.com/news/world-news/new-awards-show-celebrates-ai-music-and-its-creators-5027247) (Reuters)
+
+## Mídia, software e plataformas
+- Bessent pede CEO de fora na Nvidia e prazo de 10 dias; abaixo-assinado pela volta de Huang passa de 160 mil (https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html) (CNBC)
+- Mercado Ads lança Video Catalog Ads com IA antes da Black Friday (https://www.meioemensagem.com.br/marketing/mercado-ads-estreia-anuncios-em-video-no-mercado-livre) (Meio &amp; Mensagem)
+- A virada da Barnes &amp; Noble e o contraste com as livrarias brasileiras (https://thenewscc.beehiiv.com/p/sundays-edition-15-11) (the news)
+- Binance quer reabrir todos os saques até o fim da semana (https://www.investing.com/news/company-news/binance-aims-to-restore-all-withdrawals-next-week-after-63-billion-hack-5027266) (Investing.com)
+- Wingtech vai recorrer de decisão holandesa no caso Nexperia (https://www.thestandard.com.hk/finance/article/348569/Wingtech-says-it-will-appeal-Dutch-courts-order-in-Nexperia-dispute) (The Standard (Reuters))
+
+Newsletters do dia: Brazil Journal, the news, Reuters Technology Roundup, The New York Times (The World, The Morning).</description>
+      <content:encoded>&lt;p&gt;Lula volta ao Brasil para montar o quarto governo, o Senado vota os destaques do ajuste fiscal e Fux zera o placar da escala 6x1 no STF. O Irã volta a atacar o Bahrein com drones, e Trump, Putin e Xi marcam encontro inédito para quinta em Shenzhen. É a semana do IPO da Anthropic. A Nvidia chega ao balanço sem Jensen Huang, com Scott Bessent pedindo um CEO de fora e um abaixo-assinado pela volta do fundador. Em IA, o primeiro colocado de um exame na Coreia do Sul confessa que colou com inteligência artificial.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/politica/lula-volta-ao-brasil-e-deve-retomar-negociacoes-para-novo-governo/"&gt;Lula volta da viagem e retoma montagem do quarto governo; Ministério da Segurança Pública no desenho&lt;/a&gt; (CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://distritonews.com/politica/senado-destaques-ajuste-fiscal-plp-299-kandir-compensacao-17-novembro-2026"&gt;Senado vota em 17/11 os quatro destaques do PLP 299; Marinho fala em calote&lt;/a&gt; (DistritoNews / Agência Senado)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/politica/fux-interrompe-julgamento-sobre-fim-da-escala-6x1-e-leva-caso-ao-plenario/"&gt;Fux pede destaque e julgamento da liminar da 6x1 recomeça no plenário físico; governo prepara decreto&lt;/a&gt; (CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/opiniao-ao-vencedor-as-aliquotas-ao-contribuinte-a-inflacao"&gt;Gustavo Franco e Bichara: IVA acima de 30% e inflação já em 2027&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.gov.br/tesouronacional/pt-br/noticias/comunicado-sobre-sistemas-do-tesouro-nacional"&gt;Tesouro prevê sistemas normalizados na manhã de 16/11&lt;/a&gt; (Tesouro Nacional)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/mundo/noticia/2026/11/15/ira-ataca-bahrein.ghtml"&gt;Irã ataca o Bahrein com drones pela segunda vez em três dias&lt;/a&gt; (g1 / France Presse)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/mundo/noticia/2026/11/15/encontro-trump-putin-xi-jinping-china-russia-eua.ghtml"&gt;Trump, Putin e Xi se reúnem em 19/11 em Shenzhen&lt;/a&gt; (g1 / France Presse)&lt;br/&gt;
+- &lt;a href="https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/"&gt;Ucrânia ataca polo petroquímico de Nijnekamsk, no Tartaristão&lt;/a&gt; (Kyiv Independent)&lt;br/&gt;
+- &lt;a href="https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/"&gt;Avião da Copa e cargueiro da UPS se tocam em pista de Miami&lt;/a&gt; (CBS News Miami)&lt;br/&gt;
+- &lt;a href="https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"&gt;COP31 entra na semana final com ministros; rascunho da decisão no início da semana&lt;/a&gt; (Hurriyet Daily News)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7"&gt;Bolsas asiáticas caem com temor sobre a Nvidia; Kospi -3,6%&lt;/a&gt; (AP)&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/financas/noticia/2026/11/10/investimento-em-startups-cresce-56-pontos-percentuais-no-brasil-na-contramo-da-queda-mundial.ghtml"&gt;KPMG: VC no Brasil cresce 56% no 3º tri, a US$ 609 mi; mundo cai 28,5%&lt;/a&gt; (Valor Econômico)&lt;br/&gt;
+- &lt;a href="https://tiinside.com.br/13/11/2026/hrtechs-captam-r334-milhoes-em-10-meses/"&gt;HRtechs captam R$ 334 mi até outubro, segundo Liga Ventures e iFood&lt;/a&gt; (TI Inside)&lt;br/&gt;
+- &lt;a href="https://exame.com/insight/buser-entra-na-venda-de-passagens-aereas-e-negocia-compra-de-cinco-viacoes/p"&gt;Buser entra na venda de passagens aéreas e negocia cinco viações&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://www.calcalistech.com/ctechnews/article/6reux2chn"&gt;Semana do IPO da Anthropic: dúvidas de investidores e projeções de receita&lt;/a&gt; (Calcalist (Reuters))&lt;br/&gt;
+- &lt;a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"&gt;349 rodadas e US$ 26,5 bi na semana; Bharat Semi capta US$ 24 mi&lt;/a&gt; (TechCrunch)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://www.koreaherald.com/article/10937594"&gt;Primeiro colocado em exame tributário na Coreia confessa cola com IA&lt;/a&gt; (The Korea Herald)&lt;br/&gt;
+- &lt;a href="https://www.xataka.com.br/diversos/agentes-ia-nas-empresas-onde-eles-ja-economizam-tempo-no-brasil"&gt;Fleury, PicPay, Record TV e Vinci Compass mostram ganhos com agentes de IA&lt;/a&gt; (Xataka Brasil)&lt;br/&gt;
+- &lt;a href="https://ivoka.ai/en/noticias/nota-2026-11-15-gemini-4-hydrogen-el-nuevo-modelo-de-diario-de-google-llega-a-la-app-y-a-search"&gt;Google lança Gemini 4 Hydrogen como modelo padrão no app e na busca&lt;/a&gt; (Ivoka (citando Google e VentureBeat))&lt;br/&gt;
+- &lt;a href="https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html"&gt;NYT: Nvidia, TSMC e ASML como pontos de estrangulamento da IA&lt;/a&gt; (The New York Times (The World))&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/world-news/new-awards-show-celebrates-ai-music-and-its-creators-5027247"&gt;Primeiro AI Music Awards premia Xania Monet&lt;/a&gt; (Reuters)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"&gt;Bessent pede CEO de fora na Nvidia e prazo de 10 dias; abaixo-assinado pela volta de Huang passa de 160 mil&lt;/a&gt; (CNBC)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/marketing/mercado-ads-estreia-anuncios-em-video-no-mercado-livre"&gt;Mercado Ads lança Video Catalog Ads com IA antes da Black Friday&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://thenewscc.beehiiv.com/p/sundays-edition-15-11"&gt;A virada da Barnes &amp;amp; Noble e o contraste com as livrarias brasileiras&lt;/a&gt; (the news)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/company-news/binance-aims-to-restore-all-withdrawals-next-week-after-63-billion-hack-5027266"&gt;Binance quer reabrir todos os saques até o fim da semana&lt;/a&gt; (Investing.com)&lt;br/&gt;
+- &lt;a href="https://www.thestandard.com.hk/finance/article/348569/Wingtech-says-it-will-appeal-Dutch-courts-order-in-Nexperia-dispute"&gt;Wingtech vai recorrer de decisão holandesa no caso Nexperia&lt;/a&gt; (The Standard (Reuters))&lt;/p&gt;
+&lt;p&gt;Newsletters do dia: Brazil Journal, the news, Reuters Technology Roundup, The New York Times (The World, The Morning).&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-16/entreouvido-por-ai-2026-11-16.mp3" length="44559089" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 16 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Lula volta ao Brasil para montar o quarto governo, o Senado vota os destaques do ajuste fiscal e Fux zera o placar da escala 6x1 no STF. O Irã volta a atacar o Bahrein com drones, e Trump, Putin e Xi marcam encontro inédito para quinta em Shenzhen. É a semana do IPO da Anthropic. A Nvidia chega ao balanço sem Jensen Huang, com Scott Bessent pedindo um CEO de fora e um abaixo-assinado pela volta do fundador. Em IA, o primeiro colocado de um exame na Coreia do Sul confessa que colou com inteligência artificial.
+
+## Política, geopolítica e economia
+- Lula volta da viagem e retoma montagem do quarto governo; Ministério da Segurança Pública no desenho (https://www.cnnbrasil.com.br/politica/lula-volta-ao-brasil-e-deve-retomar-negociacoes-para-novo-governo/) (CNN Brasil)
+- Senado vota em 17/11 os quatro destaques do PLP 299; Marinho fala em calote (https://distritonews.com/politica/senado-destaques-ajuste-fiscal-plp-299-kandir-compensacao-17-novembro-2026) (DistritoNews / Agência Senado)
+- Fux pede destaque e julgamento da liminar da 6x1 recomeça no plenário físico; governo prepara decreto (https://www.cnnbrasil.com.br/politica/fux-interrompe-julgamento-sobre-fim-da-escala-6x1-e-leva-caso-ao-plenario/) (CNN Brasil)
+- Gustavo Franco e Bichara: IVA acima de 30% e inflação já em 2027 (https://braziljournal.com/opiniao-ao-vencedor-as-aliquotas-ao-contribuinte-a-inflacao) (Brazil Journal)
+- Tesouro prevê sistemas normalizados na manhã de 16/11 (https://www.gov.br/tesouronacional/pt-br/noticias/comunicado-sobre-sistemas-do-tesouro-nacional) (Tesouro Nacional)
+- Irã ataca o Bahrein com drones pela segunda vez em três dias (https://g1.globo.com/mundo/noticia/2026/11/15/ira-ataca-bahrein.ghtml) (g1 / France Presse)
+- Trump, Putin e Xi se reúnem em 19/11 em Shenzhen (https://g1.globo.com/mundo/noticia/2026/11/15/encontro-trump-putin-xi-jinping-china-russia-eua.ghtml) (g1 / France Presse)
+- Ucrânia ataca polo petroquímico de Nijnekamsk, no Tartaristão (https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/) (Kyiv Independent)
+- Avião da Copa e cargueiro da UPS se tocam em pista de Miami (https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/) (CBS News Miami)
+- COP31 entra na semana final com ministros; rascunho da decisão no início da semana (https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443) (Hurriyet Daily News)
+- Bolsas asiáticas caem com temor sobre a Nvidia; Kospi -3,6% (https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7) (AP)
+
+## VC e startups
+- KPMG: VC no Brasil cresce 56% no 3º tri, a US$ 609 mi; mundo cai 28,5% (https://valor.globo.com/financas/noticia/2026/11/10/investimento-em-startups-cresce-56-pontos-percentuais-no-brasil-na-contramo-da-queda-mundial.ghtml) (Valor Econômico)
+- HRtechs captam R$ 334 mi até outubro, segundo Liga Ventures e iFood (https://tiinside.com.br/13/11/2026/hrtechs-captam-r334-milhoes-em-10-meses/) (TI Inside)
+- Buser entra na venda de passagens aéreas e negocia cinco viações (https://exame.com/insight/buser-entra-na-venda-de-passagens-aereas-e-negocia-compra-de-cinco-viacoes/p) (Exame)
+- Semana do IPO da Anthropic: dúvidas de investidores e projeções de receita (https://www.calcalistech.com/ctechnews/article/6reux2chn) (Calcalist (Reuters))
+- 349 rodadas e US$ 26,5 bi na semana; Bharat Semi capta US$ 24 mi (https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/) (TechCrunch)
+
+## Inteligência artificial
+- Primeiro colocado em exame tributário na Coreia confessa cola com IA (https://www.koreaherald.com/article/10937594) (The Korea Herald)
+- Fleury, PicPay, Record TV e Vinci Compass mostram ganhos com agentes de IA (https://www.xataka.com.br/diversos/agentes-ia-nas-empresas-onde-eles-ja-economizam-tempo-no-brasil) (Xataka Brasil)
+- Google lança Gemini 4 Hydrogen como modelo padrão no app e na busca (https://ivoka.ai/en/noticias/nota-2026-11-15-gemini-4-hydrogen-el-nuevo-modelo-de-diario-de-google-llega-a-la-app-y-a-search) (Ivoka (citando Google e VentureBeat))
+- NYT: Nvidia, TSMC e ASML como pontos de estrangulamento da IA (https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html) (The New York Times (The World))
+- Primeiro AI Music Awards premia Xania Monet (https://www.investing.com/news/world-news/new-awards-show-celebrates-ai-music-and-its-creators-5027247) (Reuters)
+
+## Mídia, software e plataformas
+- Bessent pede CEO de fora na Nvidia e prazo de 10 dias; abaixo-assinado pela volta de Huang passa de 160 mil (https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html) (CNBC)
+- Mercado Ads lança Video Catalog Ads com IA antes da Black Friday (https://www.meioemensagem.com.br/marketing/mercado-ads-estreia-anuncios-em-video-no-mercado-livre) (Meio &amp; Mensagem)
+- A virada da Barnes &amp; Noble e o contraste com as livrarias brasileiras (https://thenewscc.beehiiv.com/p/sundays-edition-15-11) (the news)
+- Binance quer reabrir todos os saques até o fim da semana (https://www.investing.com/news/company-news/binance-aims-to-restore-all-withdrawals-next-week-after-63-billion-hack-5027266) (Investing.com)
+- Wingtech vai recorrer de decisão holandesa no caso Nexperia (https://www.thestandard.com.hk/finance/article/348569/Wingtech-says-it-will-appeal-Dutch-courts-order-in-Nexperia-dispute) (The Standard (Reuters))
+
+Newsletters do dia: Brazil Journal, the news, Reuters Technology Roundup, The New York Times (The World, The Morning).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>30:57</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 15 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
