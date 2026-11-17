@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Nov 2026 08:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:10:45 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,137 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 17 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-17:entreouvido-por-ai/ep-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
+      <description>O dólar vai a R$ 5,77, maior nível desde abril de 2025, e o Senado conclui hoje a votação do ajuste fiscal. Lula quer alinhar com Alcolumbre a indicação ao STF, e Moraes barra visitas políticas a Bolsonaro. Os EUA fecham a brecha de acesso remoto a chips de IA e põem o Brasil entre os países que vão precisar de licença; Trump chega à Ásia para a cúpula com Xi e Putin. Nomad capta R$ 172 milhões com a Tether e Nova levanta US$ 24 milhões. Papa John's usa IA para checar pizzas, Nubank testa agentes com clientes sintéticos, e a Nvidia divulga o primeiro balanço sem Jensen Huang. Sem as bets, o Canal Goat corta transmissões.
+
+## Política, geopolítica e economia
+- Dólar sobe 2,15% a R$ 5,7767, maior nível desde abril de 2025; Ibovespa -1,83% (https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml) (g1)
+- Senado conclui hoje votação do ajuste fiscal: quatro destaques em jogo (https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml) (g1)
+- Bancada do PT apresenta projetos para taxar super-ricos, dividendos, LCI/LCA e JCP (https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/bancada-do-pt-apresenta-projeto-para-taxar-super-ricos-e-titulos-isentos/) (CNN Brasil (via the news))
+- Lula planeja reunião com Alcolumbre antes de indicar nome ao STF (https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/lula-planeja-reuniao-com-alcolumbre-antes-de-definir-nome-para-o-stf/) (CNN Brasil)
+- Moraes nega visitas de Marinho, Tereza Cristina e Valdemar a Bolsonaro (https://www1.folha.uol.com.br/poder/2026/11/moraes-nega-visitas-de-tereza-cristina-rogerio-marinho-e-valdemar-a-bolsonaro.shtml) (Folha)
+- Andrei Rodrigues nega racha na PF após afastamento de delegados do caso Master (https://www.cnnbrasil.com.br/politica/andrei-nega-racha-interno-na-pf-apos-troca-de-delegados-do-caso-master/) (CNN Brasil)
+- XP lucra R$ 1,38 bi no 3º tri, alta de 4% (https://www.cnnbrasil.com.br/economia/money/negocios/xp-tem-lucro-de-r-138-bilhao-no-3-trimestre-alta-de-4/) (CNN Brasil / Reuters)
+- Ultrapar contrata Pedro Zinner como senior advisor para aquisições (https://braziljournal.com/o-que-pedro-zinner-vai-fazer-na-ultrapar) (Brazil Journal)
+- Compras internacionais crescem 59% em outubro sem a taxa das blusinhas (https://www.bloomberglinea.com.br/negocios/sem-taxa-das-blusinhas-compras-internacionais-crescem-59-e-somam-r-27-bi-em-outubro/) (Bloomberg Línea (via the news))
+- EUA fecham brecha de acesso remoto a chips de IA; Brasil entre os cinco países com licença obrigatória (https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988) (Reuters (via Investing.com))
+- Trump chega a Manila e segue para Shenzhen; cúpula a três com Xi e Putin na quinta (https://apnews.com/article/trump-china-manila-xi-putin-ffc5e5a2d384f00960034ec10087502e) (AP)
+- Rússia atinge pontes de Kiev e corta aquecimento; Ucrânia volta a atacar ponte da Crimeia (https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges) (The Guardian)
+- COP31: rascunho admite 1,5°C fora de alcance e pede US$ 120 bi para adaptação (https://www.dw.com/en/a-preliminary-agreement-at-the-cop31-climate-talks-calls-for-an-immediate-shift-away-from-fossil-fuels-and-money-for-climate-change-adaption/a-79960705) (DW)
+- França proíbe fogos de artifício antes de nova greve geral (https://www.reuters.com/world/france-temporarily-bans-firework-mortars-amid-school-protests-2026-11-16/) (Reuters (via the news night))
+
+## VC e startups
+- Nomad capta R$ 172 mi liderados pela Tether e vale R$ 4 bi (https://startups.com.br/negocios/nomad-capta-r-172m-com-a-tether-e-mais-que-dobra-valuation-para-r-4b/) (Startups)
+- Nova capta US$ 24 mi com Canaan para carteira que paga Pix e boleto com cartão (https://braziljournal.com/a-rodada-da-nova-que-turbina-o-credito-conectando-cartoes-e-contas) (Brazil Journal)
+- ACE e Valetec lançam fundo de até R$ 500 mi para secundárias em startups (https://startups.com.br/negocios/ace-e-valetec-lancam-fundo-de-ate-r-500m-para-comprar-fatias-de-socios-de-startups/) (Startups)
+- Livro do IPO da Anthropic fecha hoje com demanda perto de 7 vezes; preço na quarta (https://thenextweb.com/news/anthropic-ipo-orders-seven-times-spacex-pricing-week) (The Next Web (Bloomberg))
+- Applied Compute US$ 350 mi a US$ 3,25 bi; Corma vira unicórnio em ~3 meses; Noeri US$ 110 mi (https://crosswalk.to/crosswalk/deals/2026-11-16) (Crosswalk / TechCrunch)
+
+## Inteligência artificial
+- Papa John's usa fotos de clientes para checar qualidade da pizza com IA (https://econotimes.com/Papa-John-s-Weighs-Customer-Photos-for-Broader-AI-Quality-Checks-1777634) (EconoTimes (citando Reuters))
+- M. Dias Branco: agente Manu Insights corta análises de 7 dias para 20 minutos (https://cadernodeia.com.br/casos/m-dias-branco-agente-de-ia-manu-insights-faz-analises-de-revenue-management-em-20-minutos/) (Caderno de IA (relato da empresa))
+- Nubank testa agentes com clientes sintéticos e reduz ciclo de 21,2 para 4,4 dias (https://nu.com/pt/sala-de-imprensa/companhia/nubank-reduz-de-tres-semanas-para-menos-de-cinco-dias-o-ciclo-de-atualizacao-de-agentes-de-ia-ao-testa-los-primeiro-com-clientes-sinteticos) (Nubank (sala de imprensa))
+- Europa busca alternativas à Palantir para IA militar (https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/) (Reuters (via Defense News))
+- Data centers de hiperescala dos EUA emitem o equivalente à Dinamarca (https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study) (The Guardian)
+
+## Mídia, software e plataformas
+- Nvidia divulga hoje o primeiro balanço sem Jensen Huang; Trump diz que 'não se importaria' com a volta (https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html) (CNBC)
+- Pane na United e bug no Chase reacendem dúvida sobre infraestrutura digital nos EUA (https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff) (AP)
+- Sem as bets, Canal Goat interrompe transmissões e demite cerca de 40 (https://www.meioemensagem.com.br/midia/sem-as-bets-goat-interrompe-transmissoes-esportivas) (Meio &amp; Mensagem)
+- Canal Rural, da JBS, faz 30 anos e adota feed vertical no site (https://www.meioemensagem.com.br/midia/canal-rural-faz-guinada-ao-mobile-para-refletir-o-agro) (Meio &amp; Mensagem)
+- Amazon MGM escolhe Robert Pattinson como novo 007 (https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) (Amazon)
+- Millicom compra a Entel Peru por US$ 1,7 bi (https://www.telecompaper.com/) (Telecompaper (newsletter))
+
+Newsletters do dia: Brazil Journal, the news / the news night, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening), Telecompaper. Sem edição do tns business nos últimos 3 dias.</description>
+      <content:encoded>&lt;p&gt;O dólar vai a R$ 5,77, maior nível desde abril de 2025, e o Senado conclui hoje a votação do ajuste fiscal. Lula quer alinhar com Alcolumbre a indicação ao STF, e Moraes barra visitas políticas a Bolsonaro. Os EUA fecham a brecha de acesso remoto a chips de IA e põem o Brasil entre os países que vão precisar de licença; Trump chega à Ásia para a cúpula com Xi e Putin. Nomad capta R$ 172 milhões com a Tether e Nova levanta US$ 24 milhões. Papa John&amp;#x27;s usa IA para checar pizzas, Nubank testa agentes com clientes sintéticos, e a Nvidia divulga o primeiro balanço sem Jensen Huang. Sem as bets, o Canal Goat corta transmissões.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml"&gt;Dólar sobe 2,15% a R$ 5,7767, maior nível desde abril de 2025; Ibovespa -1,83%&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml"&gt;Senado conclui hoje votação do ajuste fiscal: quatro destaques em jogo&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/bancada-do-pt-apresenta-projeto-para-taxar-super-ricos-e-titulos-isentos/"&gt;Bancada do PT apresenta projetos para taxar super-ricos, dividendos, LCI/LCA e JCP&lt;/a&gt; (CNN Brasil (via the news))&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/lula-planeja-reuniao-com-alcolumbre-antes-de-definir-nome-para-o-stf/"&gt;Lula planeja reunião com Alcolumbre antes de indicar nome ao STF&lt;/a&gt; (CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/poder/2026/11/moraes-nega-visitas-de-tereza-cristina-rogerio-marinho-e-valdemar-a-bolsonaro.shtml"&gt;Moraes nega visitas de Marinho, Tereza Cristina e Valdemar a Bolsonaro&lt;/a&gt; (Folha)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/politica/andrei-nega-racha-interno-na-pf-apos-troca-de-delegados-do-caso-master/"&gt;Andrei Rodrigues nega racha na PF após afastamento de delegados do caso Master&lt;/a&gt; (CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/economia/money/negocios/xp-tem-lucro-de-r-138-bilhao-no-3-trimestre-alta-de-4/"&gt;XP lucra R$ 1,38 bi no 3º tri, alta de 4%&lt;/a&gt; (CNN Brasil / Reuters)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/o-que-pedro-zinner-vai-fazer-na-ultrapar"&gt;Ultrapar contrata Pedro Zinner como senior advisor para aquisições&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.bloomberglinea.com.br/negocios/sem-taxa-das-blusinhas-compras-internacionais-crescem-59-e-somam-r-27-bi-em-outubro/"&gt;Compras internacionais crescem 59% em outubro sem a taxa das blusinhas&lt;/a&gt; (Bloomberg Línea (via the news))&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988"&gt;EUA fecham brecha de acesso remoto a chips de IA; Brasil entre os cinco países com licença obrigatória&lt;/a&gt; (Reuters (via Investing.com))&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/trump-china-manila-xi-putin-ffc5e5a2d384f00960034ec10087502e"&gt;Trump chega a Manila e segue para Shenzhen; cúpula a três com Xi e Putin na quinta&lt;/a&gt; (AP)&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges"&gt;Rússia atinge pontes de Kiev e corta aquecimento; Ucrânia volta a atacar ponte da Crimeia&lt;/a&gt; (The Guardian)&lt;br/&gt;
+- &lt;a href="https://www.dw.com/en/a-preliminary-agreement-at-the-cop31-climate-talks-calls-for-an-immediate-shift-away-from-fossil-fuels-and-money-for-climate-change-adaption/a-79960705"&gt;COP31: rascunho admite 1,5°C fora de alcance e pede US$ 120 bi para adaptação&lt;/a&gt; (DW)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/world/france-temporarily-bans-firework-mortars-amid-school-protests-2026-11-16/"&gt;França proíbe fogos de artifício antes de nova greve geral&lt;/a&gt; (Reuters (via the news night))&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://startups.com.br/negocios/nomad-capta-r-172m-com-a-tether-e-mais-que-dobra-valuation-para-r-4b/"&gt;Nomad capta R$ 172 mi liderados pela Tether e vale R$ 4 bi&lt;/a&gt; (Startups)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/a-rodada-da-nova-que-turbina-o-credito-conectando-cartoes-e-contas"&gt;Nova capta US$ 24 mi com Canaan para carteira que paga Pix e boleto com cartão&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://startups.com.br/negocios/ace-e-valetec-lancam-fundo-de-ate-r-500m-para-comprar-fatias-de-socios-de-startups/"&gt;ACE e Valetec lançam fundo de até R$ 500 mi para secundárias em startups&lt;/a&gt; (Startups)&lt;br/&gt;
+- &lt;a href="https://thenextweb.com/news/anthropic-ipo-orders-seven-times-spacex-pricing-week"&gt;Livro do IPO da Anthropic fecha hoje com demanda perto de 7 vezes; preço na quarta&lt;/a&gt; (The Next Web (Bloomberg))&lt;br/&gt;
+- &lt;a href="https://crosswalk.to/crosswalk/deals/2026-11-16"&gt;Applied Compute US$ 350 mi a US$ 3,25 bi; Corma vira unicórnio em ~3 meses; Noeri US$ 110 mi&lt;/a&gt; (Crosswalk / TechCrunch)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://econotimes.com/Papa-John-s-Weighs-Customer-Photos-for-Broader-AI-Quality-Checks-1777634"&gt;Papa John&amp;#x27;s usa fotos de clientes para checar qualidade da pizza com IA&lt;/a&gt; (EconoTimes (citando Reuters))&lt;br/&gt;
+- &lt;a href="https://cadernodeia.com.br/casos/m-dias-branco-agente-de-ia-manu-insights-faz-analises-de-revenue-management-em-20-minutos/"&gt;M. Dias Branco: agente Manu Insights corta análises de 7 dias para 20 minutos&lt;/a&gt; (Caderno de IA (relato da empresa))&lt;br/&gt;
+- &lt;a href="https://nu.com/pt/sala-de-imprensa/companhia/nubank-reduz-de-tres-semanas-para-menos-de-cinco-dias-o-ciclo-de-atualizacao-de-agentes-de-ia-ao-testa-los-primeiro-com-clientes-sinteticos"&gt;Nubank testa agentes com clientes sintéticos e reduz ciclo de 21,2 para 4,4 dias&lt;/a&gt; (Nubank (sala de imprensa))&lt;br/&gt;
+- &lt;a href="https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/"&gt;Europa busca alternativas à Palantir para IA militar&lt;/a&gt; (Reuters (via Defense News))&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study"&gt;Data centers de hiperescala dos EUA emitem o equivalente à Dinamarca&lt;/a&gt; (The Guardian)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html"&gt;Nvidia divulga hoje o primeiro balanço sem Jensen Huang; Trump diz que &amp;#x27;não se importaria&amp;#x27; com a volta&lt;/a&gt; (CNBC)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff"&gt;Pane na United e bug no Chase reacendem dúvida sobre infraestrutura digital nos EUA&lt;/a&gt; (AP)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/sem-as-bets-goat-interrompe-transmissoes-esportivas"&gt;Sem as bets, Canal Goat interrompe transmissões e demite cerca de 40&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/canal-rural-faz-guinada-ao-mobile-para-refletir-o-agro"&gt;Canal Rural, da JBS, faz 30 anos e adota feed vertical no site&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film"&gt;Amazon MGM escolhe Robert Pattinson como novo 007&lt;/a&gt; (Amazon)&lt;br/&gt;
+- &lt;a href="https://www.telecompaper.com/"&gt;Millicom compra a Entel Peru por US$ 1,7 bi&lt;/a&gt; (Telecompaper (newsletter))&lt;/p&gt;
+&lt;p&gt;Newsletters do dia: Brazil Journal, the news / the news night, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening), Telecompaper. Sem edição do tns business nos últimos 3 dias.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-17/entreouvido-por-ai-2026-11-17.mp3" length="41529721" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 17 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>O dólar vai a R$ 5,77, maior nível desde abril de 2025, e o Senado conclui hoje a votação do ajuste fiscal. Lula quer alinhar com Alcolumbre a indicação ao STF, e Moraes barra visitas políticas a Bolsonaro. Os EUA fecham a brecha de acesso remoto a chips de IA e põem o Brasil entre os países que vão precisar de licença; Trump chega à Ásia para a cúpula com Xi e Putin. Nomad capta R$ 172 milhões com a Tether e Nova levanta US$ 24 milhões. Papa John's usa IA para checar pizzas, Nubank testa agentes com clientes sintéticos, e a Nvidia divulga o primeiro balanço sem Jensen Huang. Sem as bets, o Canal Goat corta transmissões.
+
+## Política, geopolítica e economia
+- Dólar sobe 2,15% a R$ 5,7767, maior nível desde abril de 2025; Ibovespa -1,83% (https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml) (g1)
+- Senado conclui hoje votação do ajuste fiscal: quatro destaques em jogo (https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml) (g1)
+- Bancada do PT apresenta projetos para taxar super-ricos, dividendos, LCI/LCA e JCP (https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/bancada-do-pt-apresenta-projeto-para-taxar-super-ricos-e-titulos-isentos/) (CNN Brasil (via the news))
+- Lula planeja reunião com Alcolumbre antes de indicar nome ao STF (https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/lula-planeja-reuniao-com-alcolumbre-antes-de-definir-nome-para-o-stf/) (CNN Brasil)
+- Moraes nega visitas de Marinho, Tereza Cristina e Valdemar a Bolsonaro (https://www1.folha.uol.com.br/poder/2026/11/moraes-nega-visitas-de-tereza-cristina-rogerio-marinho-e-valdemar-a-bolsonaro.shtml) (Folha)
+- Andrei Rodrigues nega racha na PF após afastamento de delegados do caso Master (https://www.cnnbrasil.com.br/politica/andrei-nega-racha-interno-na-pf-apos-troca-de-delegados-do-caso-master/) (CNN Brasil)
+- XP lucra R$ 1,38 bi no 3º tri, alta de 4% (https://www.cnnbrasil.com.br/economia/money/negocios/xp-tem-lucro-de-r-138-bilhao-no-3-trimestre-alta-de-4/) (CNN Brasil / Reuters)
+- Ultrapar contrata Pedro Zinner como senior advisor para aquisições (https://braziljournal.com/o-que-pedro-zinner-vai-fazer-na-ultrapar) (Brazil Journal)
+- Compras internacionais crescem 59% em outubro sem a taxa das blusinhas (https://www.bloomberglinea.com.br/negocios/sem-taxa-das-blusinhas-compras-internacionais-crescem-59-e-somam-r-27-bi-em-outubro/) (Bloomberg Línea (via the news))
+- EUA fecham brecha de acesso remoto a chips de IA; Brasil entre os cinco países com licença obrigatória (https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988) (Reuters (via Investing.com))
+- Trump chega a Manila e segue para Shenzhen; cúpula a três com Xi e Putin na quinta (https://apnews.com/article/trump-china-manila-xi-putin-ffc5e5a2d384f00960034ec10087502e) (AP)
+- Rússia atinge pontes de Kiev e corta aquecimento; Ucrânia volta a atacar ponte da Crimeia (https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges) (The Guardian)
+- COP31: rascunho admite 1,5°C fora de alcance e pede US$ 120 bi para adaptação (https://www.dw.com/en/a-preliminary-agreement-at-the-cop31-climate-talks-calls-for-an-immediate-shift-away-from-fossil-fuels-and-money-for-climate-change-adaption/a-79960705) (DW)
+- França proíbe fogos de artifício antes de nova greve geral (https://www.reuters.com/world/france-temporarily-bans-firework-mortars-amid-school-protests-2026-11-16/) (Reuters (via the news night))
+
+## VC e startups
+- Nomad capta R$ 172 mi liderados pela Tether e vale R$ 4 bi (https://startups.com.br/negocios/nomad-capta-r-172m-com-a-tether-e-mais-que-dobra-valuation-para-r-4b/) (Startups)
+- Nova capta US$ 24 mi com Canaan para carteira que paga Pix e boleto com cartão (https://braziljournal.com/a-rodada-da-nova-que-turbina-o-credito-conectando-cartoes-e-contas) (Brazil Journal)
+- ACE e Valetec lançam fundo de até R$ 500 mi para secundárias em startups (https://startups.com.br/negocios/ace-e-valetec-lancam-fundo-de-ate-r-500m-para-comprar-fatias-de-socios-de-startups/) (Startups)
+- Livro do IPO da Anthropic fecha hoje com demanda perto de 7 vezes; preço na quarta (https://thenextweb.com/news/anthropic-ipo-orders-seven-times-spacex-pricing-week) (The Next Web (Bloomberg))
+- Applied Compute US$ 350 mi a US$ 3,25 bi; Corma vira unicórnio em ~3 meses; Noeri US$ 110 mi (https://crosswalk.to/crosswalk/deals/2026-11-16) (Crosswalk / TechCrunch)
+
+## Inteligência artificial
+- Papa John's usa fotos de clientes para checar qualidade da pizza com IA (https://econotimes.com/Papa-John-s-Weighs-Customer-Photos-for-Broader-AI-Quality-Checks-1777634) (EconoTimes (citando Reuters))
+- M. Dias Branco: agente Manu Insights corta análises de 7 dias para 20 minutos (https://cadernodeia.com.br/casos/m-dias-branco-agente-de-ia-manu-insights-faz-analises-de-revenue-management-em-20-minutos/) (Caderno de IA (relato da empresa))
+- Nubank testa agentes com clientes sintéticos e reduz ciclo de 21,2 para 4,4 dias (https://nu.com/pt/sala-de-imprensa/companhia/nubank-reduz-de-tres-semanas-para-menos-de-cinco-dias-o-ciclo-de-atualizacao-de-agentes-de-ia-ao-testa-los-primeiro-com-clientes-sinteticos) (Nubank (sala de imprensa))
+- Europa busca alternativas à Palantir para IA militar (https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/) (Reuters (via Defense News))
+- Data centers de hiperescala dos EUA emitem o equivalente à Dinamarca (https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study) (The Guardian)
+
+## Mídia, software e plataformas
+- Nvidia divulga hoje o primeiro balanço sem Jensen Huang; Trump diz que 'não se importaria' com a volta (https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html) (CNBC)
+- Pane na United e bug no Chase reacendem dúvida sobre infraestrutura digital nos EUA (https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff) (AP)
+- Sem as bets, Canal Goat interrompe transmissões e demite cerca de 40 (https://www.meioemensagem.com.br/midia/sem-as-bets-goat-interrompe-transmissoes-esportivas) (Meio &amp; Mensagem)
+- Canal Rural, da JBS, faz 30 anos e adota feed vertical no site (https://www.meioemensagem.com.br/midia/canal-rural-faz-guinada-ao-mobile-para-refletir-o-agro) (Meio &amp; Mensagem)
+- Amazon MGM escolhe Robert Pattinson como novo 007 (https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) (Amazon)
+- Millicom compra a Entel Peru por US$ 1,7 bi (https://www.telecompaper.com/) (Telecompaper (newsletter))
+
+Newsletters do dia: Brazil Journal, the news / the news night, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening), Telecompaper. Sem edição do tns business nos últimos 3 dias.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>28:50</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 16 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
