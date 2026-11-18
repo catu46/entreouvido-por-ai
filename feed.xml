@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 08:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:21:38 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,128 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 18 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-18:entreouvido-por-ai/ep-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+      <description>O Senado adia para hoje a votação dos destaques do ajuste fiscal, e Lula começa a montar o ministério do quarto mandato. Dino leva a escala 5x2 ao plenário do STF, e mensagens mostram contrato de consultoria de Doria com o Banco Master. A Ucrânia derruba parte da ponte da Crimeia na véspera da cúpula Trump-Xi-Putin; EUA perdem o status de eliminação do sarampo. Avenia capta US$ 25 milhões e a Anthropic precifica hoje o IPO. TIM e GM mostram IA na operação, e o NYT lê os riscos do prospecto da Anthropic. Nvidia bate as estimativas e o conselho descarta a volta de Jensen Huang; Câmara adia o PL das big techs.
+
+## Política, geopolítica e economia
+- Senado adia para 18/11 os quatro destaques do ajuste fiscal; impasse em compensações, Lei Kandir e Comprev (https://oglobo.globo.com/economia/noticia/2026/11/18/senado-retoma-hoje-votacao-do-pacote-fiscal-veja-os-destaques-que-podem-alterar-o-texto.ghtml) (O Globo / Estadão Conteúdo)
+- Dólar fecha a R$ 5,78, maior nível em 19 meses; Ibovespa +0,31% (https://economia.uol.com.br/noticias/reuters/2026/11/17/dolar-a-vista-fecha-em-alta-de-008-a-r57819-na-venda.htm) (Reuters (via UOL))
+- Lula começa a montar o ministério do Lula 4; Camilo favorito à Casa Civil, Fazenda sem nome (https://oglobo.globo.com/politica/noticia/2026/11/17/lula-se-reune-com-rui-costa-camilo-santana-rafael-fonteles-e-edinho-silva-para-discutir-formacao-do-governo.ghtml) (O Globo)
+- Dino leva a escala 5x2 ao plenário do STF; calendário de 16/12 segue valendo (https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/dino-levara-escala-5x2-ao-plenario-do-stf-para-decisao-definitiva/) (CNN Brasil)
+- Mensagens mostram contrato de consultoria de R$ 220 mil/mês entre Doria e Vorcaro; caso Master faz um ano (https://www.poder360.com.br/poder-economia/doria-acertou-contrato-de-r-220-mil-ao-mes-com-vorcaro/) (Poder360 / UOL)
+- Lula diz a Sánchez que Irã não tem bomba nuclear e que EUA 'inventam história' (https://cbn.globo.com/mundo/noticia/2026/11/17/em-conversa-com-premie-da-espanha-lula-diz-que-eua-inventam-para-ocupar-paises-e-que-ira-nao-tem-bomba-nuclear.ghtml) (CBN)
+- Ucrânia derruba seção da ponte da Crimeia em operação de sete fases (https://www.bbc.com/news/articles/cw772jk4rvmxo) (BBC)
+- Xi e Putin se reúnem em Shenzhen; Trump no Quad e na ASEAN em Manila antes da cúpula a três (https://www.afp.com/en/xi-putin-meet-ahead-historic-trump-trilateral-summit) (AFP)
+- CNN: inteligência dos EUA vê planos do Irã de 'bomba suja' em Washington; Irã nega e Casa Branca vê ameaça não crível (https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know) (Al Jazeera)
+- EUA, Bolívia e México perdem status de eliminação do sarampo, diz Opas (https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards) (Opas / The New York Times)
+- COP31: UE chama rascunho de 'lista de compras'; Bowen promete novo texto (https://www.channelnewsasia.com/world/cop31-climate-deal-fossil-fuels-un-talks-6559956) (AFP (via CNA))
+
+## VC e startups
+- Avenia, emissora da BRLA, capta US$ 25 mi com Lightspeed Faction e mira aquisições (https://valor.globo.com/financas/criptomoedas/noticia/2026/11/17/empresa-de-stablecoins-avenia-capta-r-230-milhes-no-ano-e-mira-aquisies.ghtml) (Valor)
+- VC Brazil: semana de 9 a 15/11 teve só duas rodadas relevantes, US$ 89 mi (https://vcbrazil.com/2026/11/brazil-vc-deals-nov-9-15-2026-clara-nova/) (VC Brazil)
+- Nubank terá licença bancária com compra do Banco Porto Real aprovada pelo BC (https://nu.com/pt/sala-de-imprensa/companhia/nubank-recebe-aprovacao-do-banco-central-para-obter-licenca-bancaria-no-brasil) (Nubank (sala de imprensa))
+- Anthropic precifica IPO em 18/11, provavelmente acima de US$ 78; estreia na Nasdaq em 19/11 (https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html) (CNBC / Euronews)
+- Brazil Journal: Anthropic é 'ecossistema de serviços' que pode liderar mesmo sem o melhor LLM (https://braziljournal.com/anthropic-o-maior-ipo-da-historia) (Brazil Journal (newsletter))
+- Science Corp US$ 400 mi a US$ 3,5 bi; General Flash US$ 128 mi; Tiberius vira unicórnio (https://crosswalk.to/crosswalk/deals/2026-11-17) (Crosswalk)
+
+## Inteligência artificial
+- TIM reduz em 86% o tempo de resolução com agentes de IA; 2 mi de clientes no WhatsApp (https://news.gbyte.info/noticia/tim-agentes-ia-atendimento) (Mobile Time (via Gbyte))
+- GM quer 20% mais automação nas fábricas da América do Norte até 2028; UAW reage (https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871) (Reuters (via CNA))
+- NYT lê o prospecto da Anthropic: 93 páginas de riscos, inclusive 'existenciais' (https://www.nytimes.com/topic/anthropic-ai-llc) (The New York Times)
+
+## Mídia, software e plataformas
+- Nvidia fatura US$ 115,8 bi, guia US$ 130 bi; Huang diz que voltaria e conselho descarta (https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/) (Nvidia / CNBC / BBC)
+- Câmara adia sem data o PL de concorrência das big techs (superintendência no Cade) (https://g1.globo.com/politica/noticia/2026/11/17/em-meio-a-duvidas-dos-partidos-camara-dos-deputados-adia-projeto-que-regulamenta-big-techs.ghtml) (g1)
+- Globo DAI leva anúncio segmentado à programação ao vivo do Globoplay (https://redeglobo.globo.com/rj/tvriosul/Quem-Somos/noticia/globo-dai-tecnologia-da-globo-amplia-possibilidades-para-anunciantes-da-regiao.ghtml) (Rede Globo)
+- Amazon Ads lança anúncios compráveis e puláveis na Twitch (https://www.meioemensagem.com.br/midia/amazon-introduz-novos-formatos-publicitarios-na-twitch) (Meio &amp; Mensagem)
+- Magnite a Alan Wolk: streaming tem 4-5 min de anúncio por hora, contra 14-15 na TV linear (https://www.linkedin.com/pulse/magnites-matt-mcleggon-why-streaming-ad-dollars-still-alan-wolk-8bptc) (TVREV (Alan Wolk))
+- Brecha na Optimizely injeta código malicioso em 178 sites, de BBC a Zoom (https://www.helpnetsecurity.com/2026/11/17/optimizely-vulnerability-malicious-javascript/) (Help Net Security)
+- Quebecor faz oferta não solicitada de C$ 31 bi pela Telus (https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299) (CBC)
+
+Newsletters do dia: Brazil Journal, the news night, tns business, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening, Breaking News), Alan Wolk (TVREV) e Telecompaper.</description>
+      <content:encoded>&lt;p&gt;O Senado adia para hoje a votação dos destaques do ajuste fiscal, e Lula começa a montar o ministério do quarto mandato. Dino leva a escala 5x2 ao plenário do STF, e mensagens mostram contrato de consultoria de Doria com o Banco Master. A Ucrânia derruba parte da ponte da Crimeia na véspera da cúpula Trump-Xi-Putin; EUA perdem o status de eliminação do sarampo. Avenia capta US$ 25 milhões e a Anthropic precifica hoje o IPO. TIM e GM mostram IA na operação, e o NYT lê os riscos do prospecto da Anthropic. Nvidia bate as estimativas e o conselho descarta a volta de Jensen Huang; Câmara adia o PL das big techs.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/economia/noticia/2026/11/18/senado-retoma-hoje-votacao-do-pacote-fiscal-veja-os-destaques-que-podem-alterar-o-texto.ghtml"&gt;Senado adia para 18/11 os quatro destaques do ajuste fiscal; impasse em compensações, Lei Kandir e Comprev&lt;/a&gt; (O Globo / Estadão Conteúdo)&lt;br/&gt;
+- &lt;a href="https://economia.uol.com.br/noticias/reuters/2026/11/17/dolar-a-vista-fecha-em-alta-de-008-a-r57819-na-venda.htm"&gt;Dólar fecha a R$ 5,78, maior nível em 19 meses; Ibovespa +0,31%&lt;/a&gt; (Reuters (via UOL))&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/politica/noticia/2026/11/17/lula-se-reune-com-rui-costa-camilo-santana-rafael-fonteles-e-edinho-silva-para-discutir-formacao-do-governo.ghtml"&gt;Lula começa a montar o ministério do Lula 4; Camilo favorito à Casa Civil, Fazenda sem nome&lt;/a&gt; (O Globo)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/dino-levara-escala-5x2-ao-plenario-do-stf-para-decisao-definitiva/"&gt;Dino leva a escala 5x2 ao plenário do STF; calendário de 16/12 segue valendo&lt;/a&gt; (CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://www.poder360.com.br/poder-economia/doria-acertou-contrato-de-r-220-mil-ao-mes-com-vorcaro/"&gt;Mensagens mostram contrato de consultoria de R$ 220 mil/mês entre Doria e Vorcaro; caso Master faz um ano&lt;/a&gt; (Poder360 / UOL)&lt;br/&gt;
+- &lt;a href="https://cbn.globo.com/mundo/noticia/2026/11/17/em-conversa-com-premie-da-espanha-lula-diz-que-eua-inventam-para-ocupar-paises-e-que-ira-nao-tem-bomba-nuclear.ghtml"&gt;Lula diz a Sánchez que Irã não tem bomba nuclear e que EUA &amp;#x27;inventam história&amp;#x27;&lt;/a&gt; (CBN)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/cw772jk4rvmxo"&gt;Ucrânia derruba seção da ponte da Crimeia em operação de sete fases&lt;/a&gt; (BBC)&lt;br/&gt;
+- &lt;a href="https://www.afp.com/en/xi-putin-meet-ahead-historic-trump-trilateral-summit"&gt;Xi e Putin se reúnem em Shenzhen; Trump no Quad e na ASEAN em Manila antes da cúpula a três&lt;/a&gt; (AFP)&lt;br/&gt;
+- &lt;a href="https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know"&gt;CNN: inteligência dos EUA vê planos do Irã de &amp;#x27;bomba suja&amp;#x27; em Washington; Irã nega e Casa Branca vê ameaça não crível&lt;/a&gt; (Al Jazeera)&lt;br/&gt;
+- &lt;a href="https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards"&gt;EUA, Bolívia e México perdem status de eliminação do sarampo, diz Opas&lt;/a&gt; (Opas / The New York Times)&lt;br/&gt;
+- &lt;a href="https://www.channelnewsasia.com/world/cop31-climate-deal-fossil-fuels-un-talks-6559956"&gt;COP31: UE chama rascunho de &amp;#x27;lista de compras&amp;#x27;; Bowen promete novo texto&lt;/a&gt; (AFP (via CNA))&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/financas/criptomoedas/noticia/2026/11/17/empresa-de-stablecoins-avenia-capta-r-230-milhes-no-ano-e-mira-aquisies.ghtml"&gt;Avenia, emissora da BRLA, capta US$ 25 mi com Lightspeed Faction e mira aquisições&lt;/a&gt; (Valor)&lt;br/&gt;
+- &lt;a href="https://vcbrazil.com/2026/11/brazil-vc-deals-nov-9-15-2026-clara-nova/"&gt;VC Brazil: semana de 9 a 15/11 teve só duas rodadas relevantes, US$ 89 mi&lt;/a&gt; (VC Brazil)&lt;br/&gt;
+- &lt;a href="https://nu.com/pt/sala-de-imprensa/companhia/nubank-recebe-aprovacao-do-banco-central-para-obter-licenca-bancaria-no-brasil"&gt;Nubank terá licença bancária com compra do Banco Porto Real aprovada pelo BC&lt;/a&gt; (Nubank (sala de imprensa))&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"&gt;Anthropic precifica IPO em 18/11, provavelmente acima de US$ 78; estreia na Nasdaq em 19/11&lt;/a&gt; (CNBC / Euronews)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/anthropic-o-maior-ipo-da-historia"&gt;Brazil Journal: Anthropic é &amp;#x27;ecossistema de serviços&amp;#x27; que pode liderar mesmo sem o melhor LLM&lt;/a&gt; (Brazil Journal (newsletter))&lt;br/&gt;
+- &lt;a href="https://crosswalk.to/crosswalk/deals/2026-11-17"&gt;Science Corp US$ 400 mi a US$ 3,5 bi; General Flash US$ 128 mi; Tiberius vira unicórnio&lt;/a&gt; (Crosswalk)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://news.gbyte.info/noticia/tim-agentes-ia-atendimento"&gt;TIM reduz em 86% o tempo de resolução com agentes de IA; 2 mi de clientes no WhatsApp&lt;/a&gt; (Mobile Time (via Gbyte))&lt;br/&gt;
+- &lt;a href="https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871"&gt;GM quer 20% mais automação nas fábricas da América do Norte até 2028; UAW reage&lt;/a&gt; (Reuters (via CNA))&lt;br/&gt;
+- &lt;a href="https://www.nytimes.com/topic/anthropic-ai-llc"&gt;NYT lê o prospecto da Anthropic: 93 páginas de riscos, inclusive &amp;#x27;existenciais&amp;#x27;&lt;/a&gt; (The New York Times)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/"&gt;Nvidia fatura US$ 115,8 bi, guia US$ 130 bi; Huang diz que voltaria e conselho descarta&lt;/a&gt; (Nvidia / CNBC / BBC)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/17/em-meio-a-duvidas-dos-partidos-camara-dos-deputados-adia-projeto-que-regulamenta-big-techs.ghtml"&gt;Câmara adia sem data o PL de concorrência das big techs (superintendência no Cade)&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://redeglobo.globo.com/rj/tvriosul/Quem-Somos/noticia/globo-dai-tecnologia-da-globo-amplia-possibilidades-para-anunciantes-da-regiao.ghtml"&gt;Globo DAI leva anúncio segmentado à programação ao vivo do Globoplay&lt;/a&gt; (Rede Globo)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/amazon-introduz-novos-formatos-publicitarios-na-twitch"&gt;Amazon Ads lança anúncios compráveis e puláveis na Twitch&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.linkedin.com/pulse/magnites-matt-mcleggon-why-streaming-ad-dollars-still-alan-wolk-8bptc"&gt;Magnite a Alan Wolk: streaming tem 4-5 min de anúncio por hora, contra 14-15 na TV linear&lt;/a&gt; (TVREV (Alan Wolk))&lt;br/&gt;
+- &lt;a href="https://www.helpnetsecurity.com/2026/11/17/optimizely-vulnerability-malicious-javascript/"&gt;Brecha na Optimizely injeta código malicioso em 178 sites, de BBC a Zoom&lt;/a&gt; (Help Net Security)&lt;br/&gt;
+- &lt;a href="https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299"&gt;Quebecor faz oferta não solicitada de C$ 31 bi pela Telus&lt;/a&gt; (CBC)&lt;/p&gt;
+&lt;p&gt;Newsletters do dia: Brazil Journal, the news night, tns business, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening, Breaking News), Alan Wolk (TVREV) e Telecompaper.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-18/entreouvido-por-ai-2026-11-18.mp3" length="45486959" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 18 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>O Senado adia para hoje a votação dos destaques do ajuste fiscal, e Lula começa a montar o ministério do quarto mandato. Dino leva a escala 5x2 ao plenário do STF, e mensagens mostram contrato de consultoria de Doria com o Banco Master. A Ucrânia derruba parte da ponte da Crimeia na véspera da cúpula Trump-Xi-Putin; EUA perdem o status de eliminação do sarampo. Avenia capta US$ 25 milhões e a Anthropic precifica hoje o IPO. TIM e GM mostram IA na operação, e o NYT lê os riscos do prospecto da Anthropic. Nvidia bate as estimativas e o conselho descarta a volta de Jensen Huang; Câmara adia o PL das big techs.
+
+## Política, geopolítica e economia
+- Senado adia para 18/11 os quatro destaques do ajuste fiscal; impasse em compensações, Lei Kandir e Comprev (https://oglobo.globo.com/economia/noticia/2026/11/18/senado-retoma-hoje-votacao-do-pacote-fiscal-veja-os-destaques-que-podem-alterar-o-texto.ghtml) (O Globo / Estadão Conteúdo)
+- Dólar fecha a R$ 5,78, maior nível em 19 meses; Ibovespa +0,31% (https://economia.uol.com.br/noticias/reuters/2026/11/17/dolar-a-vista-fecha-em-alta-de-008-a-r57819-na-venda.htm) (Reuters (via UOL))
+- Lula começa a montar o ministério do Lula 4; Camilo favorito à Casa Civil, Fazenda sem nome (https://oglobo.globo.com/politica/noticia/2026/11/17/lula-se-reune-com-rui-costa-camilo-santana-rafael-fonteles-e-edinho-silva-para-discutir-formacao-do-governo.ghtml) (O Globo)
+- Dino leva a escala 5x2 ao plenário do STF; calendário de 16/12 segue valendo (https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/dino-levara-escala-5x2-ao-plenario-do-stf-para-decisao-definitiva/) (CNN Brasil)
+- Mensagens mostram contrato de consultoria de R$ 220 mil/mês entre Doria e Vorcaro; caso Master faz um ano (https://www.poder360.com.br/poder-economia/doria-acertou-contrato-de-r-220-mil-ao-mes-com-vorcaro/) (Poder360 / UOL)
+- Lula diz a Sánchez que Irã não tem bomba nuclear e que EUA 'inventam história' (https://cbn.globo.com/mundo/noticia/2026/11/17/em-conversa-com-premie-da-espanha-lula-diz-que-eua-inventam-para-ocupar-paises-e-que-ira-nao-tem-bomba-nuclear.ghtml) (CBN)
+- Ucrânia derruba seção da ponte da Crimeia em operação de sete fases (https://www.bbc.com/news/articles/cw772jk4rvmxo) (BBC)
+- Xi e Putin se reúnem em Shenzhen; Trump no Quad e na ASEAN em Manila antes da cúpula a três (https://www.afp.com/en/xi-putin-meet-ahead-historic-trump-trilateral-summit) (AFP)
+- CNN: inteligência dos EUA vê planos do Irã de 'bomba suja' em Washington; Irã nega e Casa Branca vê ameaça não crível (https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know) (Al Jazeera)
+- EUA, Bolívia e México perdem status de eliminação do sarampo, diz Opas (https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards) (Opas / The New York Times)
+- COP31: UE chama rascunho de 'lista de compras'; Bowen promete novo texto (https://www.channelnewsasia.com/world/cop31-climate-deal-fossil-fuels-un-talks-6559956) (AFP (via CNA))
+
+## VC e startups
+- Avenia, emissora da BRLA, capta US$ 25 mi com Lightspeed Faction e mira aquisições (https://valor.globo.com/financas/criptomoedas/noticia/2026/11/17/empresa-de-stablecoins-avenia-capta-r-230-milhes-no-ano-e-mira-aquisies.ghtml) (Valor)
+- VC Brazil: semana de 9 a 15/11 teve só duas rodadas relevantes, US$ 89 mi (https://vcbrazil.com/2026/11/brazil-vc-deals-nov-9-15-2026-clara-nova/) (VC Brazil)
+- Nubank terá licença bancária com compra do Banco Porto Real aprovada pelo BC (https://nu.com/pt/sala-de-imprensa/companhia/nubank-recebe-aprovacao-do-banco-central-para-obter-licenca-bancaria-no-brasil) (Nubank (sala de imprensa))
+- Anthropic precifica IPO em 18/11, provavelmente acima de US$ 78; estreia na Nasdaq em 19/11 (https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html) (CNBC / Euronews)
+- Brazil Journal: Anthropic é 'ecossistema de serviços' que pode liderar mesmo sem o melhor LLM (https://braziljournal.com/anthropic-o-maior-ipo-da-historia) (Brazil Journal (newsletter))
+- Science Corp US$ 400 mi a US$ 3,5 bi; General Flash US$ 128 mi; Tiberius vira unicórnio (https://crosswalk.to/crosswalk/deals/2026-11-17) (Crosswalk)
+
+## Inteligência artificial
+- TIM reduz em 86% o tempo de resolução com agentes de IA; 2 mi de clientes no WhatsApp (https://news.gbyte.info/noticia/tim-agentes-ia-atendimento) (Mobile Time (via Gbyte))
+- GM quer 20% mais automação nas fábricas da América do Norte até 2028; UAW reage (https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871) (Reuters (via CNA))
+- NYT lê o prospecto da Anthropic: 93 páginas de riscos, inclusive 'existenciais' (https://www.nytimes.com/topic/anthropic-ai-llc) (The New York Times)
+
+## Mídia, software e plataformas
+- Nvidia fatura US$ 115,8 bi, guia US$ 130 bi; Huang diz que voltaria e conselho descarta (https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/) (Nvidia / CNBC / BBC)
+- Câmara adia sem data o PL de concorrência das big techs (superintendência no Cade) (https://g1.globo.com/politica/noticia/2026/11/17/em-meio-a-duvidas-dos-partidos-camara-dos-deputados-adia-projeto-que-regulamenta-big-techs.ghtml) (g1)
+- Globo DAI leva anúncio segmentado à programação ao vivo do Globoplay (https://redeglobo.globo.com/rj/tvriosul/Quem-Somos/noticia/globo-dai-tecnologia-da-globo-amplia-possibilidades-para-anunciantes-da-regiao.ghtml) (Rede Globo)
+- Amazon Ads lança anúncios compráveis e puláveis na Twitch (https://www.meioemensagem.com.br/midia/amazon-introduz-novos-formatos-publicitarios-na-twitch) (Meio &amp; Mensagem)
+- Magnite a Alan Wolk: streaming tem 4-5 min de anúncio por hora, contra 14-15 na TV linear (https://www.linkedin.com/pulse/magnites-matt-mcleggon-why-streaming-ad-dollars-still-alan-wolk-8bptc) (TVREV (Alan Wolk))
+- Brecha na Optimizely injeta código malicioso em 178 sites, de BBC a Zoom (https://www.helpnetsecurity.com/2026/11/17/optimizely-vulnerability-malicious-javascript/) (Help Net Security)
+- Quebecor faz oferta não solicitada de C$ 31 bi pela Telus (https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299) (CBC)
+
+Newsletters do dia: Brazil Journal, the news night, tns business, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening, Breaking News), Alan Wolk (TVREV) e Telecompaper.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>31:35</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 17 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
