@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 08:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:01:04 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,143 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 19 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-19:entreouvido-por-ai/ep-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate>
+      <description>O Senado conclui o ajuste fiscal e derruba os destaques da oposição, mas o dólar sobe a R$ 5,87; a PF entrega ao STF o material do caso Master. Trump, Xi e Putin se reúnem em Shenzhen, Netanyahu reconhece a derrota e a ata do Fed sinaliza mais juros. A Anthropic faz o maior IPO da história e estreia hoje na Nasdaq; a Gabriel capta R$ 20 milhões em dívida. Uma startup usa IA para achar falha crítica no Java, e a Cielo mostra agentes na prática. GTA VI chega com Anitta no elenco, e a Globo troca o diretor financeiro.
+
+## Política, geopolítica e economia
+- Senado conclui ajuste fiscal (69 a 2): destaques rejeitados, acordo na Lei Kandir; texto vai à Câmara (https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara) (Agência Senado / CBN / Valor)
+- Dólar sobe pela quinta sessão e fecha perto de R$ 5,87, maior desde abril de 2025; Ibovespa -1,34% (https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal) (Agência Brasil)
+- Andrei Rodrigues entrega a Fachin HD com mensagens do caso Master; PGR tem 15 dias (https://cbn.globo.com/politica/noticia/2026/11/18/caso-master-andrei-rodrigues-entrega-a-fachin-documentos-sobre-citacoes-a-ministros-do-stf.ghtml) (CBN)
+- Áudios: Vorcaro tratou de ingressos da F1 para filhos do diretor-geral da PF (https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/audios-mostram-que-vorcaro-tratou-sobre-ingressos-da-f1-para-filhos-de-andrei-rodrigues-da-pf.ghtml) (O Globo (Malu Gaspar))
+- BlackRock compra SulAmérica Investimentos da Rede D'Or por cerca de R$ 850 mi (https://g1.globo.com/economia/negocios/noticia/2026/11/18/rede-dor-sulamerica-investimentos.ghtml) (g1)
+- PF investiga 'fazendas fantasmas' usadas para obter crédito rural (https://www.metropoles.com/colunas/dinheiro-e-negocios/fazendas-fantasmas-o-que-a-policia-investiga-e-o-que-diz-o-banco-do-brasil) (the news / Metrópoles)
+- Custo Brasil chega a R$ 3,5 trilhões por ano, 27,5% do PIB, segundo nova metodologia (https://braziljournal.com/) (Brazil Journal (newsletter))
+- Justiça suspende licitação de 95 iPhones 18 Pro para o Senado (https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/justica-suspende-licitacao-que-previa-gasto-de-r-6-milhoes-com-celulares-para-parlamentares-e-servidores-do-senado.ghtml) (g1)
+- Nikolas Ferreira ameaça deixar o PL se partido apoiar reeleição de Hugo Motta (https://www.infomoney.com.br/politica/nikolas-ameaca-deixar-pl-se-partido-apoiar-reeleicao-de-hugo-motta/) (InfoMoney)
+- Trump vê Putin e Xi antes da inédita reunião a três em Shenzhen; nuclear e Ucrânia na pauta (https://www.reuters.com/3fec1b0a85a0/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/) (Reuters)
+- Netanyahu reconhece derrota após oposição eleger presidente do Knesset (https://www1.folha.uol.com.br/mundo/2026/11/netanyahu-reconhece-derrota-nas-eleicoes-de-israel.shtml) (Folha)
+- Ata do Fed: quase todos veem novas altas de juros; IA vira risco de inflação (https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) (CNBC)
+- Hegseth assina acordo de cooperação militar com Delcy Rodríguez em Caracas (https://timesbrasil.com.br/mundo/pete-hegseth-visita-venezuela-e-assina-acordo-de-cooperacao-militar-com-delcy-rodriguez/) (Times Brasil / Estadão Conteúdo)
+- Burnham diz que 'o Brexit que nos deram não funcionou'; cúpula Reino Unido-UE em Bruxelas (https://www.nytimes.com/section/world) (The New York Times (The World))
+- Democratas indicam Hakeem Jeffries para presidir a Câmara dos EUA (https://www.nytimes.com/section/politics) (The New York Times (The Evening))
+
+## VC e startups
+- Gabriel capta R$ 20 mi em dívida com a Desenvolve SP para câmera 3.0 com IA (https://braziljournal.com/desenvolve-sp-vai-financiar-cameras-30-da-gabriel) (Brazil Journal)
+- Chilena Vambe capta US$ 14 mi e quer fazer do Brasil seu principal mercado (https://capitalagora.com.br/noticia/apos-captar-us-14m-vambe-quer-fazer-do-brasil) (Startups)
+- Spectra passa a comprar fatias secundárias de fundadores, com cheques de R$ 3 a 5 mi (https://neofeed.com.br/startups/rico-no-papel-pobre-na-conta-spectra-abre-nova-frente-para-comprar-fatias-de-fundadores-de-startups/) (NeoFeed)
+- Anthropic precifica IPO a US$ 83 e levanta US$ 81,3 bi, recorde; vale US$ 1,5 tri e estreia hoje (https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (Reuters / CNBC / AP)
+- Spark Capital a caminho de ~12x; FTX vendeu fatia que valeria ~US$ 35 bi (https://www.privateequityinternational.com/spark-capital-poised-to-see-about-12x-return-on-777m-anthropic-bet/) (Private Equity International / NeoFeed)
+- Linq US$ 90 mi com a16z; BrightAI US$ 97 mi; Ramon.Space US$ 124 mi (https://crosswalk.to/crosswalk/deals/2026-11-18) (Crosswalk)
+
+## Inteligência artificial
+- Calif usa GPT-6 Cyber e acha falha crítica no Java; Oracle corrige (https://www.straitstimes.com/world/ai-helps-find-major-security-bug-in-java-a-software-platform-vital-to-the-internet) (The New York Times (via Straits Times) / Calif)
+- Cielo corta de 50,5 para 12,3 dias o tempo para criar funcionalidades com agentes de IA (https://exame.com/tecnologia/como-a-cielo-usa-agentes-de-ia-para-transformar-reclamacoes-de-clientes-em-produtos-em-12-dias/) (Exame)
+- Governo Trump estuda obrigar empresas a divulgar uso de IA chinesa (https://www.straitstimes.com/world/united-states/trump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use) (Reuters (via Straits Times))
+
+## Mídia, software e plataformas
+- GTA VI estreia com nota 99 e 17 mi de cópias; Take-Two sobe 6,5% (https://www.uol.com.br/tilt/noticias/reuters/2026/11/18/gta-vi-e-lancado-e-atinge-marca-historica-de-zelda.htm) (Reuters (via UOL))
+- Anitta dubla a Dra. Nita e entra na trilha de GTA VI (https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-6-anitta-interpreta-medica-que-comanda-podcast-sobre-sexo-no-jogo.ghtml) (g1)
+- Vivo e TIM fazem ações para a estreia de GTA VI (https://www.meioemensagem.com.br/comunicacao/operadoras-lancam-acoes-especiais-para-a-estreia-de-gta-vi) (Meio &amp; Mensagem)
+- Globo anuncia Rafael Bergman como diretor de Finanças; Belmar vai ao conselho (https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/17/globo-anuncia-rafael-bergman-como-novo-diretor-de-financas-e-servicos-compartilhados.ghtml) (g1 / Meio &amp; Mensagem)
+- Sem bets, 35 clubes pedem socorro ao governo; Flamengo e Palmeiras não assinam (https://www.meioemensagem.com.br/marketing/sem-bets-clubes-buscam-auxilio-do-governo) (Meio &amp; Mensagem)
+- Mercado Livre renova patrocínio à Conmebol até 2030 (https://www.meioemensagem.com.br/marketing/mercado-livre-renova-patrocinio-a-conmebol-ate-2030) (Meio &amp; Mensagem)
+- Itaú é a marca brasileira mais valiosa pelo 5º ano; iFood e Smart Fit estreiam (https://www.meioemensagem.com.br/) (Meio &amp; Mensagem)
+- FuboTV reporta receita de US$ 1,50 bi no 4º tri fiscal e novo plano estratégico (https://www.telecompaper.com/news/fubotv-reports-higher-q4-fy-revenue-unveils-new-strategic-plan--1589154) (Telecompaper)
+
+Newsletters do dia: Brazil Journal, the news e the news night, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening, Breaking News, Editor's Picks), Telecompaper e Alan Wolk (TVREV). O tns business mais recente (17/11) já tinha sido usado.</description>
+      <content:encoded>&lt;p&gt;O Senado conclui o ajuste fiscal e derruba os destaques da oposição, mas o dólar sobe a R$ 5,87; a PF entrega ao STF o material do caso Master. Trump, Xi e Putin se reúnem em Shenzhen, Netanyahu reconhece a derrota e a ata do Fed sinaliza mais juros. A Anthropic faz o maior IPO da história e estreia hoje na Nasdaq; a Gabriel capta R$ 20 milhões em dívida. Uma startup usa IA para achar falha crítica no Java, e a Cielo mostra agentes na prática. GTA VI chega com Anitta no elenco, e a Globo troca o diretor financeiro.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara"&gt;Senado conclui ajuste fiscal (69 a 2): destaques rejeitados, acordo na Lei Kandir; texto vai à Câmara&lt;/a&gt; (Agência Senado / CBN / Valor)&lt;br/&gt;
+- &lt;a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal"&gt;Dólar sobe pela quinta sessão e fecha perto de R$ 5,87, maior desde abril de 2025; Ibovespa -1,34%&lt;/a&gt; (Agência Brasil)&lt;br/&gt;
+- &lt;a href="https://cbn.globo.com/politica/noticia/2026/11/18/caso-master-andrei-rodrigues-entrega-a-fachin-documentos-sobre-citacoes-a-ministros-do-stf.ghtml"&gt;Andrei Rodrigues entrega a Fachin HD com mensagens do caso Master; PGR tem 15 dias&lt;/a&gt; (CBN)&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/audios-mostram-que-vorcaro-tratou-sobre-ingressos-da-f1-para-filhos-de-andrei-rodrigues-da-pf.ghtml"&gt;Áudios: Vorcaro tratou de ingressos da F1 para filhos do diretor-geral da PF&lt;/a&gt; (O Globo (Malu Gaspar))&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/negocios/noticia/2026/11/18/rede-dor-sulamerica-investimentos.ghtml"&gt;BlackRock compra SulAmérica Investimentos da Rede D&amp;#x27;Or por cerca de R$ 850 mi&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://www.metropoles.com/colunas/dinheiro-e-negocios/fazendas-fantasmas-o-que-a-policia-investiga-e-o-que-diz-o-banco-do-brasil"&gt;PF investiga &amp;#x27;fazendas fantasmas&amp;#x27; usadas para obter crédito rural&lt;/a&gt; (the news / Metrópoles)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/"&gt;Custo Brasil chega a R$ 3,5 trilhões por ano, 27,5% do PIB, segundo nova metodologia&lt;/a&gt; (Brazil Journal (newsletter))&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/justica-suspende-licitacao-que-previa-gasto-de-r-6-milhoes-com-celulares-para-parlamentares-e-servidores-do-senado.ghtml"&gt;Justiça suspende licitação de 95 iPhones 18 Pro para o Senado&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://www.infomoney.com.br/politica/nikolas-ameaca-deixar-pl-se-partido-apoiar-reeleicao-de-hugo-motta/"&gt;Nikolas Ferreira ameaça deixar o PL se partido apoiar reeleição de Hugo Motta&lt;/a&gt; (InfoMoney)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/"&gt;Trump vê Putin e Xi antes da inédita reunião a três em Shenzhen; nuclear e Ucrânia na pauta&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/mundo/2026/11/netanyahu-reconhece-derrota-nas-eleicoes-de-israel.shtml"&gt;Netanyahu reconhece derrota após oposição eleger presidente do Knesset&lt;/a&gt; (Folha)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"&gt;Ata do Fed: quase todos veem novas altas de juros; IA vira risco de inflação&lt;/a&gt; (CNBC)&lt;br/&gt;
+- &lt;a href="https://timesbrasil.com.br/mundo/pete-hegseth-visita-venezuela-e-assina-acordo-de-cooperacao-militar-com-delcy-rodriguez/"&gt;Hegseth assina acordo de cooperação militar com Delcy Rodríguez em Caracas&lt;/a&gt; (Times Brasil / Estadão Conteúdo)&lt;br/&gt;
+- &lt;a href="https://www.nytimes.com/section/world"&gt;Burnham diz que &amp;#x27;o Brexit que nos deram não funcionou&amp;#x27;; cúpula Reino Unido-UE em Bruxelas&lt;/a&gt; (The New York Times (The World))&lt;br/&gt;
+- &lt;a href="https://www.nytimes.com/section/politics"&gt;Democratas indicam Hakeem Jeffries para presidir a Câmara dos EUA&lt;/a&gt; (The New York Times (The Evening))&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/desenvolve-sp-vai-financiar-cameras-30-da-gabriel"&gt;Gabriel capta R$ 20 mi em dívida com a Desenvolve SP para câmera 3.0 com IA&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://capitalagora.com.br/noticia/apos-captar-us-14m-vambe-quer-fazer-do-brasil"&gt;Chilena Vambe capta US$ 14 mi e quer fazer do Brasil seu principal mercado&lt;/a&gt; (Startups)&lt;br/&gt;
+- &lt;a href="https://neofeed.com.br/startups/rico-no-papel-pobre-na-conta-spectra-abre-nova-frente-para-comprar-fatias-de-fundadores-de-startups/"&gt;Spectra passa a comprar fatias secundárias de fundadores, com cheques de R$ 3 a 5 mi&lt;/a&gt; (NeoFeed)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"&gt;Anthropic precifica IPO a US$ 83 e levanta US$ 81,3 bi, recorde; vale US$ 1,5 tri e estreia hoje&lt;/a&gt; (Reuters / CNBC / AP)&lt;br/&gt;
+- &lt;a href="https://www.privateequityinternational.com/spark-capital-poised-to-see-about-12x-return-on-777m-anthropic-bet/"&gt;Spark Capital a caminho de ~12x; FTX vendeu fatia que valeria ~US$ 35 bi&lt;/a&gt; (Private Equity International / NeoFeed)&lt;br/&gt;
+- &lt;a href="https://crosswalk.to/crosswalk/deals/2026-11-18"&gt;Linq US$ 90 mi com a16z; BrightAI US$ 97 mi; Ramon.Space US$ 124 mi&lt;/a&gt; (Crosswalk)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://www.straitstimes.com/world/ai-helps-find-major-security-bug-in-java-a-software-platform-vital-to-the-internet"&gt;Calif usa GPT-6 Cyber e acha falha crítica no Java; Oracle corrige&lt;/a&gt; (The New York Times (via Straits Times) / Calif)&lt;br/&gt;
+- &lt;a href="https://exame.com/tecnologia/como-a-cielo-usa-agentes-de-ia-para-transformar-reclamacoes-de-clientes-em-produtos-em-12-dias/"&gt;Cielo corta de 50,5 para 12,3 dias o tempo para criar funcionalidades com agentes de IA&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://www.straitstimes.com/world/united-states/trump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use"&gt;Governo Trump estuda obrigar empresas a divulgar uso de IA chinesa&lt;/a&gt; (Reuters (via Straits Times))&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.uol.com.br/tilt/noticias/reuters/2026/11/18/gta-vi-e-lancado-e-atinge-marca-historica-de-zelda.htm"&gt;GTA VI estreia com nota 99 e 17 mi de cópias; Take-Two sobe 6,5%&lt;/a&gt; (Reuters (via UOL))&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-6-anitta-interpreta-medica-que-comanda-podcast-sobre-sexo-no-jogo.ghtml"&gt;Anitta dubla a Dra. Nita e entra na trilha de GTA VI&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/comunicacao/operadoras-lancam-acoes-especiais-para-a-estreia-de-gta-vi"&gt;Vivo e TIM fazem ações para a estreia de GTA VI&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/17/globo-anuncia-rafael-bergman-como-novo-diretor-de-financas-e-servicos-compartilhados.ghtml"&gt;Globo anuncia Rafael Bergman como diretor de Finanças; Belmar vai ao conselho&lt;/a&gt; (g1 / Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/marketing/sem-bets-clubes-buscam-auxilio-do-governo"&gt;Sem bets, 35 clubes pedem socorro ao governo; Flamengo e Palmeiras não assinam&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/marketing/mercado-livre-renova-patrocinio-a-conmebol-ate-2030"&gt;Mercado Livre renova patrocínio à Conmebol até 2030&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/"&gt;Itaú é a marca brasileira mais valiosa pelo 5º ano; iFood e Smart Fit estreiam&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.telecompaper.com/news/fubotv-reports-higher-q4-fy-revenue-unveils-new-strategic-plan--1589154"&gt;FuboTV reporta receita de US$ 1,50 bi no 4º tri fiscal e novo plano estratégico&lt;/a&gt; (Telecompaper)&lt;/p&gt;
+&lt;p&gt;Newsletters do dia: Brazil Journal, the news e the news night, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening, Breaking News, Editor&amp;#x27;s Picks), Telecompaper e Alan Wolk (TVREV). O tns business mais recente (17/11) já tinha sido usado.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-19/entreouvido-por-ai-2026-11-19.mp3" length="45119572" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 19 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>O Senado conclui o ajuste fiscal e derruba os destaques da oposição, mas o dólar sobe a R$ 5,87; a PF entrega ao STF o material do caso Master. Trump, Xi e Putin se reúnem em Shenzhen, Netanyahu reconhece a derrota e a ata do Fed sinaliza mais juros. A Anthropic faz o maior IPO da história e estreia hoje na Nasdaq; a Gabriel capta R$ 20 milhões em dívida. Uma startup usa IA para achar falha crítica no Java, e a Cielo mostra agentes na prática. GTA VI chega com Anitta no elenco, e a Globo troca o diretor financeiro.
+
+## Política, geopolítica e economia
+- Senado conclui ajuste fiscal (69 a 2): destaques rejeitados, acordo na Lei Kandir; texto vai à Câmara (https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara) (Agência Senado / CBN / Valor)
+- Dólar sobe pela quinta sessão e fecha perto de R$ 5,87, maior desde abril de 2025; Ibovespa -1,34% (https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal) (Agência Brasil)
+- Andrei Rodrigues entrega a Fachin HD com mensagens do caso Master; PGR tem 15 dias (https://cbn.globo.com/politica/noticia/2026/11/18/caso-master-andrei-rodrigues-entrega-a-fachin-documentos-sobre-citacoes-a-ministros-do-stf.ghtml) (CBN)
+- Áudios: Vorcaro tratou de ingressos da F1 para filhos do diretor-geral da PF (https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/audios-mostram-que-vorcaro-tratou-sobre-ingressos-da-f1-para-filhos-de-andrei-rodrigues-da-pf.ghtml) (O Globo (Malu Gaspar))
+- BlackRock compra SulAmérica Investimentos da Rede D'Or por cerca de R$ 850 mi (https://g1.globo.com/economia/negocios/noticia/2026/11/18/rede-dor-sulamerica-investimentos.ghtml) (g1)
+- PF investiga 'fazendas fantasmas' usadas para obter crédito rural (https://www.metropoles.com/colunas/dinheiro-e-negocios/fazendas-fantasmas-o-que-a-policia-investiga-e-o-que-diz-o-banco-do-brasil) (the news / Metrópoles)
+- Custo Brasil chega a R$ 3,5 trilhões por ano, 27,5% do PIB, segundo nova metodologia (https://braziljournal.com/) (Brazil Journal (newsletter))
+- Justiça suspende licitação de 95 iPhones 18 Pro para o Senado (https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/justica-suspende-licitacao-que-previa-gasto-de-r-6-milhoes-com-celulares-para-parlamentares-e-servidores-do-senado.ghtml) (g1)
+- Nikolas Ferreira ameaça deixar o PL se partido apoiar reeleição de Hugo Motta (https://www.infomoney.com.br/politica/nikolas-ameaca-deixar-pl-se-partido-apoiar-reeleicao-de-hugo-motta/) (InfoMoney)
+- Trump vê Putin e Xi antes da inédita reunião a três em Shenzhen; nuclear e Ucrânia na pauta (https://www.reuters.com/3fec1b0a85a0/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/) (Reuters)
+- Netanyahu reconhece derrota após oposição eleger presidente do Knesset (https://www1.folha.uol.com.br/mundo/2026/11/netanyahu-reconhece-derrota-nas-eleicoes-de-israel.shtml) (Folha)
+- Ata do Fed: quase todos veem novas altas de juros; IA vira risco de inflação (https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) (CNBC)
+- Hegseth assina acordo de cooperação militar com Delcy Rodríguez em Caracas (https://timesbrasil.com.br/mundo/pete-hegseth-visita-venezuela-e-assina-acordo-de-cooperacao-militar-com-delcy-rodriguez/) (Times Brasil / Estadão Conteúdo)
+- Burnham diz que 'o Brexit que nos deram não funcionou'; cúpula Reino Unido-UE em Bruxelas (https://www.nytimes.com/section/world) (The New York Times (The World))
+- Democratas indicam Hakeem Jeffries para presidir a Câmara dos EUA (https://www.nytimes.com/section/politics) (The New York Times (The Evening))
+
+## VC e startups
+- Gabriel capta R$ 20 mi em dívida com a Desenvolve SP para câmera 3.0 com IA (https://braziljournal.com/desenvolve-sp-vai-financiar-cameras-30-da-gabriel) (Brazil Journal)
+- Chilena Vambe capta US$ 14 mi e quer fazer do Brasil seu principal mercado (https://capitalagora.com.br/noticia/apos-captar-us-14m-vambe-quer-fazer-do-brasil) (Startups)
+- Spectra passa a comprar fatias secundárias de fundadores, com cheques de R$ 3 a 5 mi (https://neofeed.com.br/startups/rico-no-papel-pobre-na-conta-spectra-abre-nova-frente-para-comprar-fatias-de-fundadores-de-startups/) (NeoFeed)
+- Anthropic precifica IPO a US$ 83 e levanta US$ 81,3 bi, recorde; vale US$ 1,5 tri e estreia hoje (https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (Reuters / CNBC / AP)
+- Spark Capital a caminho de ~12x; FTX vendeu fatia que valeria ~US$ 35 bi (https://www.privateequityinternational.com/spark-capital-poised-to-see-about-12x-return-on-777m-anthropic-bet/) (Private Equity International / NeoFeed)
+- Linq US$ 90 mi com a16z; BrightAI US$ 97 mi; Ramon.Space US$ 124 mi (https://crosswalk.to/crosswalk/deals/2026-11-18) (Crosswalk)
+
+## Inteligência artificial
+- Calif usa GPT-6 Cyber e acha falha crítica no Java; Oracle corrige (https://www.straitstimes.com/world/ai-helps-find-major-security-bug-in-java-a-software-platform-vital-to-the-internet) (The New York Times (via Straits Times) / Calif)
+- Cielo corta de 50,5 para 12,3 dias o tempo para criar funcionalidades com agentes de IA (https://exame.com/tecnologia/como-a-cielo-usa-agentes-de-ia-para-transformar-reclamacoes-de-clientes-em-produtos-em-12-dias/) (Exame)
+- Governo Trump estuda obrigar empresas a divulgar uso de IA chinesa (https://www.straitstimes.com/world/united-states/trump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use) (Reuters (via Straits Times))
+
+## Mídia, software e plataformas
+- GTA VI estreia com nota 99 e 17 mi de cópias; Take-Two sobe 6,5% (https://www.uol.com.br/tilt/noticias/reuters/2026/11/18/gta-vi-e-lancado-e-atinge-marca-historica-de-zelda.htm) (Reuters (via UOL))
+- Anitta dubla a Dra. Nita e entra na trilha de GTA VI (https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-6-anitta-interpreta-medica-que-comanda-podcast-sobre-sexo-no-jogo.ghtml) (g1)
+- Vivo e TIM fazem ações para a estreia de GTA VI (https://www.meioemensagem.com.br/comunicacao/operadoras-lancam-acoes-especiais-para-a-estreia-de-gta-vi) (Meio &amp; Mensagem)
+- Globo anuncia Rafael Bergman como diretor de Finanças; Belmar vai ao conselho (https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/17/globo-anuncia-rafael-bergman-como-novo-diretor-de-financas-e-servicos-compartilhados.ghtml) (g1 / Meio &amp; Mensagem)
+- Sem bets, 35 clubes pedem socorro ao governo; Flamengo e Palmeiras não assinam (https://www.meioemensagem.com.br/marketing/sem-bets-clubes-buscam-auxilio-do-governo) (Meio &amp; Mensagem)
+- Mercado Livre renova patrocínio à Conmebol até 2030 (https://www.meioemensagem.com.br/marketing/mercado-livre-renova-patrocinio-a-conmebol-ate-2030) (Meio &amp; Mensagem)
+- Itaú é a marca brasileira mais valiosa pelo 5º ano; iFood e Smart Fit estreiam (https://www.meioemensagem.com.br/) (Meio &amp; Mensagem)
+- FuboTV reporta receita de US$ 1,50 bi no 4º tri fiscal e novo plano estratégico (https://www.telecompaper.com/news/fubotv-reports-higher-q4-fy-revenue-unveils-new-strategic-plan--1589154) (Telecompaper)
+
+Newsletters do dia: Brazil Journal, the news e the news night, Reuters Technology Roundup e Reuters Business, The New York Times (The World, The Evening, Breaking News, Editor's Picks), Telecompaper e Alan Wolk (TVREV). O tns business mais recente (17/11) já tinha sido usado.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>31:20</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 18 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
