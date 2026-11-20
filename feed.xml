@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Nov 2026 08:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:06:01 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,161 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 20 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-20:entreouvido-por-ai/ep-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+      <description>No feriado da Consciência Negra, Lula assina o decreto da escala 5x2, diz que escolhe ministros "quando quiser" e o dólar fecha a R$ 5,93, sexta alta seguida; a Câmara vota o ajuste fiscal na segunda. Trump, Xi e Putin assinam uma declaração de paz sem acordo sobre a Ucrânia, e a Corte Internacional de Justiça conclui que Myanmar cometeu genocídio. A Anthropic estreia na Nasdaq e fecha valendo US$ 1,76 trilhão; Marciano Testa volta ao comando do Agibank. A onda de correções de falhas achadas por IA ajuda a explicar as panes nos EUA. GTA VI fatura US$ 2,36 bilhões no primeiro dia, e Unilever e iFood dizem que não há mais marketing sem influenciador.
+
+## Política, geopolítica e economia
+- Lula assina decreto que regulamenta a escala 5x2; regras valem a partir de 16/12 (https://g1.globo.com/politica/noticia/2026/11/19/lula-assina-regulamentacao-da-escala-5x2-medida-esta-prevista-para-comecar-a-valer-em-dezembro.ghtml) (g1)
+- Lula diz que vai indicar ministros 'quando quiser'; Reuters: Fonteles e Alckmin favoritos para a Fazenda, Durigan não deve ficar (https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/19/lula-pode-definir-comando-da-fazenda-na-proxima-semana-com-fonteles-e-alckmin-ainda-favoritos.htm) (Reuters (via UOL) / g1)
+- Lula anuncia ministério voltado às pessoas idosas no quarto mandato (https://exame.com/brasil/lula-anuncia-criacao-do-ministerio-das-pessoas-idosas-no-novo-mandato/) (Exame / O Globo)
+- Dólar sobe pela sexta sessão e fecha a R$ 5,93, maior desde abril de 2025, mesmo com leilão de US$ 1 bi do BC; Ibovespa -0,69% (https://economia.uol.com.br/noticias/reuters/2026/11/19/dolar-a-vista-fecha-em-alta-de-110-a-r59323-na-venda.htm) (Reuters (via UOL))
+- Relator mantém texto do Senado; Câmara vota ajuste fiscal na segunda (23) (https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml) (g1 / CNN Brasil / Valor)
+- Fachin envia à PGR relatórios sobre Moraes, Nunes Marques, Toffoli e Mendonça e arquiva seis (https://oglobo.globo.com/politica/noticia/2026/11/19/caso-master-fachin-manda-arquivar-relatorios-da-pf-sobre-mencao-a-6-ministros-por-entender-nao-ter-relevancia-juridica-quatro-serao-enviados-a-pgr.ghtml) (O Globo / STF)
+- Galípolo diz à PF que informações de reuniões internas do BC vazavam para o Master (https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/19/galipolo-diz-a-pf-que-informacoes-vazavam-para-o-master-logo-apos-reunioes-internas-do-bc.htm) (Estadão Conteúdo (via UOL))
+- Trump, Xi e Putin assinam 'declaração de paz' em Shenzhen; sem acordo sobre a Ucrânia (https://exame.com/mundo/trump-putin-e-xi-iniciam-reuniao-historica-e-discutem-seguranca-mundial/) (Exame (com Xinhua e Bloomberg))
+- Ucrânia ataca ponte da Crimeia pela terceira vez na semana; Putin promete resposta 'muito mais dolorosa' (https://www.bbc.co.uk/news/articles/cm879dqn3e1jo) (BBC)
+- Corte Internacional de Justiça conclui que Myanmar cometeu genocídio contra os rohingya (https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar) (The Guardian)
+- Israel faz maior incursão terrestre em Gaza desde o cessar-fogo (https://www.dw.com/pt-br/israel-realiza-maior-ofensiva-terrestre-na-faixa-de-gaza-desde-o-cessar-fogo/a-79989088) (DW)
+- NYT: Trump irritado com Vance por culpar a guerra no Irã pela derrota nas eleições de meio de mandato (https://www.aa.com.tr/en/americas/trump-grows-frustrated-with-vance-over-iran-war-criticism-report/4129866) (The New York Times (via Anadolu))
+- Wall Street cai cerca de 2% apesar da estreia da Anthropic (https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html) (CNBC)
+- Coreia do Sul passa de US$ 1 trilhão em exportações no ano, puxada por chips de IA (https://www.channelnewsasia.com/east-asia/south-korea-fourth-country-1-trillion-exports-ai-chip-boom-6565061) (CNA / Yonhap)
+- COP31: novo rascunho tira menção explícita à transição para longe dos fósseis; cúpula fecha hoje (https://news.un.org/en/story/2026/11/1168839) (UN News)
+- Burnham vai a Bruxelas para cúpula Reino Unido-UE nesta sexta (https://www.gov.uk/government/news/prime-minister-in-brussels-to-deliver-deal-that-cuts-costs-for-britain) (GOV.UK / BBC)
+- TRF-1 derruba liminar e libera licitação de iPhones do Senado (https://www.estadao.com.br/politica/justica-derruba-liminar-que-proibiu-licitacao-de-iphones-para-o-senado-nprp/) (Estadão / Folha)
+- Moraes autoriza ministro do TCU Jorge Oliveira a visitar Bolsonaro em 28/11 (https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/19/moraes-autoriza-visita-de-ministro-jorge-oliveira-do-tcu-a-jair-bolsonaro.ghtml) (UOL)
+
+## VC e startups
+- Marciano Testa volta ao comando do Agibank em 'founder mode'; México até abril (https://braziljournal.com/em-founder-mode-marciano-volta-ao-comando-do-agibank) (Brazil Journal)
+- HeadOffice.ai capta R$ 10 mi com clientes virando investidores; valuation de R$ 75 mi (https://revistapegn.globo.com/franquias/noticia/2026/11/headoffice-capta-r-10-milhoes-para-impulsionar-plataforma-de-gestao-de-agentes-de-ia-para-empresas.ghtml) (PEGN)
+- Kevel capta US$ 52 mi e abre entidade no Brasil para retail media; atende iFood e Nubank (https://exame.com/insight/com-ifood-e-nubank-entre-clientes-kevel-capta-us-52-milhoes-e-prepara-expansao-no-brasil/p) (Exame)
+- Anthropic fecha 1º pregão a US$ 97,17 (+17%), vale US$ 1,76 tri (https://edition.cnn.com/2026/11/19/business/live-news/anthropic-ipo) (CNN)
+- Payhawk levanta US$ 280 mi em Série C liderada pelo Goldman Sachs e vale US$ 2 bi (https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/) (TechCrunch)
+- Boltz capta US$ 110 mi em Série A liderada pela Bessemer para IA de descoberta de fármacos (https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/) (SiliconANGLE)
+- Everful, de ex-executivo do Alibaba, capta US$ 48,5 mi para ligar varejistas a fábricas chinesas (https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/) (TechCrunch)
+
+## Inteligência artificial
+- IA acha falhas mais rápido e a onda de correções ajuda a explicar panes nos EUA (https://politifact.com/article/2026/nov/19/tech-outages-artificial-intelligence-microsoft/) (PolitiFact)
+- Diretor nacional de cibersegurança da Casa Branca deixa o cargo após onda de panes (https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329) (NBC News)
+- Google contrata New Glenn, da Blue Origin, para lançar satélites de IA em 2029 (https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029) (The Verge)
+- Google leva histórico de chats do Modo IA para a página inicial (https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats) (The Verge)
+- Febraban e Accenture: bancos investem R$ 3 bi em IA; agentes vão comparar preços e pagar pelo cliente (https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/19/ia-pesquisar-preco-fechar-compra-febraban) (TV Sim Brasil)
+- Deezer recebe quase 90 mil faixas 100% geradas por IA por dia e lança filtro (https://www.uol.com.br/splash/noticias/reuters/2026/11/17/deezer-vai-lancar-filtro-de-musica-com-ia-pesquisa-revela-que-usuarios-exigem-transparencia.htm) (Reuters (via UOL))
+
+## Mídia, software e plataformas
+- GTA VI vende 24,5 milhões de unidades e US$ 2,36 bi no primeiro dia, segundo a Sensor Tower (https://www.bbc.com/news/articles/c9zr5nyv5dj2o) (BBC)
+- Unilever e iFood: não há mais plano de marketing sem influenciador (https://www.meioemensagem.com.br/marketing/marcas-admitem-marketing-de-influencia-e-fundamental) (Meio &amp; Mensagem)
+- Instagram libera links de afiliado da Amazon em reels e posts (só EUA) (https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/) (TechCrunch)
+- Planos com anúncio passam a ser maioria das assinaturas de streaming nos EUA (https://worldpanelbynumerator.com/insights/us-ad-supported-streaming-subscriptions-2026) (Worldpanel by Numerator)
+- JPMorgan, Visa e Mastercard dizem que fornecedores terceirizados sofreram ataque; dados de marketing expostos (https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack) (The Verge)
+- TVREV (Alan Wolk): base do IPA com 220 campanhas mostra criadores e TV praticamente empatados (https://www.linkedin.com/pulse/emanuele-landi-do-creators-really-sell-more-than-tv-alan-wolk-9imcc) (TVREV / Alan Wolk (LinkedIn))
+- Disney: anúncio no streaming +6% a US$ 931 mi com preço -6%; esporte +20% (https://www.exchange4media.com/media-tv-news/disneys-streaming-ad-revenue-rises-6-sports-advertising-jumps-20-in-q4-160397.html) (exchange4media)
+
+Newsletters do dia: Brazil Journal, the news, Reuters, The New York Times, Telecompaper, Alan Wolk (TVREV) e tns business. Texto e pesquisa com IA, conferidos em fontes abertas.</description>
+      <content:encoded>&lt;p&gt;No feriado da Consciência Negra, Lula assina o decreto da escala 5x2, diz que escolhe ministros &amp;quot;quando quiser&amp;quot; e o dólar fecha a R$ 5,93, sexta alta seguida; a Câmara vota o ajuste fiscal na segunda. Trump, Xi e Putin assinam uma declaração de paz sem acordo sobre a Ucrânia, e a Corte Internacional de Justiça conclui que Myanmar cometeu genocídio. A Anthropic estreia na Nasdaq e fecha valendo US$ 1,76 trilhão; Marciano Testa volta ao comando do Agibank. A onda de correções de falhas achadas por IA ajuda a explicar as panes nos EUA. GTA VI fatura US$ 2,36 bilhões no primeiro dia, e Unilever e iFood dizem que não há mais marketing sem influenciador.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/19/lula-assina-regulamentacao-da-escala-5x2-medida-esta-prevista-para-comecar-a-valer-em-dezembro.ghtml"&gt;Lula assina decreto que regulamenta a escala 5x2; regras valem a partir de 16/12&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/19/lula-pode-definir-comando-da-fazenda-na-proxima-semana-com-fonteles-e-alckmin-ainda-favoritos.htm"&gt;Lula diz que vai indicar ministros &amp;#x27;quando quiser&amp;#x27;; Reuters: Fonteles e Alckmin favoritos para a Fazenda, Durigan não deve ficar&lt;/a&gt; (Reuters (via UOL) / g1)&lt;br/&gt;
+- &lt;a href="https://exame.com/brasil/lula-anuncia-criacao-do-ministerio-das-pessoas-idosas-no-novo-mandato/"&gt;Lula anuncia ministério voltado às pessoas idosas no quarto mandato&lt;/a&gt; (Exame / O Globo)&lt;br/&gt;
+- &lt;a href="https://economia.uol.com.br/noticias/reuters/2026/11/19/dolar-a-vista-fecha-em-alta-de-110-a-r59323-na-venda.htm"&gt;Dólar sobe pela sexta sessão e fecha a R$ 5,93, maior desde abril de 2025, mesmo com leilão de US$ 1 bi do BC; Ibovespa -0,69%&lt;/a&gt; (Reuters (via UOL))&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml"&gt;Relator mantém texto do Senado; Câmara vota ajuste fiscal na segunda (23)&lt;/a&gt; (g1 / CNN Brasil / Valor)&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/politica/noticia/2026/11/19/caso-master-fachin-manda-arquivar-relatorios-da-pf-sobre-mencao-a-6-ministros-por-entender-nao-ter-relevancia-juridica-quatro-serao-enviados-a-pgr.ghtml"&gt;Fachin envia à PGR relatórios sobre Moraes, Nunes Marques, Toffoli e Mendonça e arquiva seis&lt;/a&gt; (O Globo / STF)&lt;br/&gt;
+- &lt;a href="https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/19/galipolo-diz-a-pf-que-informacoes-vazavam-para-o-master-logo-apos-reunioes-internas-do-bc.htm"&gt;Galípolo diz à PF que informações de reuniões internas do BC vazavam para o Master&lt;/a&gt; (Estadão Conteúdo (via UOL))&lt;br/&gt;
+- &lt;a href="https://exame.com/mundo/trump-putin-e-xi-iniciam-reuniao-historica-e-discutem-seguranca-mundial/"&gt;Trump, Xi e Putin assinam &amp;#x27;declaração de paz&amp;#x27; em Shenzhen; sem acordo sobre a Ucrânia&lt;/a&gt; (Exame (com Xinhua e Bloomberg))&lt;br/&gt;
+- &lt;a href="https://www.bbc.co.uk/news/articles/cm879dqn3e1jo"&gt;Ucrânia ataca ponte da Crimeia pela terceira vez na semana; Putin promete resposta &amp;#x27;muito mais dolorosa&amp;#x27;&lt;/a&gt; (BBC)&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"&gt;Corte Internacional de Justiça conclui que Myanmar cometeu genocídio contra os rohingya&lt;/a&gt; (The Guardian)&lt;br/&gt;
+- &lt;a href="https://www.dw.com/pt-br/israel-realiza-maior-ofensiva-terrestre-na-faixa-de-gaza-desde-o-cessar-fogo/a-79989088"&gt;Israel faz maior incursão terrestre em Gaza desde o cessar-fogo&lt;/a&gt; (DW)&lt;br/&gt;
+- &lt;a href="https://www.aa.com.tr/en/americas/trump-grows-frustrated-with-vance-over-iran-war-criticism-report/4129866"&gt;NYT: Trump irritado com Vance por culpar a guerra no Irã pela derrota nas eleições de meio de mandato&lt;/a&gt; (The New York Times (via Anadolu))&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html"&gt;Wall Street cai cerca de 2% apesar da estreia da Anthropic&lt;/a&gt; (CNBC)&lt;br/&gt;
+- &lt;a href="https://www.channelnewsasia.com/east-asia/south-korea-fourth-country-1-trillion-exports-ai-chip-boom-6565061"&gt;Coreia do Sul passa de US$ 1 trilhão em exportações no ano, puxada por chips de IA&lt;/a&gt; (CNA / Yonhap)&lt;br/&gt;
+- &lt;a href="https://news.un.org/en/story/2026/11/1168839"&gt;COP31: novo rascunho tira menção explícita à transição para longe dos fósseis; cúpula fecha hoje&lt;/a&gt; (UN News)&lt;br/&gt;
+- &lt;a href="https://www.gov.uk/government/news/prime-minister-in-brussels-to-deliver-deal-that-cuts-costs-for-britain"&gt;Burnham vai a Bruxelas para cúpula Reino Unido-UE nesta sexta&lt;/a&gt; (GOV.UK / BBC)&lt;br/&gt;
+- &lt;a href="https://www.estadao.com.br/politica/justica-derruba-liminar-que-proibiu-licitacao-de-iphones-para-o-senado-nprp/"&gt;TRF-1 derruba liminar e libera licitação de iPhones do Senado&lt;/a&gt; (Estadão / Folha)&lt;br/&gt;
+- &lt;a href="https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/19/moraes-autoriza-visita-de-ministro-jorge-oliveira-do-tcu-a-jair-bolsonaro.ghtml"&gt;Moraes autoriza ministro do TCU Jorge Oliveira a visitar Bolsonaro em 28/11&lt;/a&gt; (UOL)&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/em-founder-mode-marciano-volta-ao-comando-do-agibank"&gt;Marciano Testa volta ao comando do Agibank em &amp;#x27;founder mode&amp;#x27;; México até abril&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://revistapegn.globo.com/franquias/noticia/2026/11/headoffice-capta-r-10-milhoes-para-impulsionar-plataforma-de-gestao-de-agentes-de-ia-para-empresas.ghtml"&gt;HeadOffice.ai capta R$ 10 mi com clientes virando investidores; valuation de R$ 75 mi&lt;/a&gt; (PEGN)&lt;br/&gt;
+- &lt;a href="https://exame.com/insight/com-ifood-e-nubank-entre-clientes-kevel-capta-us-52-milhoes-e-prepara-expansao-no-brasil/p"&gt;Kevel capta US$ 52 mi e abre entidade no Brasil para retail media; atende iFood e Nubank&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://edition.cnn.com/2026/11/19/business/live-news/anthropic-ipo"&gt;Anthropic fecha 1º pregão a US$ 97,17 (+17%), vale US$ 1,76 tri&lt;/a&gt; (CNN)&lt;br/&gt;
+- &lt;a href="https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"&gt;Payhawk levanta US$ 280 mi em Série C liderada pelo Goldman Sachs e vale US$ 2 bi&lt;/a&gt; (TechCrunch)&lt;br/&gt;
+- &lt;a href="https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/"&gt;Boltz capta US$ 110 mi em Série A liderada pela Bessemer para IA de descoberta de fármacos&lt;/a&gt; (SiliconANGLE)&lt;br/&gt;
+- &lt;a href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"&gt;Everful, de ex-executivo do Alibaba, capta US$ 48,5 mi para ligar varejistas a fábricas chinesas&lt;/a&gt; (TechCrunch)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://politifact.com/article/2026/nov/19/tech-outages-artificial-intelligence-microsoft/"&gt;IA acha falhas mais rápido e a onda de correções ajuda a explicar panes nos EUA&lt;/a&gt; (PolitiFact)&lt;br/&gt;
+- &lt;a href="https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329"&gt;Diretor nacional de cibersegurança da Casa Branca deixa o cargo após onda de panes&lt;/a&gt; (NBC News)&lt;br/&gt;
+- &lt;a href="https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029"&gt;Google contrata New Glenn, da Blue Origin, para lançar satélites de IA em 2029&lt;/a&gt; (The Verge)&lt;br/&gt;
+- &lt;a href="https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"&gt;Google leva histórico de chats do Modo IA para a página inicial&lt;/a&gt; (The Verge)&lt;br/&gt;
+- &lt;a href="https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/19/ia-pesquisar-preco-fechar-compra-febraban"&gt;Febraban e Accenture: bancos investem R$ 3 bi em IA; agentes vão comparar preços e pagar pelo cliente&lt;/a&gt; (TV Sim Brasil)&lt;br/&gt;
+- &lt;a href="https://www.uol.com.br/splash/noticias/reuters/2026/11/17/deezer-vai-lancar-filtro-de-musica-com-ia-pesquisa-revela-que-usuarios-exigem-transparencia.htm"&gt;Deezer recebe quase 90 mil faixas 100% geradas por IA por dia e lança filtro&lt;/a&gt; (Reuters (via UOL))&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/c9zr5nyv5dj2o"&gt;GTA VI vende 24,5 milhões de unidades e US$ 2,36 bi no primeiro dia, segundo a Sensor Tower&lt;/a&gt; (BBC)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/marketing/marcas-admitem-marketing-de-influencia-e-fundamental"&gt;Unilever e iFood: não há mais plano de marketing sem influenciador&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"&gt;Instagram libera links de afiliado da Amazon em reels e posts (só EUA)&lt;/a&gt; (TechCrunch)&lt;br/&gt;
+- &lt;a href="https://worldpanelbynumerator.com/insights/us-ad-supported-streaming-subscriptions-2026"&gt;Planos com anúncio passam a ser maioria das assinaturas de streaming nos EUA&lt;/a&gt; (Worldpanel by Numerator)&lt;br/&gt;
+- &lt;a href="https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack"&gt;JPMorgan, Visa e Mastercard dizem que fornecedores terceirizados sofreram ataque; dados de marketing expostos&lt;/a&gt; (The Verge)&lt;br/&gt;
+- &lt;a href="https://www.linkedin.com/pulse/emanuele-landi-do-creators-really-sell-more-than-tv-alan-wolk-9imcc"&gt;TVREV (Alan Wolk): base do IPA com 220 campanhas mostra criadores e TV praticamente empatados&lt;/a&gt; (TVREV / Alan Wolk (LinkedIn))&lt;br/&gt;
+- &lt;a href="https://www.exchange4media.com/media-tv-news/disneys-streaming-ad-revenue-rises-6-sports-advertising-jumps-20-in-q4-160397.html"&gt;Disney: anúncio no streaming +6% a US$ 931 mi com preço -6%; esporte +20%&lt;/a&gt; (exchange4media)&lt;/p&gt;
+&lt;p&gt;Newsletters do dia: Brazil Journal, the news, Reuters, The New York Times, Telecompaper, Alan Wolk (TVREV) e tns business. Texto e pesquisa com IA, conferidos em fontes abertas.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-20/entreouvido-por-ai-2026-11-20.mp3" length="44767233" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 20 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>No feriado da Consciência Negra, Lula assina o decreto da escala 5x2, diz que escolhe ministros "quando quiser" e o dólar fecha a R$ 5,93, sexta alta seguida; a Câmara vota o ajuste fiscal na segunda. Trump, Xi e Putin assinam uma declaração de paz sem acordo sobre a Ucrânia, e a Corte Internacional de Justiça conclui que Myanmar cometeu genocídio. A Anthropic estreia na Nasdaq e fecha valendo US$ 1,76 trilhão; Marciano Testa volta ao comando do Agibank. A onda de correções de falhas achadas por IA ajuda a explicar as panes nos EUA. GTA VI fatura US$ 2,36 bilhões no primeiro dia, e Unilever e iFood dizem que não há mais marketing sem influenciador.
+
+## Política, geopolítica e economia
+- Lula assina decreto que regulamenta a escala 5x2; regras valem a partir de 16/12 (https://g1.globo.com/politica/noticia/2026/11/19/lula-assina-regulamentacao-da-escala-5x2-medida-esta-prevista-para-comecar-a-valer-em-dezembro.ghtml) (g1)
+- Lula diz que vai indicar ministros 'quando quiser'; Reuters: Fonteles e Alckmin favoritos para a Fazenda, Durigan não deve ficar (https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/19/lula-pode-definir-comando-da-fazenda-na-proxima-semana-com-fonteles-e-alckmin-ainda-favoritos.htm) (Reuters (via UOL) / g1)
+- Lula anuncia ministério voltado às pessoas idosas no quarto mandato (https://exame.com/brasil/lula-anuncia-criacao-do-ministerio-das-pessoas-idosas-no-novo-mandato/) (Exame / O Globo)
+- Dólar sobe pela sexta sessão e fecha a R$ 5,93, maior desde abril de 2025, mesmo com leilão de US$ 1 bi do BC; Ibovespa -0,69% (https://economia.uol.com.br/noticias/reuters/2026/11/19/dolar-a-vista-fecha-em-alta-de-110-a-r59323-na-venda.htm) (Reuters (via UOL))
+- Relator mantém texto do Senado; Câmara vota ajuste fiscal na segunda (23) (https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml) (g1 / CNN Brasil / Valor)
+- Fachin envia à PGR relatórios sobre Moraes, Nunes Marques, Toffoli e Mendonça e arquiva seis (https://oglobo.globo.com/politica/noticia/2026/11/19/caso-master-fachin-manda-arquivar-relatorios-da-pf-sobre-mencao-a-6-ministros-por-entender-nao-ter-relevancia-juridica-quatro-serao-enviados-a-pgr.ghtml) (O Globo / STF)
+- Galípolo diz à PF que informações de reuniões internas do BC vazavam para o Master (https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/19/galipolo-diz-a-pf-que-informacoes-vazavam-para-o-master-logo-apos-reunioes-internas-do-bc.htm) (Estadão Conteúdo (via UOL))
+- Trump, Xi e Putin assinam 'declaração de paz' em Shenzhen; sem acordo sobre a Ucrânia (https://exame.com/mundo/trump-putin-e-xi-iniciam-reuniao-historica-e-discutem-seguranca-mundial/) (Exame (com Xinhua e Bloomberg))
+- Ucrânia ataca ponte da Crimeia pela terceira vez na semana; Putin promete resposta 'muito mais dolorosa' (https://www.bbc.co.uk/news/articles/cm879dqn3e1jo) (BBC)
+- Corte Internacional de Justiça conclui que Myanmar cometeu genocídio contra os rohingya (https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar) (The Guardian)
+- Israel faz maior incursão terrestre em Gaza desde o cessar-fogo (https://www.dw.com/pt-br/israel-realiza-maior-ofensiva-terrestre-na-faixa-de-gaza-desde-o-cessar-fogo/a-79989088) (DW)
+- NYT: Trump irritado com Vance por culpar a guerra no Irã pela derrota nas eleições de meio de mandato (https://www.aa.com.tr/en/americas/trump-grows-frustrated-with-vance-over-iran-war-criticism-report/4129866) (The New York Times (via Anadolu))
+- Wall Street cai cerca de 2% apesar da estreia da Anthropic (https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html) (CNBC)
+- Coreia do Sul passa de US$ 1 trilhão em exportações no ano, puxada por chips de IA (https://www.channelnewsasia.com/east-asia/south-korea-fourth-country-1-trillion-exports-ai-chip-boom-6565061) (CNA / Yonhap)
+- COP31: novo rascunho tira menção explícita à transição para longe dos fósseis; cúpula fecha hoje (https://news.un.org/en/story/2026/11/1168839) (UN News)
+- Burnham vai a Bruxelas para cúpula Reino Unido-UE nesta sexta (https://www.gov.uk/government/news/prime-minister-in-brussels-to-deliver-deal-that-cuts-costs-for-britain) (GOV.UK / BBC)
+- TRF-1 derruba liminar e libera licitação de iPhones do Senado (https://www.estadao.com.br/politica/justica-derruba-liminar-que-proibiu-licitacao-de-iphones-para-o-senado-nprp/) (Estadão / Folha)
+- Moraes autoriza ministro do TCU Jorge Oliveira a visitar Bolsonaro em 28/11 (https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/19/moraes-autoriza-visita-de-ministro-jorge-oliveira-do-tcu-a-jair-bolsonaro.ghtml) (UOL)
+
+## VC e startups
+- Marciano Testa volta ao comando do Agibank em 'founder mode'; México até abril (https://braziljournal.com/em-founder-mode-marciano-volta-ao-comando-do-agibank) (Brazil Journal)
+- HeadOffice.ai capta R$ 10 mi com clientes virando investidores; valuation de R$ 75 mi (https://revistapegn.globo.com/franquias/noticia/2026/11/headoffice-capta-r-10-milhoes-para-impulsionar-plataforma-de-gestao-de-agentes-de-ia-para-empresas.ghtml) (PEGN)
+- Kevel capta US$ 52 mi e abre entidade no Brasil para retail media; atende iFood e Nubank (https://exame.com/insight/com-ifood-e-nubank-entre-clientes-kevel-capta-us-52-milhoes-e-prepara-expansao-no-brasil/p) (Exame)
+- Anthropic fecha 1º pregão a US$ 97,17 (+17%), vale US$ 1,76 tri (https://edition.cnn.com/2026/11/19/business/live-news/anthropic-ipo) (CNN)
+- Payhawk levanta US$ 280 mi em Série C liderada pelo Goldman Sachs e vale US$ 2 bi (https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/) (TechCrunch)
+- Boltz capta US$ 110 mi em Série A liderada pela Bessemer para IA de descoberta de fármacos (https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/) (SiliconANGLE)
+- Everful, de ex-executivo do Alibaba, capta US$ 48,5 mi para ligar varejistas a fábricas chinesas (https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/) (TechCrunch)
+
+## Inteligência artificial
+- IA acha falhas mais rápido e a onda de correções ajuda a explicar panes nos EUA (https://politifact.com/article/2026/nov/19/tech-outages-artificial-intelligence-microsoft/) (PolitiFact)
+- Diretor nacional de cibersegurança da Casa Branca deixa o cargo após onda de panes (https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329) (NBC News)
+- Google contrata New Glenn, da Blue Origin, para lançar satélites de IA em 2029 (https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029) (The Verge)
+- Google leva histórico de chats do Modo IA para a página inicial (https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats) (The Verge)
+- Febraban e Accenture: bancos investem R$ 3 bi em IA; agentes vão comparar preços e pagar pelo cliente (https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/19/ia-pesquisar-preco-fechar-compra-febraban) (TV Sim Brasil)
+- Deezer recebe quase 90 mil faixas 100% geradas por IA por dia e lança filtro (https://www.uol.com.br/splash/noticias/reuters/2026/11/17/deezer-vai-lancar-filtro-de-musica-com-ia-pesquisa-revela-que-usuarios-exigem-transparencia.htm) (Reuters (via UOL))
+
+## Mídia, software e plataformas
+- GTA VI vende 24,5 milhões de unidades e US$ 2,36 bi no primeiro dia, segundo a Sensor Tower (https://www.bbc.com/news/articles/c9zr5nyv5dj2o) (BBC)
+- Unilever e iFood: não há mais plano de marketing sem influenciador (https://www.meioemensagem.com.br/marketing/marcas-admitem-marketing-de-influencia-e-fundamental) (Meio &amp; Mensagem)
+- Instagram libera links de afiliado da Amazon em reels e posts (só EUA) (https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/) (TechCrunch)
+- Planos com anúncio passam a ser maioria das assinaturas de streaming nos EUA (https://worldpanelbynumerator.com/insights/us-ad-supported-streaming-subscriptions-2026) (Worldpanel by Numerator)
+- JPMorgan, Visa e Mastercard dizem que fornecedores terceirizados sofreram ataque; dados de marketing expostos (https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack) (The Verge)
+- TVREV (Alan Wolk): base do IPA com 220 campanhas mostra criadores e TV praticamente empatados (https://www.linkedin.com/pulse/emanuele-landi-do-creators-really-sell-more-than-tv-alan-wolk-9imcc) (TVREV / Alan Wolk (LinkedIn))
+- Disney: anúncio no streaming +6% a US$ 931 mi com preço -6%; esporte +20% (https://www.exchange4media.com/media-tv-news/disneys-streaming-ad-revenue-rises-6-sports-advertising-jumps-20-in-q4-160397.html) (exchange4media)
+
+Newsletters do dia: Brazil Journal, the news, Reuters, The New York Times, Telecompaper, Alan Wolk (TVREV) e tns business. Texto e pesquisa com IA, conferidos em fontes abertas.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>31:05</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 19 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
