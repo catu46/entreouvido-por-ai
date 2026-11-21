@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Nov 2026 08:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:35:07 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,148 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 21 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-21:entreouvido-por-ai/ep-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Com a B3 fechada no feriado, Wall Street entra em correção, a Nvidia despenca 14% com investigação contábil da SEC e a Anthropic quase volta ao preço do IPO. No caso Master, o relatório da PF sobre Mendonça traz a ideia de um instituto para Moraes em Londres; Moraes vota para manter Flávio Bolsonaro sem passaportes; Trump diz que as Filipinas vão trocar o agro brasileiro pelo americano. Mísseis russos caem na Polônia, Reino Unido e UE fecham acordos, e a COP31 vai à prorrogação sem os fósseis. No VC, NBS e QI Tech; na IA, a possível prova da hipótese de Riemann com o Claude e o Boticário na Beauty Week; e a Black Friday sob o olhar da Senacon.
+
+## Política, geopolítica e economia
+- Feriado fecha a B3; dólar segue em R$ 5,93 e Câmara vota ajuste fiscal na segunda (23) (https://g1.globo.com/politica/noticia/2026/11/20/lula-4-ministros-o-que-se-sabe.ghtml) (g1)
+- Fachin derruba sigilo do relatório da PF sobre Mendonça: 11 diálogos, nenhuma mensagem direta com Vorcaro (https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-manda-quebrar-sigilo-de-relatorio-da-pf-com-mencoes-mendonca) (Agência Brasil)
+- Mensagens: Fábio Faria propôs a Vorcaro criar instituto para Moraes em Londres (https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/20/vorcaro-e-faria-planejaram-criar-instituto-para-moraes-em-londres.ghtm) (UOL / CBN)
+- Moraes vota para manter cancelados os passaportes de Flávio Bolsonaro; Turma julga até 30/11 (https://www.migalhas.com.br/quentes/469018/moraes-vota-por-manter-flavio-sem-passaportes-e-sem-contato-com-willer) (Migalhas / UOL)
+- Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF (https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml) (g1)
+- Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA a partir de 1º de janeiro (https://valor.globo.com/mundo/noticia/2026/11/20/trump-diz-ter-exigido-que-filipinas-troque-produtos-agrcolas-do-brasil-pelos-dos-eua.ghtml) (Valor / g1)
+- Pesquisa: 6 em cada 10 brasileiros se identificam com o agro; só 13% vivem no campo (https://exame.com/agro/bota-chapeu-e-fivela-6-em-cada-10-brasileiros-se-identificam-com-o-agro-diz-pesquisa/) (Exame)
+- Supercélula no RS: 3 mortos, 60 feridos e mais de 5 mil casas destelhadas; Tupanciretã é a mais atingida (https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/balanco-estragos-supercelula-rs.ghtml) (g1)
+- Wall Street entra em correção: S&amp;P 500 -3,7% e Nasdaq -10% na semana com rout da IA (https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad) (AP / Reuters)
+- Mísseis russos caem na Polônia; Tusk fala em "provocação intencional" (https://www.afp.com/en/warsaw-says-russian-missiles-hit-poland-denounces-intentional-provocation) (AFP / AP)
+- Cúpula Reino Unido-UE fecha acordos sanitário, de carbono e de mobilidade para 100 mil jovens (https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit) (The Guardian / GOV.UK)
+- COP31 entra na prorrogação sem menção a fósseis; mapas do caminho de Belém saem do texto (https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/) (Exame / ONU News)
+- Musk diz que se sente "tolo" por gastar US$ 446 mi nas eleições e que "não é MAGA" (https://www.bbc.com/news/articles/cm9q8j2z3gg8o) (BBC)
+- Bukele busca terceiro mandato após mudança na Constituição (https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change) (Al Jazeera)
+- Greve e protestos na Itália por salários e serviços públicos (https://www.reuters.com/world/thousands-protest-across-italy-strike-over-wages-public-spending-2026-11-20/) (Reuters)
+
+## VC e startups
+- NBS capta R$ 11 mi com BluStone a valuation de R$ 50 mi; pediu licença de ativos virtuais ao BC (https://exame.com/insight/blustone-lidera-rodada-na-fintech-nbs-avaliada-em-r-50-milhoes/p) (Exame)
+- QI Tech lança seguradora própria e mira R$ 3 bi em prêmios em 3 a 5 anos (https://braziljournal.com/brands/a-qi-tech-quer-dar-as-empresas-uma-seguradora-para-chamar-de-sua-e-mira-r-3-bi-em-premios) (Brazil Journal / Revista Apólice)
+- Anthropic cai 9% no segundo pregão e quase volta ao preço do IPO (https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html) (CNBC / Reuters / Fortune)
+- Deutsche Telekom (T.Capital) investe € 100 mi na Mistral; valuation acima de € 21 bi (https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/deutsche-telekom-advances-sovereign-ai-in-germany) (Deutsche Telekom)
+
+## Inteligência artificial
+- Matemático da Anthropic diz ter provado a hipótese de Riemann com o Claude; prova em Lean (https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/) (Scientific American / Nature)
+- Trump ameaça "tremendo imposto" a big techs que construírem data centers de IA fora dos EUA (https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879) (AP / CNBC)
+- Boticário usa IA para definir desconto individual na Beauty Week e prevê 32% mais clientes com ofertas personalizadas (https://exame.com/inteligencia-artificial/como-o-boticario-usa-ia-para-decidir-quem-recebe-cada-desconto-na-beauty-week/) (Exame)
+- Google dá a governo e infraestrutura crítica do Japão acesso antecipado a ferramentas de ciberdefesa com IA (https://www.telecompaper.com/news/google-offers-japan-early-access-to-ai-cyber-defence-tools-in-wider-security-initiative--1589490) (Telecompaper)
+- KDDI amplia patrulhas remotas com drones para monitorar ursos em Hokkaido (https://www.telecompaper.com/news/kddi-uses-remote-drone-patrols-to-monitor-bears-in-hokkaido--1589493) (Telecompaper)
+
+## Mídia, software e plataformas
+- SEC investiga contabilidade da Nvidia; ação cai 14% e empresa fica abaixo da Alphabet (https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/) (Reuters)
+- NYT: Jensen Huang tornou humilhação rotina na Nvidia; acordos confidenciais com funcionários (https://www.inquirer.com/business/jensen-huang-nvidia-culture-20261120.html) (The New York Times (via Inquirer))
+- Senacon notifica Amazon, Mercado Livre, TikTok Shop, Shopee e Temu antes da Black Friday (https://www.gov.br/mj/pt-br/assuntos/noticias/senacon-notifica-plataformas-e-varejistas-para-prevenir-problemas-durante-a-black-friday) (Ministério da Justiça)
+- Neotrust projeta R$ 13,3 bi no e-commerce na Black Friday (+20,7%) (https://confi.com.vc/neotrust/blog/black-friday-2026-tres-projecoes-de-r-13-3-bi-a-r-16-6-bi) (Confi/Neotrust)
+- TikTok Shop é citado por 22% dos compradores e entra no top 3 de canais no Brasil (https://ecommerceplanet.com.br/tiktok-shop-supera-shein-e-amazon-em-pesquisa-e-entra-no-top-3-das-compras-online-no-brasil/) (E-commerce Planet)
+- PayPal nomeia Claire Bramley, da Xero, como CFO no lugar de Jamie Miller (https://www.reuters.com/legal/transactional/paypal-names-claire-bramley-chief-financial-officer-2026-11-20/) (Reuters)
+- Provedores britânicos registram picos de tráfego após lançamento de GTA VI (https://www.telecompaper.com/news/uk-isps-ixs-report-network-traffic-surges-after-gta-vi-launch--1589420) (Telecompaper)
+- Alan Wolk (TVREV): criadores sem porteiros ainda precisam de mentores, não só de IA (https://www.tvrev.com/news/wir20261120) (TVREV)
+
+Desdobramentos de episódios anteriores: ajuste fiscal na Câmara, ministro da Fazenda, caso Master (relatórios na PGR), IPO da Anthropic, COP31, GTA VI e as rodadas da semana (Nomad, Avenia, Vambe, Kevel, HeadOffice.ai, Gabriel).
+
+Newsletters do dia: the news, Reuters, The New York Times, Telecompaper, Alan Wolk (TVREV), Brazil Journal e tns business. Texto e pesquisa com IA, conferidos em fontes abertas.</description>
+      <content:encoded>&lt;p&gt;Com a B3 fechada no feriado, Wall Street entra em correção, a Nvidia despenca 14% com investigação contábil da SEC e a Anthropic quase volta ao preço do IPO. No caso Master, o relatório da PF sobre Mendonça traz a ideia de um instituto para Moraes em Londres; Moraes vota para manter Flávio Bolsonaro sem passaportes; Trump diz que as Filipinas vão trocar o agro brasileiro pelo americano. Mísseis russos caem na Polônia, Reino Unido e UE fecham acordos, e a COP31 vai à prorrogação sem os fósseis. No VC, NBS e QI Tech; na IA, a possível prova da hipótese de Riemann com o Claude e o Boticário na Beauty Week; e a Black Friday sob o olhar da Senacon.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/20/lula-4-ministros-o-que-se-sabe.ghtml"&gt;Feriado fecha a B3; dólar segue em R$ 5,93 e Câmara vota ajuste fiscal na segunda (23)&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-manda-quebrar-sigilo-de-relatorio-da-pf-com-mencoes-mendonca"&gt;Fachin derruba sigilo do relatório da PF sobre Mendonça: 11 diálogos, nenhuma mensagem direta com Vorcaro&lt;/a&gt; (Agência Brasil)&lt;br/&gt;
+- &lt;a href="https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/20/vorcaro-e-faria-planejaram-criar-instituto-para-moraes-em-londres.ghtm"&gt;Mensagens: Fábio Faria propôs a Vorcaro criar instituto para Moraes em Londres&lt;/a&gt; (UOL / CBN)&lt;br/&gt;
+- &lt;a href="https://www.migalhas.com.br/quentes/469018/moraes-vota-por-manter-flavio-sem-passaportes-e-sem-contato-com-willer"&gt;Moraes vota para manter cancelados os passaportes de Flávio Bolsonaro; Turma julga até 30/11&lt;/a&gt; (Migalhas / UOL)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml"&gt;Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/mundo/noticia/2026/11/20/trump-diz-ter-exigido-que-filipinas-troque-produtos-agrcolas-do-brasil-pelos-dos-eua.ghtml"&gt;Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA a partir de 1º de janeiro&lt;/a&gt; (Valor / g1)&lt;br/&gt;
+- &lt;a href="https://exame.com/agro/bota-chapeu-e-fivela-6-em-cada-10-brasileiros-se-identificam-com-o-agro-diz-pesquisa/"&gt;Pesquisa: 6 em cada 10 brasileiros se identificam com o agro; só 13% vivem no campo&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/balanco-estragos-supercelula-rs.ghtml"&gt;Supercélula no RS: 3 mortos, 60 feridos e mais de 5 mil casas destelhadas; Tupanciretã é a mais atingida&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad"&gt;Wall Street entra em correção: S&amp;amp;P 500 -3,7% e Nasdaq -10% na semana com rout da IA&lt;/a&gt; (AP / Reuters)&lt;br/&gt;
+- &lt;a href="https://www.afp.com/en/warsaw-says-russian-missiles-hit-poland-denounces-intentional-provocation"&gt;Mísseis russos caem na Polônia; Tusk fala em &amp;quot;provocação intencional&amp;quot;&lt;/a&gt; (AFP / AP)&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit"&gt;Cúpula Reino Unido-UE fecha acordos sanitário, de carbono e de mobilidade para 100 mil jovens&lt;/a&gt; (The Guardian / GOV.UK)&lt;br/&gt;
+- &lt;a href="https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/"&gt;COP31 entra na prorrogação sem menção a fósseis; mapas do caminho de Belém saem do texto&lt;/a&gt; (Exame / ONU News)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/cm9q8j2z3gg8o"&gt;Musk diz que se sente &amp;quot;tolo&amp;quot; por gastar US$ 446 mi nas eleições e que &amp;quot;não é MAGA&amp;quot;&lt;/a&gt; (BBC)&lt;br/&gt;
+- &lt;a href="https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change"&gt;Bukele busca terceiro mandato após mudança na Constituição&lt;/a&gt; (Al Jazeera)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/world/thousands-protest-across-italy-strike-over-wages-public-spending-2026-11-20/"&gt;Greve e protestos na Itália por salários e serviços públicos&lt;/a&gt; (Reuters)&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://exame.com/insight/blustone-lidera-rodada-na-fintech-nbs-avaliada-em-r-50-milhoes/p"&gt;NBS capta R$ 11 mi com BluStone a valuation de R$ 50 mi; pediu licença de ativos virtuais ao BC&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/brands/a-qi-tech-quer-dar-as-empresas-uma-seguradora-para-chamar-de-sua-e-mira-r-3-bi-em-premios"&gt;QI Tech lança seguradora própria e mira R$ 3 bi em prêmios em 3 a 5 anos&lt;/a&gt; (Brazil Journal / Revista Apólice)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html"&gt;Anthropic cai 9% no segundo pregão e quase volta ao preço do IPO&lt;/a&gt; (CNBC / Reuters / Fortune)&lt;br/&gt;
+- &lt;a href="https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/deutsche-telekom-advances-sovereign-ai-in-germany"&gt;Deutsche Telekom (T.Capital) investe € 100 mi na Mistral; valuation acima de € 21 bi&lt;/a&gt; (Deutsche Telekom)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"&gt;Matemático da Anthropic diz ter provado a hipótese de Riemann com o Claude; prova em Lean&lt;/a&gt; (Scientific American / Nature)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879"&gt;Trump ameaça &amp;quot;tremendo imposto&amp;quot; a big techs que construírem data centers de IA fora dos EUA&lt;/a&gt; (AP / CNBC)&lt;br/&gt;
+- &lt;a href="https://exame.com/inteligencia-artificial/como-o-boticario-usa-ia-para-decidir-quem-recebe-cada-desconto-na-beauty-week/"&gt;Boticário usa IA para definir desconto individual na Beauty Week e prevê 32% mais clientes com ofertas personalizadas&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://www.telecompaper.com/news/google-offers-japan-early-access-to-ai-cyber-defence-tools-in-wider-security-initiative--1589490"&gt;Google dá a governo e infraestrutura crítica do Japão acesso antecipado a ferramentas de ciberdefesa com IA&lt;/a&gt; (Telecompaper)&lt;br/&gt;
+- &lt;a href="https://www.telecompaper.com/news/kddi-uses-remote-drone-patrols-to-monitor-bears-in-hokkaido--1589493"&gt;KDDI amplia patrulhas remotas com drones para monitorar ursos em Hokkaido&lt;/a&gt; (Telecompaper)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/"&gt;SEC investiga contabilidade da Nvidia; ação cai 14% e empresa fica abaixo da Alphabet&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.inquirer.com/business/jensen-huang-nvidia-culture-20261120.html"&gt;NYT: Jensen Huang tornou humilhação rotina na Nvidia; acordos confidenciais com funcionários&lt;/a&gt; (The New York Times (via Inquirer))&lt;br/&gt;
+- &lt;a href="https://www.gov.br/mj/pt-br/assuntos/noticias/senacon-notifica-plataformas-e-varejistas-para-prevenir-problemas-durante-a-black-friday"&gt;Senacon notifica Amazon, Mercado Livre, TikTok Shop, Shopee e Temu antes da Black Friday&lt;/a&gt; (Ministério da Justiça)&lt;br/&gt;
+- &lt;a href="https://confi.com.vc/neotrust/blog/black-friday-2026-tres-projecoes-de-r-13-3-bi-a-r-16-6-bi"&gt;Neotrust projeta R$ 13,3 bi no e-commerce na Black Friday (+20,7%)&lt;/a&gt; (Confi/Neotrust)&lt;br/&gt;
+- &lt;a href="https://ecommerceplanet.com.br/tiktok-shop-supera-shein-e-amazon-em-pesquisa-e-entra-no-top-3-das-compras-online-no-brasil/"&gt;TikTok Shop é citado por 22% dos compradores e entra no top 3 de canais no Brasil&lt;/a&gt; (E-commerce Planet)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/legal/transactional/paypal-names-claire-bramley-chief-financial-officer-2026-11-20/"&gt;PayPal nomeia Claire Bramley, da Xero, como CFO no lugar de Jamie Miller&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.telecompaper.com/news/uk-isps-ixs-report-network-traffic-surges-after-gta-vi-launch--1589420"&gt;Provedores britânicos registram picos de tráfego após lançamento de GTA VI&lt;/a&gt; (Telecompaper)&lt;br/&gt;
+- &lt;a href="https://www.tvrev.com/news/wir20261120"&gt;Alan Wolk (TVREV): criadores sem porteiros ainda precisam de mentores, não só de IA&lt;/a&gt; (TVREV)&lt;/p&gt;
+&lt;p&gt;Desdobramentos de episódios anteriores: ajuste fiscal na Câmara, ministro da Fazenda, caso Master (relatórios na PGR), IPO da Anthropic, COP31, GTA VI e as rodadas da semana (Nomad, Avenia, Vambe, Kevel, HeadOffice.ai, Gabriel).&lt;/p&gt;
+&lt;p&gt;Newsletters do dia: the news, Reuters, The New York Times, Telecompaper, Alan Wolk (TVREV), Brazil Journal e tns business. Texto e pesquisa com IA, conferidos em fontes abertas.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-21/entreouvido-por-ai-2026-11-21.mp3" length="42772941" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 21 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Com a B3 fechada no feriado, Wall Street entra em correção, a Nvidia despenca 14% com investigação contábil da SEC e a Anthropic quase volta ao preço do IPO. No caso Master, o relatório da PF sobre Mendonça traz a ideia de um instituto para Moraes em Londres; Moraes vota para manter Flávio Bolsonaro sem passaportes; Trump diz que as Filipinas vão trocar o agro brasileiro pelo americano. Mísseis russos caem na Polônia, Reino Unido e UE fecham acordos, e a COP31 vai à prorrogação sem os fósseis. No VC, NBS e QI Tech; na IA, a possível prova da hipótese de Riemann com o Claude e o Boticário na Beauty Week; e a Black Friday sob o olhar da Senacon.
+
+## Política, geopolítica e economia
+- Feriado fecha a B3; dólar segue em R$ 5,93 e Câmara vota ajuste fiscal na segunda (23) (https://g1.globo.com/politica/noticia/2026/11/20/lula-4-ministros-o-que-se-sabe.ghtml) (g1)
+- Fachin derruba sigilo do relatório da PF sobre Mendonça: 11 diálogos, nenhuma mensagem direta com Vorcaro (https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-manda-quebrar-sigilo-de-relatorio-da-pf-com-mencoes-mendonca) (Agência Brasil)
+- Mensagens: Fábio Faria propôs a Vorcaro criar instituto para Moraes em Londres (https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/20/vorcaro-e-faria-planejaram-criar-instituto-para-moraes-em-londres.ghtm) (UOL / CBN)
+- Moraes vota para manter cancelados os passaportes de Flávio Bolsonaro; Turma julga até 30/11 (https://www.migalhas.com.br/quentes/469018/moraes-vota-por-manter-flavio-sem-passaportes-e-sem-contato-com-willer) (Migalhas / UOL)
+- Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF (https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml) (g1)
+- Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA a partir de 1º de janeiro (https://valor.globo.com/mundo/noticia/2026/11/20/trump-diz-ter-exigido-que-filipinas-troque-produtos-agrcolas-do-brasil-pelos-dos-eua.ghtml) (Valor / g1)
+- Pesquisa: 6 em cada 10 brasileiros se identificam com o agro; só 13% vivem no campo (https://exame.com/agro/bota-chapeu-e-fivela-6-em-cada-10-brasileiros-se-identificam-com-o-agro-diz-pesquisa/) (Exame)
+- Supercélula no RS: 3 mortos, 60 feridos e mais de 5 mil casas destelhadas; Tupanciretã é a mais atingida (https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/balanco-estragos-supercelula-rs.ghtml) (g1)
+- Wall Street entra em correção: S&amp;P 500 -3,7% e Nasdaq -10% na semana com rout da IA (https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad) (AP / Reuters)
+- Mísseis russos caem na Polônia; Tusk fala em "provocação intencional" (https://www.afp.com/en/warsaw-says-russian-missiles-hit-poland-denounces-intentional-provocation) (AFP / AP)
+- Cúpula Reino Unido-UE fecha acordos sanitário, de carbono e de mobilidade para 100 mil jovens (https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit) (The Guardian / GOV.UK)
+- COP31 entra na prorrogação sem menção a fósseis; mapas do caminho de Belém saem do texto (https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/) (Exame / ONU News)
+- Musk diz que se sente "tolo" por gastar US$ 446 mi nas eleições e que "não é MAGA" (https://www.bbc.com/news/articles/cm9q8j2z3gg8o) (BBC)
+- Bukele busca terceiro mandato após mudança na Constituição (https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change) (Al Jazeera)
+- Greve e protestos na Itália por salários e serviços públicos (https://www.reuters.com/world/thousands-protest-across-italy-strike-over-wages-public-spending-2026-11-20/) (Reuters)
+
+## VC e startups
+- NBS capta R$ 11 mi com BluStone a valuation de R$ 50 mi; pediu licença de ativos virtuais ao BC (https://exame.com/insight/blustone-lidera-rodada-na-fintech-nbs-avaliada-em-r-50-milhoes/p) (Exame)
+- QI Tech lança seguradora própria e mira R$ 3 bi em prêmios em 3 a 5 anos (https://braziljournal.com/brands/a-qi-tech-quer-dar-as-empresas-uma-seguradora-para-chamar-de-sua-e-mira-r-3-bi-em-premios) (Brazil Journal / Revista Apólice)
+- Anthropic cai 9% no segundo pregão e quase volta ao preço do IPO (https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html) (CNBC / Reuters / Fortune)
+- Deutsche Telekom (T.Capital) investe € 100 mi na Mistral; valuation acima de € 21 bi (https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/deutsche-telekom-advances-sovereign-ai-in-germany) (Deutsche Telekom)
+
+## Inteligência artificial
+- Matemático da Anthropic diz ter provado a hipótese de Riemann com o Claude; prova em Lean (https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/) (Scientific American / Nature)
+- Trump ameaça "tremendo imposto" a big techs que construírem data centers de IA fora dos EUA (https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879) (AP / CNBC)
+- Boticário usa IA para definir desconto individual na Beauty Week e prevê 32% mais clientes com ofertas personalizadas (https://exame.com/inteligencia-artificial/como-o-boticario-usa-ia-para-decidir-quem-recebe-cada-desconto-na-beauty-week/) (Exame)
+- Google dá a governo e infraestrutura crítica do Japão acesso antecipado a ferramentas de ciberdefesa com IA (https://www.telecompaper.com/news/google-offers-japan-early-access-to-ai-cyber-defence-tools-in-wider-security-initiative--1589490) (Telecompaper)
+- KDDI amplia patrulhas remotas com drones para monitorar ursos em Hokkaido (https://www.telecompaper.com/news/kddi-uses-remote-drone-patrols-to-monitor-bears-in-hokkaido--1589493) (Telecompaper)
+
+## Mídia, software e plataformas
+- SEC investiga contabilidade da Nvidia; ação cai 14% e empresa fica abaixo da Alphabet (https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/) (Reuters)
+- NYT: Jensen Huang tornou humilhação rotina na Nvidia; acordos confidenciais com funcionários (https://www.inquirer.com/business/jensen-huang-nvidia-culture-20261120.html) (The New York Times (via Inquirer))
+- Senacon notifica Amazon, Mercado Livre, TikTok Shop, Shopee e Temu antes da Black Friday (https://www.gov.br/mj/pt-br/assuntos/noticias/senacon-notifica-plataformas-e-varejistas-para-prevenir-problemas-durante-a-black-friday) (Ministério da Justiça)
+- Neotrust projeta R$ 13,3 bi no e-commerce na Black Friday (+20,7%) (https://confi.com.vc/neotrust/blog/black-friday-2026-tres-projecoes-de-r-13-3-bi-a-r-16-6-bi) (Confi/Neotrust)
+- TikTok Shop é citado por 22% dos compradores e entra no top 3 de canais no Brasil (https://ecommerceplanet.com.br/tiktok-shop-supera-shein-e-amazon-em-pesquisa-e-entra-no-top-3-das-compras-online-no-brasil/) (E-commerce Planet)
+- PayPal nomeia Claire Bramley, da Xero, como CFO no lugar de Jamie Miller (https://www.reuters.com/legal/transactional/paypal-names-claire-bramley-chief-financial-officer-2026-11-20/) (Reuters)
+- Provedores britânicos registram picos de tráfego após lançamento de GTA VI (https://www.telecompaper.com/news/uk-isps-ixs-report-network-traffic-surges-after-gta-vi-launch--1589420) (Telecompaper)
+- Alan Wolk (TVREV): criadores sem porteiros ainda precisam de mentores, não só de IA (https://www.tvrev.com/news/wir20261120) (TVREV)
+
+Desdobramentos de episódios anteriores: ajuste fiscal na Câmara, ministro da Fazenda, caso Master (relatórios na PGR), IPO da Anthropic, COP31, GTA VI e as rodadas da semana (Nomad, Avenia, Vambe, Kevel, HeadOffice.ai, Gabriel).
+
+Newsletters do dia: the news, Reuters, The New York Times, Telecompaper, Alan Wolk (TVREV), Brazil Journal e tns business. Texto e pesquisa com IA, conferidos em fontes abertas.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>29:42</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 20 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
