@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 21 Nov 2026 08:35:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:14:02 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,123 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 22 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-22:entreouvido-por-ai/ep-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Domingo de véspera: a Câmara vota o ajuste fiscal nesta segunda, e Lula diz que não é reforma, é ajuste, e que os "yuppies da Faria Lima" não vão ensiná-lo a governar. Bolsonaro está na UTI com obstrução intestinal; Zanin suspende a fusão Cidadania-PP; o balanço da supercélula no RS sobe para cinco mortos; e destroços de drones russos atingem a embaixada do Brasil em Kiev. Lá fora, Rutte promete defender cada centímetro da Polônia, um navio russo pega fogo no Golfo da Finlândia, EUA e Irã trocam versões sobre um F-16 e a COP31 chega ao fim de semana sem citar os fósseis. No VC, o balanço da semana de Nomad, Avenia e Nova, os US$ 107 bi da Anthropic e a compra do Mailchimp pela Bending Spoons; na IA, a prova da hipótese de Riemann feita com o Claude é verificada e a Big Pharma mostra ganhos reais; e GTA VI fatura US$ 3,79 bi e bate recordes na Twitch.
+
+## Política, geopolítica e economia
+- Câmara vota ajuste fiscal nesta segunda (23); relator mantém texto do Senado (https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml) (g1)
+- Lula em live com Janones: 'não é reforma, é ajuste'; ataca 'yuppies da Faria Lima' (https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml) (g1)
+- BC fez 1ª intervenção cambial desde 2024 após fala de Lula (https://www.bloomberglinea.com.br/mercados/bc-faz-1-intervencao-cambial-desde-2024-apos-fala-de-lula-dolar-vai-a-r-594/) (Bloomberg Línea)
+- Bolsonaro na UTI com obstrução intestinal; estável e sem previsão de alta (https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml) (g1)
+- Moraes autoriza visitas diárias de filhos a Bolsonaro no hospital, mas veda celular (https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml) (g1)
+- Zanin suspende congresso do Cidadania que votaria incorporação ao PP (https://oglobo.globo.com/politica/noticia/2026/11/21/zanin-suspende-congresso-do-cidadania-que-decidiria-sobre-incorporacao-ao-pp.ghtml) (O Globo)
+- Supercélula no RS: cinco mortos, 265 feridos e 36 cidades com estragos (https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/tempestade-mortos-feridos-destelhamento-tupancireta-rs.ghtml) (g1)
+- Destroços de drones russos atingem embaixada do Brasil em Kiev; Itamaraty condena (https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/impactos-em-embaixadas-em-kiev-na-ucrania) (Itamaraty)
+- Rutte em Varsóvia: OTAN defenderá cada centímetro da Polônia (https://www.reuters.com/3fec1b0a85a0/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/) (Reuters)
+- Navio russo Sparta II pega fogo no Golfo da Finlândia após ataque de drones (https://www.reuters.com/3fec1b0a85a0/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/) (Reuters)
+- EUA negam versão do Irã de que míssil danificou F-16 sobre o Golfo (https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/) (Reuters)
+- Terceiro rascunho da COP31 evita citar fim dos fósseis e exclui mapa do caminho do Brasil (https://g1.globo.com/meio-ambiente/noticia/2026/11/21/novo-rascunho-da-cop31.ghtml) (g1)
+- México captura 'Chapo Isidro', um dos dez mais procurados do FBI (https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07) (AP)
+- El Niño deve pesar mais na inflação já no início de 2027 (https://valor.globo.com/brasil/noticia/2026/11/19/com-el-nino-mais-forte-e-reforma-tributaria-warren-rena-eleva-projecoes-para-o-ipca.ghtml) (Estadão / Valor)
+
+## VC e startups
+- Rodadas da semana: Nomad, Avenia e Nova com cheques acima de R$ 120 mi (https://www.bloomberglinea.com.br/startups/rodadas-da-semana-nomad-avenia-e-nova-captam-rodadas-acima-de-r-120-milhoes/) (Bloomberg Línea)
+- Anthropic levantou US$ 107,3 bi somando IPO ampliado e colocação privada; mercado vê IPO da OpenAI distante (https://www.koreaherald.com/article/10944733) (Bloomberg Línea / Korea Herald)
+- Everful, de ex-executivo do Alibaba, capta US$ 48,5 mi para ligar varejistas a fábricas chinesas (https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/) (TechCrunch)
+- Archer (€ 9 mi) e Wilco (€ 2,5 mi): rodadas pequenas para agentes de IA de nicho (https://startupcorners.com/digest/funding-digest-2026-11-21) (StartupCorners)
+- Bending Spoons compra Mailchimp da Intuit por US$ 3,68 bi (Intuit pagou ~US$ 12 bi em 2021) (https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html) (CNBC / TechCrunch)
+
+## Inteligência artificial
+- Dois grupos verificam a prova da hipótese de Riemann feita com o Claude (https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai) (The Guardian)
+- Big Pharma diz que IA cortou até pela metade o tempo para gerar moléculas (https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287) (Reuters)
+- Google fecha compra de energia geotérmica de rocha superaquecida para data centers (https://www.opb.org/article/2026/11/17/google-oregon-bend-la-pine-superhot-rocks-technology-energy-power/) (OPB)
+
+## Mídia, software e plataformas
+- Take-Two: GTA VI fatura US$ 3,79 bi em pré-venda e primeiro dia (https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records) (Take-Two)
+- YouTube e Twitch criam ativações para GTA VI; Twitch bate recorde com 3,3 mi simultâneos (https://www.meioemensagem.com.br/midia/youtube-e-twitch-criam-ativacoes-para-lancamento-do-gta-vi) (Meio &amp; Mensagem)
+- Sarandos: guerra do streaming continua; metade da TV nos EUA ainda é linear (https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/) (Ars Technica)
+- Oposição indiana protesta em escritórios da Meta por remoção de contas (https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html) (CNBC)
+- Reglab: creator economy cresce, mas reconhecimento institucional não acompanha (https://www.meioemensagem.com.br/midia/creator-economy-cresce-mas-profissionalizacao-nao-acompanha) (Meio &amp; Mensagem)</description>
+      <content:encoded>&lt;p&gt;Domingo de véspera: a Câmara vota o ajuste fiscal nesta segunda, e Lula diz que não é reforma, é ajuste, e que os &amp;quot;yuppies da Faria Lima&amp;quot; não vão ensiná-lo a governar. Bolsonaro está na UTI com obstrução intestinal; Zanin suspende a fusão Cidadania-PP; o balanço da supercélula no RS sobe para cinco mortos; e destroços de drones russos atingem a embaixada do Brasil em Kiev. Lá fora, Rutte promete defender cada centímetro da Polônia, um navio russo pega fogo no Golfo da Finlândia, EUA e Irã trocam versões sobre um F-16 e a COP31 chega ao fim de semana sem citar os fósseis. No VC, o balanço da semana de Nomad, Avenia e Nova, os US$ 107 bi da Anthropic e a compra do Mailchimp pela Bending Spoons; na IA, a prova da hipótese de Riemann feita com o Claude é verificada e a Big Pharma mostra ganhos reais; e GTA VI fatura US$ 3,79 bi e bate recordes na Twitch.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml"&gt;Câmara vota ajuste fiscal nesta segunda (23); relator mantém texto do Senado&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml"&gt;Lula em live com Janones: &amp;#x27;não é reforma, é ajuste&amp;#x27;; ataca &amp;#x27;yuppies da Faria Lima&amp;#x27;&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://www.bloomberglinea.com.br/mercados/bc-faz-1-intervencao-cambial-desde-2024-apos-fala-de-lula-dolar-vai-a-r-594/"&gt;BC fez 1ª intervenção cambial desde 2024 após fala de Lula&lt;/a&gt; (Bloomberg Línea)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml"&gt;Bolsonaro na UTI com obstrução intestinal; estável e sem previsão de alta&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml"&gt;Moraes autoriza visitas diárias de filhos a Bolsonaro no hospital, mas veda celular&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/politica/noticia/2026/11/21/zanin-suspende-congresso-do-cidadania-que-decidiria-sobre-incorporacao-ao-pp.ghtml"&gt;Zanin suspende congresso do Cidadania que votaria incorporação ao PP&lt;/a&gt; (O Globo)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/tempestade-mortos-feridos-destelhamento-tupancireta-rs.ghtml"&gt;Supercélula no RS: cinco mortos, 265 feridos e 36 cidades com estragos&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/impactos-em-embaixadas-em-kiev-na-ucrania"&gt;Destroços de drones russos atingem embaixada do Brasil em Kiev; Itamaraty condena&lt;/a&gt; (Itamaraty)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/"&gt;Rutte em Varsóvia: OTAN defenderá cada centímetro da Polônia&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/"&gt;Navio russo Sparta II pega fogo no Golfo da Finlândia após ataque de drones&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/"&gt;EUA negam versão do Irã de que míssil danificou F-16 sobre o Golfo&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/meio-ambiente/noticia/2026/11/21/novo-rascunho-da-cop31.ghtml"&gt;Terceiro rascunho da COP31 evita citar fim dos fósseis e exclui mapa do caminho do Brasil&lt;/a&gt; (g1)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07"&gt;México captura &amp;#x27;Chapo Isidro&amp;#x27;, um dos dez mais procurados do FBI&lt;/a&gt; (AP)&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/brasil/noticia/2026/11/19/com-el-nino-mais-forte-e-reforma-tributaria-warren-rena-eleva-projecoes-para-o-ipca.ghtml"&gt;El Niño deve pesar mais na inflação já no início de 2027&lt;/a&gt; (Estadão / Valor)&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://www.bloomberglinea.com.br/startups/rodadas-da-semana-nomad-avenia-e-nova-captam-rodadas-acima-de-r-120-milhoes/"&gt;Rodadas da semana: Nomad, Avenia e Nova com cheques acima de R$ 120 mi&lt;/a&gt; (Bloomberg Línea)&lt;br/&gt;
+- &lt;a href="https://www.koreaherald.com/article/10944733"&gt;Anthropic levantou US$ 107,3 bi somando IPO ampliado e colocação privada; mercado vê IPO da OpenAI distante&lt;/a&gt; (Bloomberg Línea / Korea Herald)&lt;br/&gt;
+- &lt;a href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"&gt;Everful, de ex-executivo do Alibaba, capta US$ 48,5 mi para ligar varejistas a fábricas chinesas&lt;/a&gt; (TechCrunch)&lt;br/&gt;
+- &lt;a href="https://startupcorners.com/digest/funding-digest-2026-11-21"&gt;Archer (€ 9 mi) e Wilco (€ 2,5 mi): rodadas pequenas para agentes de IA de nicho&lt;/a&gt; (StartupCorners)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"&gt;Bending Spoons compra Mailchimp da Intuit por US$ 3,68 bi (Intuit pagou ~US$ 12 bi em 2021)&lt;/a&gt; (CNBC / TechCrunch)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"&gt;Dois grupos verificam a prova da hipótese de Riemann feita com o Claude&lt;/a&gt; (The Guardian)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287"&gt;Big Pharma diz que IA cortou até pela metade o tempo para gerar moléculas&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.opb.org/article/2026/11/17/google-oregon-bend-la-pine-superhot-rocks-technology-energy-power/"&gt;Google fecha compra de energia geotérmica de rocha superaquecida para data centers&lt;/a&gt; (OPB)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"&gt;Take-Two: GTA VI fatura US$ 3,79 bi em pré-venda e primeiro dia&lt;/a&gt; (Take-Two)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/youtube-e-twitch-criam-ativacoes-para-lancamento-do-gta-vi"&gt;YouTube e Twitch criam ativações para GTA VI; Twitch bate recorde com 3,3 mi simultâneos&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/"&gt;Sarandos: guerra do streaming continua; metade da TV nos EUA ainda é linear&lt;/a&gt; (Ars Technica)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html"&gt;Oposição indiana protesta em escritórios da Meta por remoção de contas&lt;/a&gt; (CNBC)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/creator-economy-cresce-mas-profissionalizacao-nao-acompanha"&gt;Reglab: creator economy cresce, mas reconhecimento institucional não acompanha&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-22/entreouvido-por-ai-2026-11-22.mp3" length="43120892" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 22 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Domingo de véspera: a Câmara vota o ajuste fiscal nesta segunda, e Lula diz que não é reforma, é ajuste, e que os "yuppies da Faria Lima" não vão ensiná-lo a governar. Bolsonaro está na UTI com obstrução intestinal; Zanin suspende a fusão Cidadania-PP; o balanço da supercélula no RS sobe para cinco mortos; e destroços de drones russos atingem a embaixada do Brasil em Kiev. Lá fora, Rutte promete defender cada centímetro da Polônia, um navio russo pega fogo no Golfo da Finlândia, EUA e Irã trocam versões sobre um F-16 e a COP31 chega ao fim de semana sem citar os fósseis. No VC, o balanço da semana de Nomad, Avenia e Nova, os US$ 107 bi da Anthropic e a compra do Mailchimp pela Bending Spoons; na IA, a prova da hipótese de Riemann feita com o Claude é verificada e a Big Pharma mostra ganhos reais; e GTA VI fatura US$ 3,79 bi e bate recordes na Twitch.
+
+## Política, geopolítica e economia
+- Câmara vota ajuste fiscal nesta segunda (23); relator mantém texto do Senado (https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml) (g1)
+- Lula em live com Janones: 'não é reforma, é ajuste'; ataca 'yuppies da Faria Lima' (https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml) (g1)
+- BC fez 1ª intervenção cambial desde 2024 após fala de Lula (https://www.bloomberglinea.com.br/mercados/bc-faz-1-intervencao-cambial-desde-2024-apos-fala-de-lula-dolar-vai-a-r-594/) (Bloomberg Línea)
+- Bolsonaro na UTI com obstrução intestinal; estável e sem previsão de alta (https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml) (g1)
+- Moraes autoriza visitas diárias de filhos a Bolsonaro no hospital, mas veda celular (https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml) (g1)
+- Zanin suspende congresso do Cidadania que votaria incorporação ao PP (https://oglobo.globo.com/politica/noticia/2026/11/21/zanin-suspende-congresso-do-cidadania-que-decidiria-sobre-incorporacao-ao-pp.ghtml) (O Globo)
+- Supercélula no RS: cinco mortos, 265 feridos e 36 cidades com estragos (https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/tempestade-mortos-feridos-destelhamento-tupancireta-rs.ghtml) (g1)
+- Destroços de drones russos atingem embaixada do Brasil em Kiev; Itamaraty condena (https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/impactos-em-embaixadas-em-kiev-na-ucrania) (Itamaraty)
+- Rutte em Varsóvia: OTAN defenderá cada centímetro da Polônia (https://www.reuters.com/3fec1b0a85a0/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/) (Reuters)
+- Navio russo Sparta II pega fogo no Golfo da Finlândia após ataque de drones (https://www.reuters.com/3fec1b0a85a0/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/) (Reuters)
+- EUA negam versão do Irã de que míssil danificou F-16 sobre o Golfo (https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/) (Reuters)
+- Terceiro rascunho da COP31 evita citar fim dos fósseis e exclui mapa do caminho do Brasil (https://g1.globo.com/meio-ambiente/noticia/2026/11/21/novo-rascunho-da-cop31.ghtml) (g1)
+- México captura 'Chapo Isidro', um dos dez mais procurados do FBI (https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07) (AP)
+- El Niño deve pesar mais na inflação já no início de 2027 (https://valor.globo.com/brasil/noticia/2026/11/19/com-el-nino-mais-forte-e-reforma-tributaria-warren-rena-eleva-projecoes-para-o-ipca.ghtml) (Estadão / Valor)
+
+## VC e startups
+- Rodadas da semana: Nomad, Avenia e Nova com cheques acima de R$ 120 mi (https://www.bloomberglinea.com.br/startups/rodadas-da-semana-nomad-avenia-e-nova-captam-rodadas-acima-de-r-120-milhoes/) (Bloomberg Línea)
+- Anthropic levantou US$ 107,3 bi somando IPO ampliado e colocação privada; mercado vê IPO da OpenAI distante (https://www.koreaherald.com/article/10944733) (Bloomberg Línea / Korea Herald)
+- Everful, de ex-executivo do Alibaba, capta US$ 48,5 mi para ligar varejistas a fábricas chinesas (https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/) (TechCrunch)
+- Archer (€ 9 mi) e Wilco (€ 2,5 mi): rodadas pequenas para agentes de IA de nicho (https://startupcorners.com/digest/funding-digest-2026-11-21) (StartupCorners)
+- Bending Spoons compra Mailchimp da Intuit por US$ 3,68 bi (Intuit pagou ~US$ 12 bi em 2021) (https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html) (CNBC / TechCrunch)
+
+## Inteligência artificial
+- Dois grupos verificam a prova da hipótese de Riemann feita com o Claude (https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai) (The Guardian)
+- Big Pharma diz que IA cortou até pela metade o tempo para gerar moléculas (https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287) (Reuters)
+- Google fecha compra de energia geotérmica de rocha superaquecida para data centers (https://www.opb.org/article/2026/11/17/google-oregon-bend-la-pine-superhot-rocks-technology-energy-power/) (OPB)
+
+## Mídia, software e plataformas
+- Take-Two: GTA VI fatura US$ 3,79 bi em pré-venda e primeiro dia (https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records) (Take-Two)
+- YouTube e Twitch criam ativações para GTA VI; Twitch bate recorde com 3,3 mi simultâneos (https://www.meioemensagem.com.br/midia/youtube-e-twitch-criam-ativacoes-para-lancamento-do-gta-vi) (Meio &amp; Mensagem)
+- Sarandos: guerra do streaming continua; metade da TV nos EUA ainda é linear (https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/) (Ars Technica)
+- Oposição indiana protesta em escritórios da Meta por remoção de contas (https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html) (CNBC)
+- Reglab: creator economy cresce, mas reconhecimento institucional não acompanha (https://www.meioemensagem.com.br/midia/creator-economy-cresce-mas-profissionalizacao-nao-acompanha) (Meio &amp; Mensagem)</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>29:57</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 21 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
