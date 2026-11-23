@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 22 Nov 2026 08:14:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:07:29 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,122 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — 23 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-23:entreouvido-por-ai/ep-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Segunda-feira de votação: a Câmara tenta aprovar hoje, às 19h, o ajuste fiscal (PLP 299/2026), que precisa de 257 votos, enquanto o mercado volta do feriado com o dólar perto de R$ 5,93. Lula deve conversar com Alcolumbre sobre a vaga no STF, e Bolsonaro segue na UTI. Lá fora, a COP31 termina sem acordo, a OTAN se reúne sobre os mísseis russos na Polônia e os democratas chegam a 258 cadeiras na Câmara dos EUA. No VC, o Itaú Ventures investe na uruguaia Akua, a Reuters revela os bastidores do IPO da Anthropic e a CrowdStrike negocia a Zscaler. Na IA, o cientista-chefe da OpenAI propõe limites comuns, a Alemanha testa mira com IA e o BC vê agentes de IA atacando financeiras. Em mídia e plataformas, o caso Alice Huang/Nvidia, anúncios nas perguntas seguintes do AI Mode do Google, a crise da Meta na Índia e mais uma pane, agora na Delta.
+
+## Política, geopolítica e economia
+- Câmara vota hoje às 19h o ajuste fiscal; precisa de 257 votos e destaques podem levar à terça (https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml) (g1 / Metrópoles)
+- Metrópoles: texto exclui até R$ 10,5 bi de subsídio ao diesel da meta de 2026; destaques podem adiar (https://www.metropoles.com/brasil/camara-tenta-votar-ajuste-fiscal-nesta-segunda-e-relator-evita-mudancas) (Metrópoles)
+- Lula deve se reunir com Alcolumbre sobre vaga no STF e espaço do União Brasil (https://oglobo.globo.com/politica/noticia/2026/11/23/lula-deve-se-reunir-com-alcolumbre-nos-proximos-dias-para-tratar-de-formacao-do-governo-e-vaga-no-stf.ghtml) (O Globo)
+- Bolsonaro segue na UTI, estável e em jejum; nova cirurgia não descartada (https://oglobo.globo.com/politica/noticia/2026/11/22/bolsonaro-segue-na-uti-e-sem-previsao-de-alta-diz-boletim-medico.ghtml) (O Globo)
+- Semana: IPCA-15 na quinta (26), PNAD, IGP-M e fiscais na sexta (27) (https://www.estadao.com.br/einvestidor/cenarios-e-mercado/pib-nos-eua-ipca-15-e-desemprego-no-brasil-o-que-mexe-com-o-mercado-nesta-semana/) (Estadão)
+- Flamengo empata com o Palmeiras e é campeão brasileiro; Boca leva a Sul-Americana (https://exame.com/esporte/flamengo-empata-com-palmeiras-e-e-campeao-do-brasileirao/) (Exame)
+- COP31 termina sem acordo após UE rejeitar texto sem menção aos fósseis; a mais longa da história (https://g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-acordo-final-plenaria.ghtml) (g1 / Reuters / ONU)
+- Conselho da OTAN se reúne hoje sobre mísseis russos na Polônia; Varsóvia não invocou o artigo 4 (https://pt.euronews.com/2026/11/22/polonia-rutte-garante-que-nato-vai-defender-cada-centimetro-do-territorio) (Euronews / Al Jazeera)
+- Democratas chegam a 258 cadeiras, maior maioria na Câmara dos EUA desde 1992 (https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb) (AP)
+- Dois petroleiros atingidos por projéteis perto de Ormuz; sem vítimas (https://www.cnnbrasil.com.br/noticias/dois-navios-petroleiros-sofrem-ataques-proximos-ao-estreito-de-ormuz/) (Reuters / CNN Brasil)
+- Terremoto de 6,7 no centro do Peru deixa um morto e 16 feridos (https://www.vanguardia.com/mundo/2026/11/21/el-sismo-de-magnitud-67-en-peru-dejo-un-muerto-16-heridos-y-mas-de-850-damnificados/) (Vanguardia)
+
+## VC e startups
+- Itaú Ventures investe na Akua, paytech de IA de Montevidéu com até 2 mi de pagamentos/dia (https://forbes.com.br/forbes-money/2026/11/itau-ventures-investe-na-akua-paytech-com-desenvolvimento-em-montevideu/) (Forbes Brasil)
+- Brazil Journal (opinião): 'Adeus, Getúlio' — brasileiro troca a CLT pelo sonho de empreender (https://braziljournal.com/opiniao-adeus-getulio-a-clt-vai-perdendo-seu-encanto) (Brazil Journal)
+- Reuters: Anthropic impôs regras incomuns aos bancos do IPO; ação fecha sexta a US$ 88,91 (https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/) (Reuters)
+- Anthropic cai 8,5% na sexta; Morgan Stanley encerra estabilização; fundos de índice podem comprar até 30% (https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/) (Reuters)
+- CrowdStrike negocia compra da Zscaler (~US$ 32 bi de valor de mercado) (https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720) (Reuters / CRN)
+
+## Inteligência artificial
+- Cientista-chefe da OpenAI propõe limites comuns para frear modelos mais poderosos; Altman endossa (https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/22/cientista-chefe-da-openai-propoe-que-empresas-freiem-a-criacao-de-ias-mais-poderosas-ate-que-seja-possivel-controla-las.ghtml) (Bloomberg / O Globo)
+- Exército alemão testa drones kamikaze e o software de mira com IA Clarity, da Helsing, na Lituânia (https://www.reuters.com/business/aerospace-defense/german-army-starts-testing-kamikaze-drones-ai-targeting-tool-lithuania-2026-11-22/) (Reuters)
+- BC vê agentes de IA conduzindo ataques a financeiras desde outubro; 115 incidentes em 2026 (https://www.letsmoney.com.br/banco-central/bc-agentes-ia-ataques-ciberneticos-financeiras/) (Valor / Let's Money)
+- Lee visita data center de IA da SK com a AWS em Ulsan: 'velocidade é vital' (https://www.channelnewsasia.com/east-asia/south-korea-ai-race-lee-jae-myung-6571286) (Reuters / CNA)
+
+## Mídia, software e plataformas
+- NYT: Alice Huang manteve contato com oficial da espionagem chinesa durante caso com Jensen Huang (https://www.thehindu.com/news/international/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-says-nyt/article71733237.ece) (NYT / Reuters)
+- Google exibe anúncios nas perguntas de acompanhamento do AI Mode nos EUA (multiturn ads) (https://www.useryze.com/pt-br/news/google-ai-mode-multiturn-ads-follow-up-questions-us-advertisers) (PPC Land / Useryze)
+- Juventude do Congresso promete invadir escritórios da Meta na Índia; Meta restringiu 5,4 mi de posts/contas no 1º semestre (https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad) (Reuters / The Guardian)
+- Pane no sistema de peso e balanceamento atrasa mais de 1.600 voos da Delta (https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900) (ABC News)
+- The Register: 2026 passa de 100 mil vulnerabilidades registradas, mais que o dobro de 2025 (https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882) (The Register (via the news))
+
+Newsletters de apoio: the news (22/11), Brazil Journal (22/11), Reuters Technology Roundup (22/11), NYT The World (23/11) e alertas do NYT. Narração gerada por voz sintética.</description>
+      <content:encoded>&lt;p&gt;Segunda-feira de votação: a Câmara tenta aprovar hoje, às 19h, o ajuste fiscal (PLP 299/2026), que precisa de 257 votos, enquanto o mercado volta do feriado com o dólar perto de R$ 5,93. Lula deve conversar com Alcolumbre sobre a vaga no STF, e Bolsonaro segue na UTI. Lá fora, a COP31 termina sem acordo, a OTAN se reúne sobre os mísseis russos na Polônia e os democratas chegam a 258 cadeiras na Câmara dos EUA. No VC, o Itaú Ventures investe na uruguaia Akua, a Reuters revela os bastidores do IPO da Anthropic e a CrowdStrike negocia a Zscaler. Na IA, o cientista-chefe da OpenAI propõe limites comuns, a Alemanha testa mira com IA e o BC vê agentes de IA atacando financeiras. Em mídia e plataformas, o caso Alice Huang/Nvidia, anúncios nas perguntas seguintes do AI Mode do Google, a crise da Meta na Índia e mais uma pane, agora na Delta.&lt;/p&gt;
+&lt;p&gt;## Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml"&gt;Câmara vota hoje às 19h o ajuste fiscal; precisa de 257 votos e destaques podem levar à terça&lt;/a&gt; (g1 / Metrópoles)&lt;br/&gt;
+- &lt;a href="https://www.metropoles.com/brasil/camara-tenta-votar-ajuste-fiscal-nesta-segunda-e-relator-evita-mudancas"&gt;Metrópoles: texto exclui até R$ 10,5 bi de subsídio ao diesel da meta de 2026; destaques podem adiar&lt;/a&gt; (Metrópoles)&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/politica/noticia/2026/11/23/lula-deve-se-reunir-com-alcolumbre-nos-proximos-dias-para-tratar-de-formacao-do-governo-e-vaga-no-stf.ghtml"&gt;Lula deve se reunir com Alcolumbre sobre vaga no STF e espaço do União Brasil&lt;/a&gt; (O Globo)&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/politica/noticia/2026/11/22/bolsonaro-segue-na-uti-e-sem-previsao-de-alta-diz-boletim-medico.ghtml"&gt;Bolsonaro segue na UTI, estável e em jejum; nova cirurgia não descartada&lt;/a&gt; (O Globo)&lt;br/&gt;
+- &lt;a href="https://www.estadao.com.br/einvestidor/cenarios-e-mercado/pib-nos-eua-ipca-15-e-desemprego-no-brasil-o-que-mexe-com-o-mercado-nesta-semana/"&gt;Semana: IPCA-15 na quinta (26), PNAD, IGP-M e fiscais na sexta (27)&lt;/a&gt; (Estadão)&lt;br/&gt;
+- &lt;a href="https://exame.com/esporte/flamengo-empata-com-palmeiras-e-e-campeao-do-brasileirao/"&gt;Flamengo empata com o Palmeiras e é campeão brasileiro; Boca leva a Sul-Americana&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-acordo-final-plenaria.ghtml"&gt;COP31 termina sem acordo após UE rejeitar texto sem menção aos fósseis; a mais longa da história&lt;/a&gt; (g1 / Reuters / ONU)&lt;br/&gt;
+- &lt;a href="https://pt.euronews.com/2026/11/22/polonia-rutte-garante-que-nato-vai-defender-cada-centimetro-do-territorio"&gt;Conselho da OTAN se reúne hoje sobre mísseis russos na Polônia; Varsóvia não invocou o artigo 4&lt;/a&gt; (Euronews / Al Jazeera)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb"&gt;Democratas chegam a 258 cadeiras, maior maioria na Câmara dos EUA desde 1992&lt;/a&gt; (AP)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/noticias/dois-navios-petroleiros-sofrem-ataques-proximos-ao-estreito-de-ormuz/"&gt;Dois petroleiros atingidos por projéteis perto de Ormuz; sem vítimas&lt;/a&gt; (Reuters / CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://www.vanguardia.com/mundo/2026/11/21/el-sismo-de-magnitud-67-en-peru-dejo-un-muerto-16-heridos-y-mas-de-850-damnificados/"&gt;Terremoto de 6,7 no centro do Peru deixa um morto e 16 feridos&lt;/a&gt; (Vanguardia)&lt;/p&gt;
+&lt;p&gt;## VC e startups&lt;br/&gt;
+- &lt;a href="https://forbes.com.br/forbes-money/2026/11/itau-ventures-investe-na-akua-paytech-com-desenvolvimento-em-montevideu/"&gt;Itaú Ventures investe na Akua, paytech de IA de Montevidéu com até 2 mi de pagamentos/dia&lt;/a&gt; (Forbes Brasil)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/opiniao-adeus-getulio-a-clt-vai-perdendo-seu-encanto"&gt;Brazil Journal (opinião): &amp;#x27;Adeus, Getúlio&amp;#x27; — brasileiro troca a CLT pelo sonho de empreender&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/"&gt;Reuters: Anthropic impôs regras incomuns aos bancos do IPO; ação fecha sexta a US$ 88,91&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/"&gt;Anthropic cai 8,5% na sexta; Morgan Stanley encerra estabilização; fundos de índice podem comprar até 30%&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"&gt;CrowdStrike negocia compra da Zscaler (~US$ 32 bi de valor de mercado)&lt;/a&gt; (Reuters / CRN)&lt;/p&gt;
+&lt;p&gt;## Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/22/cientista-chefe-da-openai-propoe-que-empresas-freiem-a-criacao-de-ias-mais-poderosas-ate-que-seja-possivel-controla-las.ghtml"&gt;Cientista-chefe da OpenAI propõe limites comuns para frear modelos mais poderosos; Altman endossa&lt;/a&gt; (Bloomberg / O Globo)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/business/aerospace-defense/german-army-starts-testing-kamikaze-drones-ai-targeting-tool-lithuania-2026-11-22/"&gt;Exército alemão testa drones kamikaze e o software de mira com IA Clarity, da Helsing, na Lituânia&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.letsmoney.com.br/banco-central/bc-agentes-ia-ataques-ciberneticos-financeiras/"&gt;BC vê agentes de IA conduzindo ataques a financeiras desde outubro; 115 incidentes em 2026&lt;/a&gt; (Valor / Let&amp;#x27;s Money)&lt;br/&gt;
+- &lt;a href="https://www.channelnewsasia.com/east-asia/south-korea-ai-race-lee-jae-myung-6571286"&gt;Lee visita data center de IA da SK com a AWS em Ulsan: &amp;#x27;velocidade é vital&amp;#x27;&lt;/a&gt; (Reuters / CNA)&lt;/p&gt;
+&lt;p&gt;## Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.thehindu.com/news/international/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-says-nyt/article71733237.ece"&gt;NYT: Alice Huang manteve contato com oficial da espionagem chinesa durante caso com Jensen Huang&lt;/a&gt; (NYT / Reuters)&lt;br/&gt;
+- &lt;a href="https://www.useryze.com/pt-br/news/google-ai-mode-multiturn-ads-follow-up-questions-us-advertisers"&gt;Google exibe anúncios nas perguntas de acompanhamento do AI Mode nos EUA (multiturn ads)&lt;/a&gt; (PPC Land / Useryze)&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad"&gt;Juventude do Congresso promete invadir escritórios da Meta na Índia; Meta restringiu 5,4 mi de posts/contas no 1º semestre&lt;/a&gt; (Reuters / The Guardian)&lt;br/&gt;
+- &lt;a href="https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"&gt;Pane no sistema de peso e balanceamento atrasa mais de 1.600 voos da Delta&lt;/a&gt; (ABC News)&lt;br/&gt;
+- &lt;a href="https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882"&gt;The Register: 2026 passa de 100 mil vulnerabilidades registradas, mais que o dobro de 2025&lt;/a&gt; (The Register (via the news))&lt;/p&gt;
+&lt;p&gt;Newsletters de apoio: the news (22/11), Brazil Journal (22/11), Reuters Technology Roundup (22/11), NYT The World (23/11) e alertas do NYT. Narração gerada por voz sintética.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-23/entreouvido-por-ai-2026-11-23.mp3" length="43967886" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — 23 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Segunda-feira de votação: a Câmara tenta aprovar hoje, às 19h, o ajuste fiscal (PLP 299/2026), que precisa de 257 votos, enquanto o mercado volta do feriado com o dólar perto de R$ 5,93. Lula deve conversar com Alcolumbre sobre a vaga no STF, e Bolsonaro segue na UTI. Lá fora, a COP31 termina sem acordo, a OTAN se reúne sobre os mísseis russos na Polônia e os democratas chegam a 258 cadeiras na Câmara dos EUA. No VC, o Itaú Ventures investe na uruguaia Akua, a Reuters revela os bastidores do IPO da Anthropic e a CrowdStrike negocia a Zscaler. Na IA, o cientista-chefe da OpenAI propõe limites comuns, a Alemanha testa mira com IA e o BC vê agentes de IA atacando financeiras. Em mídia e plataformas, o caso Alice Huang/Nvidia, anúncios nas perguntas seguintes do AI Mode do Google, a crise da Meta na Índia e mais uma pane, agora na Delta.
+
+## Política, geopolítica e economia
+- Câmara vota hoje às 19h o ajuste fiscal; precisa de 257 votos e destaques podem levar à terça (https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml) (g1 / Metrópoles)
+- Metrópoles: texto exclui até R$ 10,5 bi de subsídio ao diesel da meta de 2026; destaques podem adiar (https://www.metropoles.com/brasil/camara-tenta-votar-ajuste-fiscal-nesta-segunda-e-relator-evita-mudancas) (Metrópoles)
+- Lula deve se reunir com Alcolumbre sobre vaga no STF e espaço do União Brasil (https://oglobo.globo.com/politica/noticia/2026/11/23/lula-deve-se-reunir-com-alcolumbre-nos-proximos-dias-para-tratar-de-formacao-do-governo-e-vaga-no-stf.ghtml) (O Globo)
+- Bolsonaro segue na UTI, estável e em jejum; nova cirurgia não descartada (https://oglobo.globo.com/politica/noticia/2026/11/22/bolsonaro-segue-na-uti-e-sem-previsao-de-alta-diz-boletim-medico.ghtml) (O Globo)
+- Semana: IPCA-15 na quinta (26), PNAD, IGP-M e fiscais na sexta (27) (https://www.estadao.com.br/einvestidor/cenarios-e-mercado/pib-nos-eua-ipca-15-e-desemprego-no-brasil-o-que-mexe-com-o-mercado-nesta-semana/) (Estadão)
+- Flamengo empata com o Palmeiras e é campeão brasileiro; Boca leva a Sul-Americana (https://exame.com/esporte/flamengo-empata-com-palmeiras-e-e-campeao-do-brasileirao/) (Exame)
+- COP31 termina sem acordo após UE rejeitar texto sem menção aos fósseis; a mais longa da história (https://g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-acordo-final-plenaria.ghtml) (g1 / Reuters / ONU)
+- Conselho da OTAN se reúne hoje sobre mísseis russos na Polônia; Varsóvia não invocou o artigo 4 (https://pt.euronews.com/2026/11/22/polonia-rutte-garante-que-nato-vai-defender-cada-centimetro-do-territorio) (Euronews / Al Jazeera)
+- Democratas chegam a 258 cadeiras, maior maioria na Câmara dos EUA desde 1992 (https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb) (AP)
+- Dois petroleiros atingidos por projéteis perto de Ormuz; sem vítimas (https://www.cnnbrasil.com.br/noticias/dois-navios-petroleiros-sofrem-ataques-proximos-ao-estreito-de-ormuz/) (Reuters / CNN Brasil)
+- Terremoto de 6,7 no centro do Peru deixa um morto e 16 feridos (https://www.vanguardia.com/mundo/2026/11/21/el-sismo-de-magnitud-67-en-peru-dejo-un-muerto-16-heridos-y-mas-de-850-damnificados/) (Vanguardia)
+
+## VC e startups
+- Itaú Ventures investe na Akua, paytech de IA de Montevidéu com até 2 mi de pagamentos/dia (https://forbes.com.br/forbes-money/2026/11/itau-ventures-investe-na-akua-paytech-com-desenvolvimento-em-montevideu/) (Forbes Brasil)
+- Brazil Journal (opinião): 'Adeus, Getúlio' — brasileiro troca a CLT pelo sonho de empreender (https://braziljournal.com/opiniao-adeus-getulio-a-clt-vai-perdendo-seu-encanto) (Brazil Journal)
+- Reuters: Anthropic impôs regras incomuns aos bancos do IPO; ação fecha sexta a US$ 88,91 (https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/) (Reuters)
+- Anthropic cai 8,5% na sexta; Morgan Stanley encerra estabilização; fundos de índice podem comprar até 30% (https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/) (Reuters)
+- CrowdStrike negocia compra da Zscaler (~US$ 32 bi de valor de mercado) (https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720) (Reuters / CRN)
+
+## Inteligência artificial
+- Cientista-chefe da OpenAI propõe limites comuns para frear modelos mais poderosos; Altman endossa (https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/22/cientista-chefe-da-openai-propoe-que-empresas-freiem-a-criacao-de-ias-mais-poderosas-ate-que-seja-possivel-controla-las.ghtml) (Bloomberg / O Globo)
+- Exército alemão testa drones kamikaze e o software de mira com IA Clarity, da Helsing, na Lituânia (https://www.reuters.com/business/aerospace-defense/german-army-starts-testing-kamikaze-drones-ai-targeting-tool-lithuania-2026-11-22/) (Reuters)
+- BC vê agentes de IA conduzindo ataques a financeiras desde outubro; 115 incidentes em 2026 (https://www.letsmoney.com.br/banco-central/bc-agentes-ia-ataques-ciberneticos-financeiras/) (Valor / Let's Money)
+- Lee visita data center de IA da SK com a AWS em Ulsan: 'velocidade é vital' (https://www.channelnewsasia.com/east-asia/south-korea-ai-race-lee-jae-myung-6571286) (Reuters / CNA)
+
+## Mídia, software e plataformas
+- NYT: Alice Huang manteve contato com oficial da espionagem chinesa durante caso com Jensen Huang (https://www.thehindu.com/news/international/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-says-nyt/article71733237.ece) (NYT / Reuters)
+- Google exibe anúncios nas perguntas de acompanhamento do AI Mode nos EUA (multiturn ads) (https://www.useryze.com/pt-br/news/google-ai-mode-multiturn-ads-follow-up-questions-us-advertisers) (PPC Land / Useryze)
+- Juventude do Congresso promete invadir escritórios da Meta na Índia; Meta restringiu 5,4 mi de posts/contas no 1º semestre (https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad) (Reuters / The Guardian)
+- Pane no sistema de peso e balanceamento atrasa mais de 1.600 voos da Delta (https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900) (ABC News)
+- The Register: 2026 passa de 100 mil vulnerabilidades registradas, mais que o dobro de 2025 (https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882) (The Register (via the news))
+
+Newsletters de apoio: the news (22/11), Brazil Journal (22/11), Reuters Technology Roundup (22/11), NYT The World (23/11) e alertas do NYT. Narração gerada por voz sintética.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>30:32</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 22 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
