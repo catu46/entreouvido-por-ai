@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 08:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:14:49 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,145 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — terça-feira, 24 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-24:entreouvido-por-ai/ep-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Câmara aprova o ajuste fiscal e o texto vai à sanção; Fazenda corta o PIB e sobe a inflação; Braskem fecha acordo de US$ 4,9 bi e evita a recuperação judicial. Ucrânia ataca navios russos na Líbia, OTAN manda AWACS à Polônia e Wall Street dispara. Jensen Huang volta à Nvidia com empurrão de Trump, e os EUA põem a Megaspeed e uma subsidiária do Alibaba na lista negra. Sierra vale US$ 30 bi, Amazon compra a Decart, Newell &amp; Simon capta R$ 20 mi. Na IA: o escudo Shirudo, da OpenAI e da Cisco, a regra de três para um do Houston Methodist e a IA nas reuniões de câncer do Barts Health.
+
+## Bloco 1 — Política, geopolítica e economia
+- Câmara aprova ajuste fiscal por 353 a 128, sem mudanças; texto vai à sanção (https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial) (Agência Câmara / Valor / Exame)
+- Fazenda corta PIB de 2026 para 1,9% e de 2027 para 1,8%; IPCA de 2026 sobe para 5,3% (https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf) (Ministério da Fazenda / g1)
+- Dólar bate R$ 6 e fecha a R$ 5,92; Ibovespa cai 0,95% ao menor nível desde janeiro (https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-23-novembro-2026/) (CNN Brasil / UOL)
+- Brazil Journal: depois da eleição, brasileiro aumenta interesse em dolarizar patrimônio (https://braziljournal.com/) (Brazil Journal (newsletter))
+- Braskem fecha acordo de US$ 4,9 bi com credores e evita recuperação judicial (https://oglobo.globo.com/economia/noticia/2026/11/23/braskem-fecha-acordo-de-us-49-bilhoes-com-credores-para-evitar-recuperacao-judicial.ghtml) (O Globo / Valor)
+- Lula reafirma Messias para o STF, mas admite indicar mulher; Alcolumbre e Moraes defendem Pacheco (https://valor.globo.com/politica/noticia/2026/11/23/lula-reafirma-messias-em-jantar-com-ministros-do-stf-e-cpula-do-congresso-mas-deixa-em-aberto-indicar-mulheres.ghtml) (Valor / O Globo / the news)
+- Bolsonaro tem pneumonia broncoaspirativa bilateral e segue na UTI; cirurgia descartada por ora (https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/bolsonaro-e-diagnosticado-com-pneumonia-e-continuara-internado) (Agência Brasil / g1)
+- MBRF pede aval para vender à China pedras de vesícula de boi, cotadas a R$ 517 mil o quilo (https://investnews.com.br/negocios/mbrf-mercado-pedra-vesicula-boi/) (InvestNews (via the news))
+- Wall Street dispara com volta de Huang: Dow +1.400 pontos, Nasdaq +6% (https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html) (CNBC / AP)
+- Ucrânia afunda corveta russa Merkury em Benghazi, na Líbia, com sete drones navais (https://www.bbc.com/news/articles/cr894gjz0j0yo) (BBC / AP / NBC)
+- OTAN manda avião AWACS à Polônia após mísseis russos; Varsóvia não invoca artigo 4 (https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/) (Reuters / Washington Post)
+- Greve nacional na Bélgica para todos os voos; premiê dá prazo até fim do ano para orçamento (https://www.bbc.com/news/articles/cwdr155e2d05o) (BBC / Aviation24 / France 24)
+
+- Trump sanciona lei que encerra a produção da moeda de um centavo (https://exame.com/mundo/trump-sanciona-lei-que-encerra-a-producao-da-moeda-de-1-centavo-nos-eua/) (Exame)
+
+## Bloco 2 — VC e startups
+- Newell &amp; Simon capta R$ 20 mi com a Electric Bear, de Fábio Palma, para 'agência por assinatura' de IA (https://exame.com/insight/com-ex-ibm-no-comando-startup-de-ia-cria-agencia-por-assinatura-e-recebe-r-20-milhoes-em-aporte/p) (Exame)
+- Chilena Ainwater capta US$ 1,3 mi e quer ir de 3 para 30 clientes no Brasil (https://startups.com.br/negocios/ainwater-capta-us-1-3m-para-levar-ia-ao-tratamento-de-agua-no-brasil/) (Startups.com.br / Exame)
+- KPMG: VC no Brasil sobe 56% no 3º tri, a US$ 609 mi; agro segue sem unicórnio (https://revistapoder.com.br/2026/11/23/investimento-em-startups-sobe-56-no-brasil-mas-o-agro-um-quarto-do-pib-segue-sem-unicornio/) (Revista Poder)
+- Sierra levanta US$ 1,75 bi e dobra valuation para US$ 30 bi em seis meses (https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/) (TechCrunch / Sierra)
+- Amazon compra tecnologia e equipe da Decart; Bloomberg fala em US$ 7,5 bi (https://www.investing.com/news/stock-market-news/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab-5046000) (Reuters)
+- Embo sai do modo stealth com seed de US$ 110 mi liderada pela a16z (https://a16z.com/announcement/investing-in-embo/) (Embo / a16z / Servospace)
+- Segunda de robôs: MegaRobo (US$ 200 mi) e Simplexity (US$ 100 mi, Ant Group); Tamara capta US$ 400 mi em dívida (https://epta.co/raises/day/2026-11-23) (EPTA)
+- Anthropic cai 1,4% na segunda, a US$ 87,64, enquanto Nvidia dispara (https://www.investing.com/news/stock-market-news/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-5046119) (Investing.com)
+
+## Bloco 3 — Inteligência artificial
+- OpenAI e Cisco lançam Shirudo, 'escudo' open source que bloqueia exploits sem reiniciar o sistema (https://openai.com/index/introducing-shirudo) (OpenAI)
+- Houston Methodist só aprova agente de IA com retorno de três para um (https://healthsystemcio.com/2026/11/23/ai-agent-roi-3-to-1/) (healthsystemCIO)
+- Barts Health: IA identifica casos de câncer de pulmão que dispensam reunião multidisciplinar (https://www.bartshealth.nhs.uk/news/ai-could-free-up-cancer-specialists-to-focus-on-complex-cases-19106) (Barts Health NHS)
+- CEO da AWS: segurança de IA vem de engenharia, não de 'botão de desligar' (https://www.investing.com/news/stock-market-news/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-5046119) (Reuters)
+- Hospitais de Kettering e Northampton usam IA em 62.661 radiografias de tórax (https://www.bbc.com/news/articles/c3gre2p0y519o) (BBC)
+
+## Bloco 4 — Mídia, software e plataformas
+- Nvidia devolve o cargo a Jensen Huang sob pressão de Trump; ação sobe 31,5% (https://www.reuters.com/3fec1b0a85a0/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/) (Reuters)
+- EUA põem Megaspeed e subsidiária do Alibaba em Singapura na lista negra (https://www.investing.com/news/stock-market-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-5046337) (Reuters / Politico)
+- Meta suspende emissão de ações classe C por processo de acionistas; julgamento em abril de 2027 (https://www.investing.com/news/stock-market-news/meta-pauses-class-c-share-issuance-amid-shareholder-lawsuit-5046609) (Reuters)
+- IVC lança auditoria de OOH programático; Eletromidia, JCDecaux e Neooh aderem (https://www.meioemensagem.com.br/midia/ivc-lanca-auditoria-de-ooh-programatico) (Meio &amp; Mensagem)
+- TVREV: Walmart Ads +37%; saída de executivos na Trade Desk; IAB padroniza seis formatos de CTV (https://www.tvrev.com/news/hot-list-112326) (TVREV (Alan Wolk))
+- LG Uplus reorganiza B2B em torno de infraestrutura e plataformas de IA (https://www.lightreading.com/business-transformation/lg-uplus-seeks-to-monetize-ai-with-2027-organizational-reshuffle) (Telecompaper / Light Reading)
+
+Narração gerada por síntese de voz. Fontes atribuídas no áudio; links acima.</description>
+      <content:encoded>&lt;p&gt;Câmara aprova o ajuste fiscal e o texto vai à sanção; Fazenda corta o PIB e sobe a inflação; Braskem fecha acordo de US$ 4,9 bi e evita a recuperação judicial. Ucrânia ataca navios russos na Líbia, OTAN manda AWACS à Polônia e Wall Street dispara. Jensen Huang volta à Nvidia com empurrão de Trump, e os EUA põem a Megaspeed e uma subsidiária do Alibaba na lista negra. Sierra vale US$ 30 bi, Amazon compra a Decart, Newell &amp;amp; Simon capta R$ 20 mi. Na IA: o escudo Shirudo, da OpenAI e da Cisco, a regra de três para um do Houston Methodist e a IA nas reuniões de câncer do Barts Health.&lt;/p&gt;
+&lt;p&gt;## Bloco 1 — Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"&gt;Câmara aprova ajuste fiscal por 353 a 128, sem mudanças; texto vai à sanção&lt;/a&gt; (Agência Câmara / Valor / Exame)&lt;br/&gt;
+- &lt;a href="https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf"&gt;Fazenda corta PIB de 2026 para 1,9% e de 2027 para 1,8%; IPCA de 2026 sobe para 5,3%&lt;/a&gt; (Ministério da Fazenda / g1)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-23-novembro-2026/"&gt;Dólar bate R$ 6 e fecha a R$ 5,92; Ibovespa cai 0,95% ao menor nível desde janeiro&lt;/a&gt; (CNN Brasil / UOL)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/"&gt;Brazil Journal: depois da eleição, brasileiro aumenta interesse em dolarizar patrimônio&lt;/a&gt; (Brazil Journal (newsletter))&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/economia/noticia/2026/11/23/braskem-fecha-acordo-de-us-49-bilhoes-com-credores-para-evitar-recuperacao-judicial.ghtml"&gt;Braskem fecha acordo de US$ 4,9 bi com credores e evita recuperação judicial&lt;/a&gt; (O Globo / Valor)&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/politica/noticia/2026/11/23/lula-reafirma-messias-em-jantar-com-ministros-do-stf-e-cpula-do-congresso-mas-deixa-em-aberto-indicar-mulheres.ghtml"&gt;Lula reafirma Messias para o STF, mas admite indicar mulher; Alcolumbre e Moraes defendem Pacheco&lt;/a&gt; (Valor / O Globo / the news)&lt;br/&gt;
+- &lt;a href="https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/bolsonaro-e-diagnosticado-com-pneumonia-e-continuara-internado"&gt;Bolsonaro tem pneumonia broncoaspirativa bilateral e segue na UTI; cirurgia descartada por ora&lt;/a&gt; (Agência Brasil / g1)&lt;br/&gt;
+- &lt;a href="https://investnews.com.br/negocios/mbrf-mercado-pedra-vesicula-boi/"&gt;MBRF pede aval para vender à China pedras de vesícula de boi, cotadas a R$ 517 mil o quilo&lt;/a&gt; (InvestNews (via the news))&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"&gt;Wall Street dispara com volta de Huang: Dow +1.400 pontos, Nasdaq +6%&lt;/a&gt; (CNBC / AP)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/cr894gjz0j0yo"&gt;Ucrânia afunda corveta russa Merkury em Benghazi, na Líbia, com sete drones navais&lt;/a&gt; (BBC / AP / NBC)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/"&gt;OTAN manda avião AWACS à Polônia após mísseis russos; Varsóvia não invoca artigo 4&lt;/a&gt; (Reuters / Washington Post)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/cwdr155e2d05o"&gt;Greve nacional na Bélgica para todos os voos; premiê dá prazo até fim do ano para orçamento&lt;/a&gt; (BBC / Aviation24 / France 24)&lt;/p&gt;
+&lt;p&gt;- &lt;a href="https://exame.com/mundo/trump-sanciona-lei-que-encerra-a-producao-da-moeda-de-1-centavo-nos-eua/"&gt;Trump sanciona lei que encerra a produção da moeda de um centavo&lt;/a&gt; (Exame)&lt;/p&gt;
+&lt;p&gt;## Bloco 2 — VC e startups&lt;br/&gt;
+- &lt;a href="https://exame.com/insight/com-ex-ibm-no-comando-startup-de-ia-cria-agencia-por-assinatura-e-recebe-r-20-milhoes-em-aporte/p"&gt;Newell &amp;amp; Simon capta R$ 20 mi com a Electric Bear, de Fábio Palma, para &amp;#x27;agência por assinatura&amp;#x27; de IA&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://startups.com.br/negocios/ainwater-capta-us-1-3m-para-levar-ia-ao-tratamento-de-agua-no-brasil/"&gt;Chilena Ainwater capta US$ 1,3 mi e quer ir de 3 para 30 clientes no Brasil&lt;/a&gt; (Startups.com.br / Exame)&lt;br/&gt;
+- &lt;a href="https://revistapoder.com.br/2026/11/23/investimento-em-startups-sobe-56-no-brasil-mas-o-agro-um-quarto-do-pib-segue-sem-unicornio/"&gt;KPMG: VC no Brasil sobe 56% no 3º tri, a US$ 609 mi; agro segue sem unicórnio&lt;/a&gt; (Revista Poder)&lt;br/&gt;
+- &lt;a href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"&gt;Sierra levanta US$ 1,75 bi e dobra valuation para US$ 30 bi em seis meses&lt;/a&gt; (TechCrunch / Sierra)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab-5046000"&gt;Amazon compra tecnologia e equipe da Decart; Bloomberg fala em US$ 7,5 bi&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://a16z.com/announcement/investing-in-embo/"&gt;Embo sai do modo stealth com seed de US$ 110 mi liderada pela a16z&lt;/a&gt; (Embo / a16z / Servospace)&lt;br/&gt;
+- &lt;a href="https://epta.co/raises/day/2026-11-23"&gt;Segunda de robôs: MegaRobo (US$ 200 mi) e Simplexity (US$ 100 mi, Ant Group); Tamara capta US$ 400 mi em dívida&lt;/a&gt; (EPTA)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-5046119"&gt;Anthropic cai 1,4% na segunda, a US$ 87,64, enquanto Nvidia dispara&lt;/a&gt; (Investing.com)&lt;/p&gt;
+&lt;p&gt;## Bloco 3 — Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://openai.com/index/introducing-shirudo"&gt;OpenAI e Cisco lançam Shirudo, &amp;#x27;escudo&amp;#x27; open source que bloqueia exploits sem reiniciar o sistema&lt;/a&gt; (OpenAI)&lt;br/&gt;
+- &lt;a href="https://healthsystemcio.com/2026/11/23/ai-agent-roi-3-to-1/"&gt;Houston Methodist só aprova agente de IA com retorno de três para um&lt;/a&gt; (healthsystemCIO)&lt;br/&gt;
+- &lt;a href="https://www.bartshealth.nhs.uk/news/ai-could-free-up-cancer-specialists-to-focus-on-complex-cases-19106"&gt;Barts Health: IA identifica casos de câncer de pulmão que dispensam reunião multidisciplinar&lt;/a&gt; (Barts Health NHS)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-5046119"&gt;CEO da AWS: segurança de IA vem de engenharia, não de &amp;#x27;botão de desligar&amp;#x27;&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/c3gre2p0y519o"&gt;Hospitais de Kettering e Northampton usam IA em 62.661 radiografias de tórax&lt;/a&gt; (BBC)&lt;/p&gt;
+&lt;p&gt;## Bloco 4 — Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/3fec1b0a85a0/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/"&gt;Nvidia devolve o cargo a Jensen Huang sob pressão de Trump; ação sobe 31,5%&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-5046337"&gt;EUA põem Megaspeed e subsidiária do Alibaba em Singapura na lista negra&lt;/a&gt; (Reuters / Politico)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/meta-pauses-class-c-share-issuance-amid-shareholder-lawsuit-5046609"&gt;Meta suspende emissão de ações classe C por processo de acionistas; julgamento em abril de 2027&lt;/a&gt; (Reuters)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/ivc-lanca-auditoria-de-ooh-programatico"&gt;IVC lança auditoria de OOH programático; Eletromidia, JCDecaux e Neooh aderem&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.tvrev.com/news/hot-list-112326"&gt;TVREV: Walmart Ads +37%; saída de executivos na Trade Desk; IAB padroniza seis formatos de CTV&lt;/a&gt; (TVREV (Alan Wolk))&lt;br/&gt;
+- &lt;a href="https://www.lightreading.com/business-transformation/lg-uplus-seeks-to-monetize-ai-with-2027-organizational-reshuffle"&gt;LG Uplus reorganiza B2B em torno de infraestrutura e plataformas de IA&lt;/a&gt; (Telecompaper / Light Reading)&lt;/p&gt;
+&lt;p&gt;Narração gerada por síntese de voz. Fontes atribuídas no áudio; links acima.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-24/entreouvido-por-ai-2026-11-24.mp3" length="44657519" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — terça-feira, 24 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Câmara aprova o ajuste fiscal e o texto vai à sanção; Fazenda corta o PIB e sobe a inflação; Braskem fecha acordo de US$ 4,9 bi e evita a recuperação judicial. Ucrânia ataca navios russos na Líbia, OTAN manda AWACS à Polônia e Wall Street dispara. Jensen Huang volta à Nvidia com empurrão de Trump, e os EUA põem a Megaspeed e uma subsidiária do Alibaba na lista negra. Sierra vale US$ 30 bi, Amazon compra a Decart, Newell &amp; Simon capta R$ 20 mi. Na IA: o escudo Shirudo, da OpenAI e da Cisco, a regra de três para um do Houston Methodist e a IA nas reuniões de câncer do Barts Health.
+
+## Bloco 1 — Política, geopolítica e economia
+- Câmara aprova ajuste fiscal por 353 a 128, sem mudanças; texto vai à sanção (https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial) (Agência Câmara / Valor / Exame)
+- Fazenda corta PIB de 2026 para 1,9% e de 2027 para 1,8%; IPCA de 2026 sobe para 5,3% (https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf) (Ministério da Fazenda / g1)
+- Dólar bate R$ 6 e fecha a R$ 5,92; Ibovespa cai 0,95% ao menor nível desde janeiro (https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-23-novembro-2026/) (CNN Brasil / UOL)
+- Brazil Journal: depois da eleição, brasileiro aumenta interesse em dolarizar patrimônio (https://braziljournal.com/) (Brazil Journal (newsletter))
+- Braskem fecha acordo de US$ 4,9 bi com credores e evita recuperação judicial (https://oglobo.globo.com/economia/noticia/2026/11/23/braskem-fecha-acordo-de-us-49-bilhoes-com-credores-para-evitar-recuperacao-judicial.ghtml) (O Globo / Valor)
+- Lula reafirma Messias para o STF, mas admite indicar mulher; Alcolumbre e Moraes defendem Pacheco (https://valor.globo.com/politica/noticia/2026/11/23/lula-reafirma-messias-em-jantar-com-ministros-do-stf-e-cpula-do-congresso-mas-deixa-em-aberto-indicar-mulheres.ghtml) (Valor / O Globo / the news)
+- Bolsonaro tem pneumonia broncoaspirativa bilateral e segue na UTI; cirurgia descartada por ora (https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/bolsonaro-e-diagnosticado-com-pneumonia-e-continuara-internado) (Agência Brasil / g1)
+- MBRF pede aval para vender à China pedras de vesícula de boi, cotadas a R$ 517 mil o quilo (https://investnews.com.br/negocios/mbrf-mercado-pedra-vesicula-boi/) (InvestNews (via the news))
+- Wall Street dispara com volta de Huang: Dow +1.400 pontos, Nasdaq +6% (https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html) (CNBC / AP)
+- Ucrânia afunda corveta russa Merkury em Benghazi, na Líbia, com sete drones navais (https://www.bbc.com/news/articles/cr894gjz0j0yo) (BBC / AP / NBC)
+- OTAN manda avião AWACS à Polônia após mísseis russos; Varsóvia não invoca artigo 4 (https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/) (Reuters / Washington Post)
+- Greve nacional na Bélgica para todos os voos; premiê dá prazo até fim do ano para orçamento (https://www.bbc.com/news/articles/cwdr155e2d05o) (BBC / Aviation24 / France 24)
+
+- Trump sanciona lei que encerra a produção da moeda de um centavo (https://exame.com/mundo/trump-sanciona-lei-que-encerra-a-producao-da-moeda-de-1-centavo-nos-eua/) (Exame)
+
+## Bloco 2 — VC e startups
+- Newell &amp; Simon capta R$ 20 mi com a Electric Bear, de Fábio Palma, para 'agência por assinatura' de IA (https://exame.com/insight/com-ex-ibm-no-comando-startup-de-ia-cria-agencia-por-assinatura-e-recebe-r-20-milhoes-em-aporte/p) (Exame)
+- Chilena Ainwater capta US$ 1,3 mi e quer ir de 3 para 30 clientes no Brasil (https://startups.com.br/negocios/ainwater-capta-us-1-3m-para-levar-ia-ao-tratamento-de-agua-no-brasil/) (Startups.com.br / Exame)
+- KPMG: VC no Brasil sobe 56% no 3º tri, a US$ 609 mi; agro segue sem unicórnio (https://revistapoder.com.br/2026/11/23/investimento-em-startups-sobe-56-no-brasil-mas-o-agro-um-quarto-do-pib-segue-sem-unicornio/) (Revista Poder)
+- Sierra levanta US$ 1,75 bi e dobra valuation para US$ 30 bi em seis meses (https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/) (TechCrunch / Sierra)
+- Amazon compra tecnologia e equipe da Decart; Bloomberg fala em US$ 7,5 bi (https://www.investing.com/news/stock-market-news/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab-5046000) (Reuters)
+- Embo sai do modo stealth com seed de US$ 110 mi liderada pela a16z (https://a16z.com/announcement/investing-in-embo/) (Embo / a16z / Servospace)
+- Segunda de robôs: MegaRobo (US$ 200 mi) e Simplexity (US$ 100 mi, Ant Group); Tamara capta US$ 400 mi em dívida (https://epta.co/raises/day/2026-11-23) (EPTA)
+- Anthropic cai 1,4% na segunda, a US$ 87,64, enquanto Nvidia dispara (https://www.investing.com/news/stock-market-news/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-5046119) (Investing.com)
+
+## Bloco 3 — Inteligência artificial
+- OpenAI e Cisco lançam Shirudo, 'escudo' open source que bloqueia exploits sem reiniciar o sistema (https://openai.com/index/introducing-shirudo) (OpenAI)
+- Houston Methodist só aprova agente de IA com retorno de três para um (https://healthsystemcio.com/2026/11/23/ai-agent-roi-3-to-1/) (healthsystemCIO)
+- Barts Health: IA identifica casos de câncer de pulmão que dispensam reunião multidisciplinar (https://www.bartshealth.nhs.uk/news/ai-could-free-up-cancer-specialists-to-focus-on-complex-cases-19106) (Barts Health NHS)
+- CEO da AWS: segurança de IA vem de engenharia, não de 'botão de desligar' (https://www.investing.com/news/stock-market-news/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-5046119) (Reuters)
+- Hospitais de Kettering e Northampton usam IA em 62.661 radiografias de tórax (https://www.bbc.com/news/articles/c3gre2p0y519o) (BBC)
+
+## Bloco 4 — Mídia, software e plataformas
+- Nvidia devolve o cargo a Jensen Huang sob pressão de Trump; ação sobe 31,5% (https://www.reuters.com/3fec1b0a85a0/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/) (Reuters)
+- EUA põem Megaspeed e subsidiária do Alibaba em Singapura na lista negra (https://www.investing.com/news/stock-market-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-5046337) (Reuters / Politico)
+- Meta suspende emissão de ações classe C por processo de acionistas; julgamento em abril de 2027 (https://www.investing.com/news/stock-market-news/meta-pauses-class-c-share-issuance-amid-shareholder-lawsuit-5046609) (Reuters)
+- IVC lança auditoria de OOH programático; Eletromidia, JCDecaux e Neooh aderem (https://www.meioemensagem.com.br/midia/ivc-lanca-auditoria-de-ooh-programatico) (Meio &amp; Mensagem)
+- TVREV: Walmart Ads +37%; saída de executivos na Trade Desk; IAB padroniza seis formatos de CTV (https://www.tvrev.com/news/hot-list-112326) (TVREV (Alan Wolk))
+- LG Uplus reorganiza B2B em torno de infraestrutura e plataformas de IA (https://www.lightreading.com/business-transformation/lg-uplus-seeks-to-monetize-ai-with-2027-organizational-reshuffle) (Telecompaper / Light Reading)
+
+Narração gerada por síntese de voz. Fontes atribuídas no áudio; links acima.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>31:01</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — 23 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
