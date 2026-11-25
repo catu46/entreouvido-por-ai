@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 08:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:12:02 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,149 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — quarta-feira, 25 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-25:entreouvido-por-ai/ep-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Lula sanciona o ajuste fiscal sem vetos e o governo libera R$ 3,4 bi do Orçamento, mas o déficit projetado sobe para R$ 89,3 bi; PEC dos gastos obrigatórios a caminho; Inter corta até 5% do quadro. Lá fora, Jensen Huang pede desculpas aos funcionários da Nvidia, a OTAN reage a relatos de satélite nuclear russo e a China investiga o chefe do partido em Xangai. Kaszek fecha fundo recorde de US$ 650 mi; Anthropic cai abaixo do preço do IPO; CrowdStrike compra a Zscaler. Na IA, hospitais britânicos mostram números reais. Na mídia, o Cade questiona a joint venture de painéis em rodovias da Eletromidia, e Filipe Bartholomeu assume a Omnicom Brasil.
+
+## Bloco 1 — Política, geopolítica e economia
+- Lula sanciona ajuste fiscal sem vetos; LC 239/2026 já está em vigor (https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor) (Agência Câmara / Ministério do Planejamento)
+- Relatório bimestral: contenção cai de R$ 16,1 bi para R$ 12,6 bi; déficit estimado sobe para R$ 89,3 bi (https://g1.globo.com/politica/noticia/2026/11/24/governo-reduz-contencao-no-orcamento-para-r-126-bilhoes.ghtml) (g1 / CNN Brasil)
+- Lula autoriza Fazenda a preparar PEC para conter despesas obrigatórias (https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/24/lula-autoriza-envio-de-pec-sobre-despesas-obrigatorias-ao-congresso-diz-fonte.htm) (Reuters (UOL) / Folha / Band / Exame)
+- Inter demite cerca de 200 pessoas, até 5% do quadro, após lucro recorde (https://braziljournal.com/inter-corta-ate-5-do-quadro-efeito-da-ai) (Brazil Journal / Reuters)
+- CVM suspende registro de companhia aberta do BRB; ações param de negociar (https://exame.com/invest/mercados/brb-tem-registro-suspenso-pela-cvm-e-acoes-ficam-impedidas-de-ser-negociadas-na-bolsa/) (Exame / IstoÉ Dinheiro)
+- Dólar fecha a R$ 5,91 (-0,27%); Ibovespa cai 0,43%, a 164.089 pontos (https://thenewscc.com.br/) (the news (newsletter))
+- Posse de Lula em 5 de janeiro terá Bad Bunny e Roger Waters; Milei fora (https://valor.globo.com/politica/noticia/2026/11/24/posse-de-lula-tera-bad-bunny-e-roger-waters-veja-o-que-se-sabe-ate-agora.ghtml) (Valor / g1)
+- Huang pede desculpas a funcionários da Nvidia; ação devolve parte da alta (https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html) (NYT / CNBC / Reuters)
+- OTAN promete defender o espaço após relatos de satélite russo com ogiva nuclear (https://www.bbc.com/news/articles/c9x2er1ry2mzo) (BBC / Telegraph)
+- China investiga Chen Jining, chefe do partido em Xangai e membro do Politburo (https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge) (The Guardian / BBC / Irish Times)
+- Exército dos EUA detona hoje explosivos instáveis em Iowa (https://www.army.mil/article/297039) (NYT / US Army)
+- Boom de IA vira tema central no Fed de Warsh (https://www.investing.com/news/economy-news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow-5047641) (Reuters)
+
+## Bloco 2 — VC e startups
+- Kaszek fecha fundo de US$ 650 mi, o maior early stage da América Latina (https://pipelinevalor.globo.com/mercado/noticia/kaszek-capta-us-650-milhoes-para-investir-em-ia-na-america-latina.ghtml) (Pipeline Valor / Startups / Bloomberg Línea / NeoFeed)
+- Ciera Genomics, de exames genéticos com IA, fecha seed com CEO da Eletromidia (https://braziljournal.com/essa-startup-quer-prevenir-doencas-com-exames-geneticos-e-ajuda-da-ai) (Brazil Journal)
+- Zippy capta R$ 2,9 mi para app de IA que protege crianças online (https://exame.com/tecnologia/zippy-ia-protecao-criancas-aporte/) (Exame)
+- Anthropic cai abaixo do preço do IPO, de US$ 83 (https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html) (CNBC / Reuters / Bloomberg)
+- CrowdStrike compra Zscaler por US$ 43,9 bi em ações (https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/) (CrowdStrike / CNBC)
+- Marlowe revela US$ 277 mi em seed para inferência mais barata, fora da Nvidia (https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/) (Tech Startups / GeekWire)
+- AidenAI capta US$ 32 mi para agentes em sistemas legados (https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/) (Tech Startups)
+
+## Bloco 3 — Inteligência artificial
+- Chelsea and Westminster: IA autônoma em dermatologia libera 2.851 horas de médicos (https://htn.co.uk/2026/11/24/chelsea-and-westminster-hospital-sees-benefits-from-autonomous-ai-pathway/) (HTN Health Tech News)
+- Hospital inglês usa IA Limbus no planejamento de radioterapia e economiza 10 horas por semana (https://www.sath.nhs.uk/news/ai-technology-helping-local-cancer-patients-access-treatment-faster/) (SaTH (NHS))
+- Great Ormond Street testa 'hospital agêntico' com Hyland e AWS (https://press.aboutamazon.com/2026/11/great-ormond-street-hospital-announces-first-of-its-kind-agentic-ai-programme-in-an-nhs-hospital-in-collaboration-with-hyland-and-amazon-web-services) (Amazon / GOSH)
+- FCA avisa big techs: agente de IA que dá serviço financeiro pode precisar de autorização (https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai) (Reuters / FCA)
+- Corrida da IA esgota fábricas de memória da Samsung até 2029 (https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/) (Canaltech)
+- Modo IA do Google vai consultar Drive, Carteira e Gemini (https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/) (Canaltech)
+
+## Bloco 4 — Mídia, software e plataformas
+- Cade questiona joint venture de mídia em rodovias de Eletromidia, Motiva e EcoRodovias (https://www.meioemensagem.com.br/midia/cade-questiona-joint-venture-entre-eletromidia-motiva-e-ecorodovias) (Meio &amp; Mensagem)
+- Filipe Bartholomeu vira o primeiro CEO da Omnicom Brasil (https://www.meioemensagem.com.br/comunicacao/filipe-bartholomeu-e-nomeado-ceo-do-omnicom-no-pais) (Meio &amp; Mensagem / Valor)
+- OpenAI estreia campanha no Brasil com avós para vender voz do ChatGPT (https://www.meioemensagem.com.br/comunicacao/com-vovos-brasileiras-openai-quer-reforcar-recursos-de-voz) (Meio &amp; Mensagem)
+- PL das big techs: ALAI diz que nova versão ainda impõe obrigações excessivas (https://convergenciadigital.com.br/governo/pl-das-big-techs-alai-diz-que-nova-versao-segue-impondo-obrigacoes-excessivas-as-empresas/) (Convergência Digital)
+- Anatel nega efeito suspensivo e mantém suspenso o antispam da TIM (https://teletime.com.br/24/11/2026/anatel-nega-recurso-contra-proibicao-de-antispam-da-tim/) (Teletime)
+- WhatsApp libera figurinhas com som (https://valor.globo.com/empresas/marketing/noticia/2026/11/24/whatsapp-libera-figurinha-com-som-saiba-como-fazer.ghtml) (Valor)
+- BBC leva 24 programas da CBeebies para hub na Netflix a partir de 2/12 (https://www.bbc.co.uk/news/articles/c9zr585dxkgzo) (BBC / Deadline)
+- StarHub e M1 se fundem em Singapura; StarHub compra a Circles.Life (https://www.channelnewsasia.com/business/starhub-m1-merger-keppel-confirmed-telco-6576341) (Telecompaper / CNA)
+- Spotify fica fora do ar para milhares de usuários (https://www.investing.com/news/stock-market-news/spotify-down-for-thousands-of-users-downdetector-shows-5047869) (Reuters)
+
+Narração gerada por síntese de voz. Fontes atribuídas no áudio; links acima.</description>
+      <content:encoded>&lt;p&gt;Lula sanciona o ajuste fiscal sem vetos e o governo libera R$ 3,4 bi do Orçamento, mas o déficit projetado sobe para R$ 89,3 bi; PEC dos gastos obrigatórios a caminho; Inter corta até 5% do quadro. Lá fora, Jensen Huang pede desculpas aos funcionários da Nvidia, a OTAN reage a relatos de satélite nuclear russo e a China investiga o chefe do partido em Xangai. Kaszek fecha fundo recorde de US$ 650 mi; Anthropic cai abaixo do preço do IPO; CrowdStrike compra a Zscaler. Na IA, hospitais britânicos mostram números reais. Na mídia, o Cade questiona a joint venture de painéis em rodovias da Eletromidia, e Filipe Bartholomeu assume a Omnicom Brasil.&lt;/p&gt;
+&lt;p&gt;## Bloco 1 — Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor"&gt;Lula sanciona ajuste fiscal sem vetos; LC 239/2026 já está em vigor&lt;/a&gt; (Agência Câmara / Ministério do Planejamento)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/24/governo-reduz-contencao-no-orcamento-para-r-126-bilhoes.ghtml"&gt;Relatório bimestral: contenção cai de R$ 16,1 bi para R$ 12,6 bi; déficit estimado sobe para R$ 89,3 bi&lt;/a&gt; (g1 / CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/24/lula-autoriza-envio-de-pec-sobre-despesas-obrigatorias-ao-congresso-diz-fonte.htm"&gt;Lula autoriza Fazenda a preparar PEC para conter despesas obrigatórias&lt;/a&gt; (Reuters (UOL) / Folha / Band / Exame)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/inter-corta-ate-5-do-quadro-efeito-da-ai"&gt;Inter demite cerca de 200 pessoas, até 5% do quadro, após lucro recorde&lt;/a&gt; (Brazil Journal / Reuters)&lt;br/&gt;
+- &lt;a href="https://exame.com/invest/mercados/brb-tem-registro-suspenso-pela-cvm-e-acoes-ficam-impedidas-de-ser-negociadas-na-bolsa/"&gt;CVM suspende registro de companhia aberta do BRB; ações param de negociar&lt;/a&gt; (Exame / IstoÉ Dinheiro)&lt;br/&gt;
+- &lt;a href="https://thenewscc.com.br/"&gt;Dólar fecha a R$ 5,91 (-0,27%); Ibovespa cai 0,43%, a 164.089 pontos&lt;/a&gt; (the news (newsletter))&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/politica/noticia/2026/11/24/posse-de-lula-tera-bad-bunny-e-roger-waters-veja-o-que-se-sabe-ate-agora.ghtml"&gt;Posse de Lula em 5 de janeiro terá Bad Bunny e Roger Waters; Milei fora&lt;/a&gt; (Valor / g1)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"&gt;Huang pede desculpas a funcionários da Nvidia; ação devolve parte da alta&lt;/a&gt; (NYT / CNBC / Reuters)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/c9x2er1ry2mzo"&gt;OTAN promete defender o espaço após relatos de satélite russo com ogiva nuclear&lt;/a&gt; (BBC / Telegraph)&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge"&gt;China investiga Chen Jining, chefe do partido em Xangai e membro do Politburo&lt;/a&gt; (The Guardian / BBC / Irish Times)&lt;br/&gt;
+- &lt;a href="https://www.army.mil/article/297039"&gt;Exército dos EUA detona hoje explosivos instáveis em Iowa&lt;/a&gt; (NYT / US Army)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/economy-news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow-5047641"&gt;Boom de IA vira tema central no Fed de Warsh&lt;/a&gt; (Reuters)&lt;/p&gt;
+&lt;p&gt;## Bloco 2 — VC e startups&lt;br/&gt;
+- &lt;a href="https://pipelinevalor.globo.com/mercado/noticia/kaszek-capta-us-650-milhoes-para-investir-em-ia-na-america-latina.ghtml"&gt;Kaszek fecha fundo de US$ 650 mi, o maior early stage da América Latina&lt;/a&gt; (Pipeline Valor / Startups / Bloomberg Línea / NeoFeed)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/essa-startup-quer-prevenir-doencas-com-exames-geneticos-e-ajuda-da-ai"&gt;Ciera Genomics, de exames genéticos com IA, fecha seed com CEO da Eletromidia&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://exame.com/tecnologia/zippy-ia-protecao-criancas-aporte/"&gt;Zippy capta R$ 2,9 mi para app de IA que protege crianças online&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"&gt;Anthropic cai abaixo do preço do IPO, de US$ 83&lt;/a&gt; (CNBC / Reuters / Bloomberg)&lt;br/&gt;
+- &lt;a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/"&gt;CrowdStrike compra Zscaler por US$ 43,9 bi em ações&lt;/a&gt; (CrowdStrike / CNBC)&lt;br/&gt;
+- &lt;a href="https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/"&gt;Marlowe revela US$ 277 mi em seed para inferência mais barata, fora da Nvidia&lt;/a&gt; (Tech Startups / GeekWire)&lt;br/&gt;
+- &lt;a href="https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/"&gt;AidenAI capta US$ 32 mi para agentes em sistemas legados&lt;/a&gt; (Tech Startups)&lt;/p&gt;
+&lt;p&gt;## Bloco 3 — Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://htn.co.uk/2026/11/24/chelsea-and-westminster-hospital-sees-benefits-from-autonomous-ai-pathway/"&gt;Chelsea and Westminster: IA autônoma em dermatologia libera 2.851 horas de médicos&lt;/a&gt; (HTN Health Tech News)&lt;br/&gt;
+- &lt;a href="https://www.sath.nhs.uk/news/ai-technology-helping-local-cancer-patients-access-treatment-faster/"&gt;Hospital inglês usa IA Limbus no planejamento de radioterapia e economiza 10 horas por semana&lt;/a&gt; (SaTH (NHS))&lt;br/&gt;
+- &lt;a href="https://press.aboutamazon.com/2026/11/great-ormond-street-hospital-announces-first-of-its-kind-agentic-ai-programme-in-an-nhs-hospital-in-collaboration-with-hyland-and-amazon-web-services"&gt;Great Ormond Street testa &amp;#x27;hospital agêntico&amp;#x27; com Hyland e AWS&lt;/a&gt; (Amazon / GOSH)&lt;br/&gt;
+- &lt;a href="https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai"&gt;FCA avisa big techs: agente de IA que dá serviço financeiro pode precisar de autorização&lt;/a&gt; (Reuters / FCA)&lt;br/&gt;
+- &lt;a href="https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/"&gt;Corrida da IA esgota fábricas de memória da Samsung até 2029&lt;/a&gt; (Canaltech)&lt;br/&gt;
+- &lt;a href="https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/"&gt;Modo IA do Google vai consultar Drive, Carteira e Gemini&lt;/a&gt; (Canaltech)&lt;/p&gt;
+&lt;p&gt;## Bloco 4 — Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/cade-questiona-joint-venture-entre-eletromidia-motiva-e-ecorodovias"&gt;Cade questiona joint venture de mídia em rodovias de Eletromidia, Motiva e EcoRodovias&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/comunicacao/filipe-bartholomeu-e-nomeado-ceo-do-omnicom-no-pais"&gt;Filipe Bartholomeu vira o primeiro CEO da Omnicom Brasil&lt;/a&gt; (Meio &amp;amp; Mensagem / Valor)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/comunicacao/com-vovos-brasileiras-openai-quer-reforcar-recursos-de-voz"&gt;OpenAI estreia campanha no Brasil com avós para vender voz do ChatGPT&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://convergenciadigital.com.br/governo/pl-das-big-techs-alai-diz-que-nova-versao-segue-impondo-obrigacoes-excessivas-as-empresas/"&gt;PL das big techs: ALAI diz que nova versão ainda impõe obrigações excessivas&lt;/a&gt; (Convergência Digital)&lt;br/&gt;
+- &lt;a href="https://teletime.com.br/24/11/2026/anatel-nega-recurso-contra-proibicao-de-antispam-da-tim/"&gt;Anatel nega efeito suspensivo e mantém suspenso o antispam da TIM&lt;/a&gt; (Teletime)&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/empresas/marketing/noticia/2026/11/24/whatsapp-libera-figurinha-com-som-saiba-como-fazer.ghtml"&gt;WhatsApp libera figurinhas com som&lt;/a&gt; (Valor)&lt;br/&gt;
+- &lt;a href="https://www.bbc.co.uk/news/articles/c9zr585dxkgzo"&gt;BBC leva 24 programas da CBeebies para hub na Netflix a partir de 2/12&lt;/a&gt; (BBC / Deadline)&lt;br/&gt;
+- &lt;a href="https://www.channelnewsasia.com/business/starhub-m1-merger-keppel-confirmed-telco-6576341"&gt;StarHub e M1 se fundem em Singapura; StarHub compra a Circles.Life&lt;/a&gt; (Telecompaper / CNA)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/spotify-down-for-thousands-of-users-downdetector-shows-5047869"&gt;Spotify fica fora do ar para milhares de usuários&lt;/a&gt; (Reuters)&lt;/p&gt;
+&lt;p&gt;Narração gerada por síntese de voz. Fontes atribuídas no áudio; links acima.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-25/entreouvido-por-ai-2026-11-25.mp3" length="44470064" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — quarta-feira, 25 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Lula sanciona o ajuste fiscal sem vetos e o governo libera R$ 3,4 bi do Orçamento, mas o déficit projetado sobe para R$ 89,3 bi; PEC dos gastos obrigatórios a caminho; Inter corta até 5% do quadro. Lá fora, Jensen Huang pede desculpas aos funcionários da Nvidia, a OTAN reage a relatos de satélite nuclear russo e a China investiga o chefe do partido em Xangai. Kaszek fecha fundo recorde de US$ 650 mi; Anthropic cai abaixo do preço do IPO; CrowdStrike compra a Zscaler. Na IA, hospitais britânicos mostram números reais. Na mídia, o Cade questiona a joint venture de painéis em rodovias da Eletromidia, e Filipe Bartholomeu assume a Omnicom Brasil.
+
+## Bloco 1 — Política, geopolítica e economia
+- Lula sanciona ajuste fiscal sem vetos; LC 239/2026 já está em vigor (https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor) (Agência Câmara / Ministério do Planejamento)
+- Relatório bimestral: contenção cai de R$ 16,1 bi para R$ 12,6 bi; déficit estimado sobe para R$ 89,3 bi (https://g1.globo.com/politica/noticia/2026/11/24/governo-reduz-contencao-no-orcamento-para-r-126-bilhoes.ghtml) (g1 / CNN Brasil)
+- Lula autoriza Fazenda a preparar PEC para conter despesas obrigatórias (https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/24/lula-autoriza-envio-de-pec-sobre-despesas-obrigatorias-ao-congresso-diz-fonte.htm) (Reuters (UOL) / Folha / Band / Exame)
+- Inter demite cerca de 200 pessoas, até 5% do quadro, após lucro recorde (https://braziljournal.com/inter-corta-ate-5-do-quadro-efeito-da-ai) (Brazil Journal / Reuters)
+- CVM suspende registro de companhia aberta do BRB; ações param de negociar (https://exame.com/invest/mercados/brb-tem-registro-suspenso-pela-cvm-e-acoes-ficam-impedidas-de-ser-negociadas-na-bolsa/) (Exame / IstoÉ Dinheiro)
+- Dólar fecha a R$ 5,91 (-0,27%); Ibovespa cai 0,43%, a 164.089 pontos (https://thenewscc.com.br/) (the news (newsletter))
+- Posse de Lula em 5 de janeiro terá Bad Bunny e Roger Waters; Milei fora (https://valor.globo.com/politica/noticia/2026/11/24/posse-de-lula-tera-bad-bunny-e-roger-waters-veja-o-que-se-sabe-ate-agora.ghtml) (Valor / g1)
+- Huang pede desculpas a funcionários da Nvidia; ação devolve parte da alta (https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html) (NYT / CNBC / Reuters)
+- OTAN promete defender o espaço após relatos de satélite russo com ogiva nuclear (https://www.bbc.com/news/articles/c9x2er1ry2mzo) (BBC / Telegraph)
+- China investiga Chen Jining, chefe do partido em Xangai e membro do Politburo (https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge) (The Guardian / BBC / Irish Times)
+- Exército dos EUA detona hoje explosivos instáveis em Iowa (https://www.army.mil/article/297039) (NYT / US Army)
+- Boom de IA vira tema central no Fed de Warsh (https://www.investing.com/news/economy-news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow-5047641) (Reuters)
+
+## Bloco 2 — VC e startups
+- Kaszek fecha fundo de US$ 650 mi, o maior early stage da América Latina (https://pipelinevalor.globo.com/mercado/noticia/kaszek-capta-us-650-milhoes-para-investir-em-ia-na-america-latina.ghtml) (Pipeline Valor / Startups / Bloomberg Línea / NeoFeed)
+- Ciera Genomics, de exames genéticos com IA, fecha seed com CEO da Eletromidia (https://braziljournal.com/essa-startup-quer-prevenir-doencas-com-exames-geneticos-e-ajuda-da-ai) (Brazil Journal)
+- Zippy capta R$ 2,9 mi para app de IA que protege crianças online (https://exame.com/tecnologia/zippy-ia-protecao-criancas-aporte/) (Exame)
+- Anthropic cai abaixo do preço do IPO, de US$ 83 (https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html) (CNBC / Reuters / Bloomberg)
+- CrowdStrike compra Zscaler por US$ 43,9 bi em ações (https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/) (CrowdStrike / CNBC)
+- Marlowe revela US$ 277 mi em seed para inferência mais barata, fora da Nvidia (https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/) (Tech Startups / GeekWire)
+- AidenAI capta US$ 32 mi para agentes em sistemas legados (https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/) (Tech Startups)
+
+## Bloco 3 — Inteligência artificial
+- Chelsea and Westminster: IA autônoma em dermatologia libera 2.851 horas de médicos (https://htn.co.uk/2026/11/24/chelsea-and-westminster-hospital-sees-benefits-from-autonomous-ai-pathway/) (HTN Health Tech News)
+- Hospital inglês usa IA Limbus no planejamento de radioterapia e economiza 10 horas por semana (https://www.sath.nhs.uk/news/ai-technology-helping-local-cancer-patients-access-treatment-faster/) (SaTH (NHS))
+- Great Ormond Street testa 'hospital agêntico' com Hyland e AWS (https://press.aboutamazon.com/2026/11/great-ormond-street-hospital-announces-first-of-its-kind-agentic-ai-programme-in-an-nhs-hospital-in-collaboration-with-hyland-and-amazon-web-services) (Amazon / GOSH)
+- FCA avisa big techs: agente de IA que dá serviço financeiro pode precisar de autorização (https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai) (Reuters / FCA)
+- Corrida da IA esgota fábricas de memória da Samsung até 2029 (https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/) (Canaltech)
+- Modo IA do Google vai consultar Drive, Carteira e Gemini (https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/) (Canaltech)
+
+## Bloco 4 — Mídia, software e plataformas
+- Cade questiona joint venture de mídia em rodovias de Eletromidia, Motiva e EcoRodovias (https://www.meioemensagem.com.br/midia/cade-questiona-joint-venture-entre-eletromidia-motiva-e-ecorodovias) (Meio &amp; Mensagem)
+- Filipe Bartholomeu vira o primeiro CEO da Omnicom Brasil (https://www.meioemensagem.com.br/comunicacao/filipe-bartholomeu-e-nomeado-ceo-do-omnicom-no-pais) (Meio &amp; Mensagem / Valor)
+- OpenAI estreia campanha no Brasil com avós para vender voz do ChatGPT (https://www.meioemensagem.com.br/comunicacao/com-vovos-brasileiras-openai-quer-reforcar-recursos-de-voz) (Meio &amp; Mensagem)
+- PL das big techs: ALAI diz que nova versão ainda impõe obrigações excessivas (https://convergenciadigital.com.br/governo/pl-das-big-techs-alai-diz-que-nova-versao-segue-impondo-obrigacoes-excessivas-as-empresas/) (Convergência Digital)
+- Anatel nega efeito suspensivo e mantém suspenso o antispam da TIM (https://teletime.com.br/24/11/2026/anatel-nega-recurso-contra-proibicao-de-antispam-da-tim/) (Teletime)
+- WhatsApp libera figurinhas com som (https://valor.globo.com/empresas/marketing/noticia/2026/11/24/whatsapp-libera-figurinha-com-som-saiba-como-fazer.ghtml) (Valor)
+- BBC leva 24 programas da CBeebies para hub na Netflix a partir de 2/12 (https://www.bbc.co.uk/news/articles/c9zr585dxkgzo) (BBC / Deadline)
+- StarHub e M1 se fundem em Singapura; StarHub compra a Circles.Life (https://www.channelnewsasia.com/business/starhub-m1-merger-keppel-confirmed-telco-6576341) (Telecompaper / CNA)
+- Spotify fica fora do ar para milhares de usuários (https://www.investing.com/news/stock-market-news/spotify-down-for-thousands-of-users-downdetector-shows-5047869) (Reuters)
+
+Narração gerada por síntese de voz. Fontes atribuídas no áudio; links acima.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>30:53</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — terça-feira, 24 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
