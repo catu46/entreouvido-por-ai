@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 08:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:10:21 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,144 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — quinta-feira, 26 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-26:entreouvido-por-ai/ep-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Rumor de Luiz Carlos Trabuco na Fazenda faz o Ibovespa subir 1,58% e o dólar cair a R$ 5,82, enquanto Haddad fica fora do ministério; EUA propõem tarifa de 10% sobre aviões brasileiros e novas tarifas para 14 economias; Knesset avança limite de mandato que mira Netanyahu; Huawei é condenada em Nova York. No VC, o iFood derruba a margem para 2% para enfrentar a Keeta e a Harvey monta time em São Paulo; a FCC autoriza a SpaceX a lançar até 1 milhão de satélites-data center. Na IA, a Pax leva o 'ChatGPT da polícia' a 230 cidades. Na mídia, a Black Friday na TV mais que dobra, e o PL das big techs vai a voto em 1º de dezembro.
+
+## Bloco 1 — Política, geopolítica e economia
+- Haddad fica fora do ministério; rumor de Trabuco na Fazenda faz Ibovespa subir 1,58% e dólar cair a R$ 5,82 (https://www.infomoney.com.br/politica/haddad-acerta-com-lula-que-nao-ocupara-ministerio-camilo-ganha-forca-para-casa-civil/) (InfoMoney (Agência O Globo) / Reuters (UOL) / Veja / Brazil Journal / Valor Investe)
+- EUA propõem tarifa de 10% sobre aviões brasileiros e cobrança por quilo no açúcar fora da cota (https://economia.uol.com.br/noticias/reuters/2026/11/25/eua-propoem-tarifa-de-10-sobre-aeronaves-do-brasil.htm) (Reuters (UOL) / g1 / XP / Brazil Journal)
+- IR sobre dividendos rende R$ 6,36 bi até outubro, ante previsão inicial de R$ 28 bi (https://valor.globo.com/brasil/noticia/2026/11/24/arrecadacao-com-irrf-sobre-dividendos-soma-r-6360-bilhoes-de-janeiro-a-outubro.ghtml) (Valor)
+- Petrobras volta ao etanol com compra de 42% da Neomille por R$ 2,8 bi (https://www.cnnbrasil.com.br/agro/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-por-r-28-bi/) (Agência Petrobras / CNN Brasil / Reuters)
+- Brasil vai testar vacina terapêutica contra câncer com Oxford a partir de 2027 (https://www.cnnbrasil.com.br/saude/brasil-preve-iniciar-testes-de-vacina-contra-o-cancer-em-2027-diz-saude/) (CNN Brasil (via the news))
+- Julgamento de Van Hattem no STF será retomado em sessão presencial (https://www.bbc.com/portuguese/articles/cqdr13l5e830o) (BBC News Brasil / the news)
+- IPCA-15 de novembro sai hoje às 9h; Bradesco projeta 0,36% (https://veja.abril.com.br/coluna/macro-intelligence/inflacao-ganha-forca-em-novembro-veja-o-que-esperar-do-ipca-15/) (InfoMoney / Veja)
+- EUA propõem tarifas a 14 economias por excesso de capacidade industrial (https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural) (USTR / Reuters / CNBC)
+- Dirigentes do Fed divergem sobre causas da inflação alta (https://money.usnews.com/investing/news/articles/2026-11-25/fed-policymakers-at-odds-over-causes-of-high-inflation) (Reuters / CNBC)
+- Knesset aprova em leitura preliminar limite de mandato que mira Netanyahu (65 a 48) (https://www.timesofisrael.com/liveblog_entry/knesset-advances-bill-imposing-pm-term-limits-barring-indicted-lawmakers-from-forming-government/) (Times of Israel / Jerusalem Post / Washington Post)
+- Júri dos EUA condena Huawei em 10 de 12 acusações; absolvida de crime organizado (https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab) (AP / Reuters / DOJ)
+- Empresas ligadas a Alice Huang usaram US$ 270 mi em servidores de IA como garantia na China (https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792) (Reuters (via Investing.com))
+- FinCEN tira sistemas do ar após ataque; CIA relata invasão em sistemas não classificados (https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/) (Reuters / Forbes (via the news))
+- Paquistanês é o primeiro astronauta estrangeiro na estação chinesa Tiangong (https://www.reuters.com/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-first-foreign-2026-11-25/) (Reuters (via the news))
+
+## Bloco 2 — VC e startups
+- iFood sacrifica margem (2%) e já investiu R$ 16 bi de R$ 24 bi para enfrentar a Keeta (https://braziljournal.com/ifood-entrega-margem-para-acelerar-capex-e-defender-seu-mercado) (Brazil Journal)
+- Harvey monta equipe em São Paulo e encara a Enter (https://www.harvey.ai/blog/harvey-is-expanding-with-a-team-in-sao-paulo) (Harvey / Exame / the news)
+- Estônia vai emitir cartões de e-residência em Brasília (https://thenewscc.com.br/) (the news)
+- Canary investe US$ 3 mi na IKKB, conta multimoedas para empresas (https://pipelinevalor.globo.com/startups/noticia/canary-entra-na-ikkb-fintech-multimoedas-para-empresas.ghtml) (Pipeline Valor)
+- Anthropic chega a US$ 73 e se recupera; Nvidia lidera queda da tecnologia (https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/) (Reuters / SiliconANGLE / CNBC)
+- FCC autoriza SpaceX a lançar até 1 milhão de satélites-data center (https://www.nbcnews.com/science/space/spacex-fcc-authorizes-1-million-satellites-data-centers-space-rcna611341) (NBC News / Ars Technica / Politico)
+- Rodadas de 25/11: Avicena (US$ 100 mi+), Zipher (US$ 53 mi), SenseNet (US$ 43 mi), Rialto, Leash (https://crosswalk.to/crosswalk/deals/2026-11-25) (Crosswalk / SiliconANGLE / TechCrunch)
+- Every capta US$ 17,5 mi a US$ 110 mi de avaliação (https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/) (Fortune)
+
+## Bloco 3 — Inteligência artificial
+- Pax, 'ChatGPT da polícia', chega a 230 cidades; Luziânia vê esclarecimentos de 18% para 34% (https://exame.com/inteligencia-artificial/startup-de-ia-contra-o-crime-chega-a-230-cidades-brasileiras/) (Exame)
+- Toqan, IA do iFood, já atende 80 mil restaurantes (https://braziljournal.com/ifood-entrega-margem-para-acelerar-capex-e-defender-seu-mercado#toqan) (Brazil Journal)
+- Free lança tradução de chamadas em tempo real na rede, em 10 idiomas (https://www.telecoms.com/ai/free-launches-network-based-ai-call-translation) (Telecompaper / Telecoms.com)
+- Varejo enfrenta ataques acelerados por IA na Black Friday; só 43% das PMEs têm seguro (https://www.insurancejournal.com/news/international/2026/11/25/893723.htm) (Reuters (Insurance Journal))
+- Reguladores de 11 países se unem contra material abusivo gerado por IA (https://www.telecompaper.com/news/global-online-safety-regulators-agree-joint-action-on-ai-generated-abuse-material--1589920) (Telecompaper)
+
+## Bloco 4 — Mídia, software e plataformas
+- Black Friday na TV soma R$ 101,3 mi até 16/11 (+119%); Havan lidera (https://www.meioemensagem.com.br/midia/havan-lidera-os-comerciais-da-black-friday-2026-na-tv) (Meio &amp; Mensagem)
+- Folha torna anúncios do impresso clicáveis no app a partir de 27/11 (https://www.meioemensagem.com.br/midia/folha-torna-anuncios-do-impresso-clicaveis-no-digital) (Meio &amp; Mensagem)
+- One Station Media contrata Fernando Marques como CSO (https://www.meioemensagem.com.br/gente/one-station-media-contrata-cso) (Meio &amp; Mensagem)
+- PL das big techs tem votação marcada para 1º/12; relator admite ajustes (https://www.cnnbrasil.com.br/politica/relator-de-pl-das-big-techs-admite-novas-mudancas-e-busca-apoio-ao-projeto/) (CNN Brasil)
+- Reino Unido avança plano de abrir o iPlayer a anúncios e conteúdo de rivais (https://www.channelnewsasia.com/business/exclusive-uk-advances-plans-bbc-iplayer-expansion-allow-advertising-and-rival-content-sources-say-6582006) (Reuters (CNA))
+- Austrália aprova lei de dever de cuidado digital para plataformas (https://www.telecompaper.com/news/australia-passes-digital-duty-of-care-legislation-for-online-platforms--1589926) (Telecompaper / Reuters)
+- Parada da Macy's é adiada pela primeira vez em 100 anos (https://apnews.com/article/macys-thanksgiving-parade-postponed-weather-cdc870899c8dc2d32a0ac3d86119b3ba) (The New York Times / AP)</description>
+      <content:encoded>&lt;p&gt;Rumor de Luiz Carlos Trabuco na Fazenda faz o Ibovespa subir 1,58% e o dólar cair a R$ 5,82, enquanto Haddad fica fora do ministério; EUA propõem tarifa de 10% sobre aviões brasileiros e novas tarifas para 14 economias; Knesset avança limite de mandato que mira Netanyahu; Huawei é condenada em Nova York. No VC, o iFood derruba a margem para 2% para enfrentar a Keeta e a Harvey monta time em São Paulo; a FCC autoriza a SpaceX a lançar até 1 milhão de satélites-data center. Na IA, a Pax leva o &amp;#x27;ChatGPT da polícia&amp;#x27; a 230 cidades. Na mídia, a Black Friday na TV mais que dobra, e o PL das big techs vai a voto em 1º de dezembro.&lt;/p&gt;
+&lt;p&gt;## Bloco 1 — Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://www.infomoney.com.br/politica/haddad-acerta-com-lula-que-nao-ocupara-ministerio-camilo-ganha-forca-para-casa-civil/"&gt;Haddad fica fora do ministério; rumor de Trabuco na Fazenda faz Ibovespa subir 1,58% e dólar cair a R$ 5,82&lt;/a&gt; (InfoMoney (Agência O Globo) / Reuters (UOL) / Veja / Brazil Journal / Valor Investe)&lt;br/&gt;
+- &lt;a href="https://economia.uol.com.br/noticias/reuters/2026/11/25/eua-propoem-tarifa-de-10-sobre-aeronaves-do-brasil.htm"&gt;EUA propõem tarifa de 10% sobre aviões brasileiros e cobrança por quilo no açúcar fora da cota&lt;/a&gt; (Reuters (UOL) / g1 / XP / Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://valor.globo.com/brasil/noticia/2026/11/24/arrecadacao-com-irrf-sobre-dividendos-soma-r-6360-bilhoes-de-janeiro-a-outubro.ghtml"&gt;IR sobre dividendos rende R$ 6,36 bi até outubro, ante previsão inicial de R$ 28 bi&lt;/a&gt; (Valor)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/agro/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-por-r-28-bi/"&gt;Petrobras volta ao etanol com compra de 42% da Neomille por R$ 2,8 bi&lt;/a&gt; (Agência Petrobras / CNN Brasil / Reuters)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/saude/brasil-preve-iniciar-testes-de-vacina-contra-o-cancer-em-2027-diz-saude/"&gt;Brasil vai testar vacina terapêutica contra câncer com Oxford a partir de 2027&lt;/a&gt; (CNN Brasil (via the news))&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/portuguese/articles/cqdr13l5e830o"&gt;Julgamento de Van Hattem no STF será retomado em sessão presencial&lt;/a&gt; (BBC News Brasil / the news)&lt;br/&gt;
+- &lt;a href="https://veja.abril.com.br/coluna/macro-intelligence/inflacao-ganha-forca-em-novembro-veja-o-que-esperar-do-ipca-15/"&gt;IPCA-15 de novembro sai hoje às 9h; Bradesco projeta 0,36%&lt;/a&gt; (InfoMoney / Veja)&lt;br/&gt;
+- &lt;a href="https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"&gt;EUA propõem tarifas a 14 economias por excesso de capacidade industrial&lt;/a&gt; (USTR / Reuters / CNBC)&lt;br/&gt;
+- &lt;a href="https://money.usnews.com/investing/news/articles/2026-11-25/fed-policymakers-at-odds-over-causes-of-high-inflation"&gt;Dirigentes do Fed divergem sobre causas da inflação alta&lt;/a&gt; (Reuters / CNBC)&lt;br/&gt;
+- &lt;a href="https://www.timesofisrael.com/liveblog_entry/knesset-advances-bill-imposing-pm-term-limits-barring-indicted-lawmakers-from-forming-government/"&gt;Knesset aprova em leitura preliminar limite de mandato que mira Netanyahu (65 a 48)&lt;/a&gt; (Times of Israel / Jerusalem Post / Washington Post)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab"&gt;Júri dos EUA condena Huawei em 10 de 12 acusações; absolvida de crime organizado&lt;/a&gt; (AP / Reuters / DOJ)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792"&gt;Empresas ligadas a Alice Huang usaram US$ 270 mi em servidores de IA como garantia na China&lt;/a&gt; (Reuters (via Investing.com))&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/"&gt;FinCEN tira sistemas do ar após ataque; CIA relata invasão em sistemas não classificados&lt;/a&gt; (Reuters / Forbes (via the news))&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-first-foreign-2026-11-25/"&gt;Paquistanês é o primeiro astronauta estrangeiro na estação chinesa Tiangong&lt;/a&gt; (Reuters (via the news))&lt;/p&gt;
+&lt;p&gt;## Bloco 2 — VC e startups&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/ifood-entrega-margem-para-acelerar-capex-e-defender-seu-mercado"&gt;iFood sacrifica margem (2%) e já investiu R$ 16 bi de R$ 24 bi para enfrentar a Keeta&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.harvey.ai/blog/harvey-is-expanding-with-a-team-in-sao-paulo"&gt;Harvey monta equipe em São Paulo e encara a Enter&lt;/a&gt; (Harvey / Exame / the news)&lt;br/&gt;
+- &lt;a href="https://thenewscc.com.br/"&gt;Estônia vai emitir cartões de e-residência em Brasília&lt;/a&gt; (the news)&lt;br/&gt;
+- &lt;a href="https://pipelinevalor.globo.com/startups/noticia/canary-entra-na-ikkb-fintech-multimoedas-para-empresas.ghtml"&gt;Canary investe US$ 3 mi na IKKB, conta multimoedas para empresas&lt;/a&gt; (Pipeline Valor)&lt;br/&gt;
+- &lt;a href="https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/"&gt;Anthropic chega a US$ 73 e se recupera; Nvidia lidera queda da tecnologia&lt;/a&gt; (Reuters / SiliconANGLE / CNBC)&lt;br/&gt;
+- &lt;a href="https://www.nbcnews.com/science/space/spacex-fcc-authorizes-1-million-satellites-data-centers-space-rcna611341"&gt;FCC autoriza SpaceX a lançar até 1 milhão de satélites-data center&lt;/a&gt; (NBC News / Ars Technica / Politico)&lt;br/&gt;
+- &lt;a href="https://crosswalk.to/crosswalk/deals/2026-11-25"&gt;Rodadas de 25/11: Avicena (US$ 100 mi+), Zipher (US$ 53 mi), SenseNet (US$ 43 mi), Rialto, Leash&lt;/a&gt; (Crosswalk / SiliconANGLE / TechCrunch)&lt;br/&gt;
+- &lt;a href="https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/"&gt;Every capta US$ 17,5 mi a US$ 110 mi de avaliação&lt;/a&gt; (Fortune)&lt;/p&gt;
+&lt;p&gt;## Bloco 3 — Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://exame.com/inteligencia-artificial/startup-de-ia-contra-o-crime-chega-a-230-cidades-brasileiras/"&gt;Pax, &amp;#x27;ChatGPT da polícia&amp;#x27;, chega a 230 cidades; Luziânia vê esclarecimentos de 18% para 34%&lt;/a&gt; (Exame)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/ifood-entrega-margem-para-acelerar-capex-e-defender-seu-mercado#toqan"&gt;Toqan, IA do iFood, já atende 80 mil restaurantes&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.telecoms.com/ai/free-launches-network-based-ai-call-translation"&gt;Free lança tradução de chamadas em tempo real na rede, em 10 idiomas&lt;/a&gt; (Telecompaper / Telecoms.com)&lt;br/&gt;
+- &lt;a href="https://www.insurancejournal.com/news/international/2026/11/25/893723.htm"&gt;Varejo enfrenta ataques acelerados por IA na Black Friday; só 43% das PMEs têm seguro&lt;/a&gt; (Reuters (Insurance Journal))&lt;br/&gt;
+- &lt;a href="https://www.telecompaper.com/news/global-online-safety-regulators-agree-joint-action-on-ai-generated-abuse-material--1589920"&gt;Reguladores de 11 países se unem contra material abusivo gerado por IA&lt;/a&gt; (Telecompaper)&lt;/p&gt;
+&lt;p&gt;## Bloco 4 — Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/havan-lidera-os-comerciais-da-black-friday-2026-na-tv"&gt;Black Friday na TV soma R$ 101,3 mi até 16/11 (+119%); Havan lidera&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/folha-torna-anuncios-do-impresso-clicaveis-no-digital"&gt;Folha torna anúncios do impresso clicáveis no app a partir de 27/11&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/gente/one-station-media-contrata-cso"&gt;One Station Media contrata Fernando Marques como CSO&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.cnnbrasil.com.br/politica/relator-de-pl-das-big-techs-admite-novas-mudancas-e-busca-apoio-ao-projeto/"&gt;PL das big techs tem votação marcada para 1º/12; relator admite ajustes&lt;/a&gt; (CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://www.channelnewsasia.com/business/exclusive-uk-advances-plans-bbc-iplayer-expansion-allow-advertising-and-rival-content-sources-say-6582006"&gt;Reino Unido avança plano de abrir o iPlayer a anúncios e conteúdo de rivais&lt;/a&gt; (Reuters (CNA))&lt;br/&gt;
+- &lt;a href="https://www.telecompaper.com/news/australia-passes-digital-duty-of-care-legislation-for-online-platforms--1589926"&gt;Austrália aprova lei de dever de cuidado digital para plataformas&lt;/a&gt; (Telecompaper / Reuters)&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/macys-thanksgiving-parade-postponed-weather-cdc870899c8dc2d32a0ac3d86119b3ba"&gt;Parada da Macy&amp;#x27;s é adiada pela primeira vez em 100 anos&lt;/a&gt; (The New York Times / AP)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-26/entreouvido-por-ai-2026-11-26.mp3" length="42865728" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — quinta-feira, 26 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Rumor de Luiz Carlos Trabuco na Fazenda faz o Ibovespa subir 1,58% e o dólar cair a R$ 5,82, enquanto Haddad fica fora do ministério; EUA propõem tarifa de 10% sobre aviões brasileiros e novas tarifas para 14 economias; Knesset avança limite de mandato que mira Netanyahu; Huawei é condenada em Nova York. No VC, o iFood derruba a margem para 2% para enfrentar a Keeta e a Harvey monta time em São Paulo; a FCC autoriza a SpaceX a lançar até 1 milhão de satélites-data center. Na IA, a Pax leva o 'ChatGPT da polícia' a 230 cidades. Na mídia, a Black Friday na TV mais que dobra, e o PL das big techs vai a voto em 1º de dezembro.
+
+## Bloco 1 — Política, geopolítica e economia
+- Haddad fica fora do ministério; rumor de Trabuco na Fazenda faz Ibovespa subir 1,58% e dólar cair a R$ 5,82 (https://www.infomoney.com.br/politica/haddad-acerta-com-lula-que-nao-ocupara-ministerio-camilo-ganha-forca-para-casa-civil/) (InfoMoney (Agência O Globo) / Reuters (UOL) / Veja / Brazil Journal / Valor Investe)
+- EUA propõem tarifa de 10% sobre aviões brasileiros e cobrança por quilo no açúcar fora da cota (https://economia.uol.com.br/noticias/reuters/2026/11/25/eua-propoem-tarifa-de-10-sobre-aeronaves-do-brasil.htm) (Reuters (UOL) / g1 / XP / Brazil Journal)
+- IR sobre dividendos rende R$ 6,36 bi até outubro, ante previsão inicial de R$ 28 bi (https://valor.globo.com/brasil/noticia/2026/11/24/arrecadacao-com-irrf-sobre-dividendos-soma-r-6360-bilhoes-de-janeiro-a-outubro.ghtml) (Valor)
+- Petrobras volta ao etanol com compra de 42% da Neomille por R$ 2,8 bi (https://www.cnnbrasil.com.br/agro/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-por-r-28-bi/) (Agência Petrobras / CNN Brasil / Reuters)
+- Brasil vai testar vacina terapêutica contra câncer com Oxford a partir de 2027 (https://www.cnnbrasil.com.br/saude/brasil-preve-iniciar-testes-de-vacina-contra-o-cancer-em-2027-diz-saude/) (CNN Brasil (via the news))
+- Julgamento de Van Hattem no STF será retomado em sessão presencial (https://www.bbc.com/portuguese/articles/cqdr13l5e830o) (BBC News Brasil / the news)
+- IPCA-15 de novembro sai hoje às 9h; Bradesco projeta 0,36% (https://veja.abril.com.br/coluna/macro-intelligence/inflacao-ganha-forca-em-novembro-veja-o-que-esperar-do-ipca-15/) (InfoMoney / Veja)
+- EUA propõem tarifas a 14 economias por excesso de capacidade industrial (https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural) (USTR / Reuters / CNBC)
+- Dirigentes do Fed divergem sobre causas da inflação alta (https://money.usnews.com/investing/news/articles/2026-11-25/fed-policymakers-at-odds-over-causes-of-high-inflation) (Reuters / CNBC)
+- Knesset aprova em leitura preliminar limite de mandato que mira Netanyahu (65 a 48) (https://www.timesofisrael.com/liveblog_entry/knesset-advances-bill-imposing-pm-term-limits-barring-indicted-lawmakers-from-forming-government/) (Times of Israel / Jerusalem Post / Washington Post)
+- Júri dos EUA condena Huawei em 10 de 12 acusações; absolvida de crime organizado (https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab) (AP / Reuters / DOJ)
+- Empresas ligadas a Alice Huang usaram US$ 270 mi em servidores de IA como garantia na China (https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792) (Reuters (via Investing.com))
+- FinCEN tira sistemas do ar após ataque; CIA relata invasão em sistemas não classificados (https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/) (Reuters / Forbes (via the news))
+- Paquistanês é o primeiro astronauta estrangeiro na estação chinesa Tiangong (https://www.reuters.com/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-first-foreign-2026-11-25/) (Reuters (via the news))
+
+## Bloco 2 — VC e startups
+- iFood sacrifica margem (2%) e já investiu R$ 16 bi de R$ 24 bi para enfrentar a Keeta (https://braziljournal.com/ifood-entrega-margem-para-acelerar-capex-e-defender-seu-mercado) (Brazil Journal)
+- Harvey monta equipe em São Paulo e encara a Enter (https://www.harvey.ai/blog/harvey-is-expanding-with-a-team-in-sao-paulo) (Harvey / Exame / the news)
+- Estônia vai emitir cartões de e-residência em Brasília (https://thenewscc.com.br/) (the news)
+- Canary investe US$ 3 mi na IKKB, conta multimoedas para empresas (https://pipelinevalor.globo.com/startups/noticia/canary-entra-na-ikkb-fintech-multimoedas-para-empresas.ghtml) (Pipeline Valor)
+- Anthropic chega a US$ 73 e se recupera; Nvidia lidera queda da tecnologia (https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/) (Reuters / SiliconANGLE / CNBC)
+- FCC autoriza SpaceX a lançar até 1 milhão de satélites-data center (https://www.nbcnews.com/science/space/spacex-fcc-authorizes-1-million-satellites-data-centers-space-rcna611341) (NBC News / Ars Technica / Politico)
+- Rodadas de 25/11: Avicena (US$ 100 mi+), Zipher (US$ 53 mi), SenseNet (US$ 43 mi), Rialto, Leash (https://crosswalk.to/crosswalk/deals/2026-11-25) (Crosswalk / SiliconANGLE / TechCrunch)
+- Every capta US$ 17,5 mi a US$ 110 mi de avaliação (https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/) (Fortune)
+
+## Bloco 3 — Inteligência artificial
+- Pax, 'ChatGPT da polícia', chega a 230 cidades; Luziânia vê esclarecimentos de 18% para 34% (https://exame.com/inteligencia-artificial/startup-de-ia-contra-o-crime-chega-a-230-cidades-brasileiras/) (Exame)
+- Toqan, IA do iFood, já atende 80 mil restaurantes (https://braziljournal.com/ifood-entrega-margem-para-acelerar-capex-e-defender-seu-mercado#toqan) (Brazil Journal)
+- Free lança tradução de chamadas em tempo real na rede, em 10 idiomas (https://www.telecoms.com/ai/free-launches-network-based-ai-call-translation) (Telecompaper / Telecoms.com)
+- Varejo enfrenta ataques acelerados por IA na Black Friday; só 43% das PMEs têm seguro (https://www.insurancejournal.com/news/international/2026/11/25/893723.htm) (Reuters (Insurance Journal))
+- Reguladores de 11 países se unem contra material abusivo gerado por IA (https://www.telecompaper.com/news/global-online-safety-regulators-agree-joint-action-on-ai-generated-abuse-material--1589920) (Telecompaper)
+
+## Bloco 4 — Mídia, software e plataformas
+- Black Friday na TV soma R$ 101,3 mi até 16/11 (+119%); Havan lidera (https://www.meioemensagem.com.br/midia/havan-lidera-os-comerciais-da-black-friday-2026-na-tv) (Meio &amp; Mensagem)
+- Folha torna anúncios do impresso clicáveis no app a partir de 27/11 (https://www.meioemensagem.com.br/midia/folha-torna-anuncios-do-impresso-clicaveis-no-digital) (Meio &amp; Mensagem)
+- One Station Media contrata Fernando Marques como CSO (https://www.meioemensagem.com.br/gente/one-station-media-contrata-cso) (Meio &amp; Mensagem)
+- PL das big techs tem votação marcada para 1º/12; relator admite ajustes (https://www.cnnbrasil.com.br/politica/relator-de-pl-das-big-techs-admite-novas-mudancas-e-busca-apoio-ao-projeto/) (CNN Brasil)
+- Reino Unido avança plano de abrir o iPlayer a anúncios e conteúdo de rivais (https://www.channelnewsasia.com/business/exclusive-uk-advances-plans-bbc-iplayer-expansion-allow-advertising-and-rival-content-sources-say-6582006) (Reuters (CNA))
+- Austrália aprova lei de dever de cuidado digital para plataformas (https://www.telecompaper.com/news/australia-passes-digital-duty-of-care-legislation-for-online-platforms--1589926) (Telecompaper / Reuters)
+- Parada da Macy's é adiada pela primeira vez em 100 anos (https://apnews.com/article/macys-thanksgiving-parade-postponed-weather-cdc870899c8dc2d32a0ac3d86119b3ba) (The New York Times / AP)</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>29:46</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — quarta-feira, 25 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
