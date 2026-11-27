@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 08:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:09:59 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,179 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — sexta-feira, 27 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-27:entreouvido-por-ai/ep-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Trabuco aceita a Fazenda e o Ibovespa dispara 6,07%, segunda maior alta desde 2021; IPCA-15 de 0,22% surpreende para baixo; Durigan mira supersalários e aposentadoria de militares; Operação Dinheiro Fictício bloqueia R$ 4,3 bi do Grupo Fictor. No mundo, houthis atacam Ras Tanura, drone mata dois italianos no Kuwait, Norse Atlantic à beira da falência e Hernández de Cos vai ao BCE. No VC, a Avra capta US$ 6 mi com a NXTP e a FURIA entra no futebol; ElevenLabs mira US$ 33 bi. Na IA, chips e destilação atrasam a China, Apple tira o Talkie do ar e TIM e Pagaleve mostram agentes em produção. Na mídia, Black Friday de R$ 11,5 bi, Globo perde o Emmy para Avenida Brasil turca e Standard and Poor's põe a Nvidia em observação.
+
+## Bloco 1 — Política, geopolítica e economia
+- Trabuco aceita convite de Lula e será ministro da Fazenda a partir de 2027 (https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/notas-oficiais/nota-a-imprensa) (Planalto / Valor / Exame / CNN Brasil)
+- Ibovespa sobe 6,07% a 176.799 pontos, segunda maior alta desde 2021; dólar a R$ 5,7441 (https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml) (g1 / Reuters (Investing.com))
+- IPCA-15 sobe 0,22% em novembro, abaixo do piso das projeções; 12 meses em 4,64% (https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48750-ipca15novrelease) (IBGE / Estadão)
+- Durigan fala em rever supersalários e aposentadoria de militares em nova PEC fiscal (https://www1.folha.uol.com.br/mercado/2026/11/durigan-fala-em-combater-supersalarios-e-mudar-aposentadoria-de-militares-em-novo-pacote-fiscal.shtml) (Folha / O Globo / CartaCapital)
+- Operação Dinheiro Fictício: Justiça bloqueia até R$ 4,3 bi do Grupo Fictor, que quis comprar o Master (https://www.mpsp.mp.br/w/grupo-suspeito-de-simular-faturamento-bilionario-e-alvo-da-operacao-dinheiro-ficticio) (MPSP / g1 / CNN Brasil)
+- Caixa avalia comprar o controle do BRB (https://oglobo.globo.com/economia/noticia/2026/11/25/caixa-avalia-possivel-aquisicao-do-brb-em-crise-financeira-provocada-pelo-caso-master.ghtml) (O Globo / CNN Brasil / tns business)
+- Relatórios da PF sobre ministros do STF deixam fora 47 mensagens a Moraes e o caso Tayayá (https://g1.globo.com/politica/noticia/2026/11/25/relatorio-da-pf-entregue-a-fachin-nao-inclui-caso-tayaya-veja-o-que-pesa-contra-ministros-e-ficou-de-fora.ghtml) (g1 / Folha / the news)
+- Macron chama carne brasileira de 'dopada'; governo e produtores repudiam (https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-comemora-veto-da-ue-ao-produto.ghtml) (g1 / Agência Brasil)
+- NYT: brasileiros atraídos com até US$ 100 mil para lutar pela Rússia (https://www.infomoney.com.br/mundo/brasileiros-sao-atraidos-por-ate-r-574-mil-para-lutar-pela-russia-diz-nyt/) (The New York Times (via InfoMoney))
+- Houthis atacam Ras Tanura, maior refinaria saudita; Brent volta a US$ 95 (https://www.nbcnews.com/world/saudi-arabia/yemen-houthi-rebels-attack-saudi-arabia-largest-oil-refinery-rcna611319) (NBC / The National / DW / the news)
+- Ataque com drones no Kuwait mata dois técnicos italianos da Rheinmetall; Irã nega (https://www.bbc.com/news/articles/c39w9y5dx4k5o) (BBC / Washington Post)
+- Pablo Hernández de Cos será o próximo presidente do BCE (https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/) (Conselho Europeu / AP / CNBC)
+- Migração líquida ao Reino Unido cai a 77 mil, menor em quase três décadas (https://www.nytimes.com/) (The New York Times)
+- Nvidia suspende envio de servidores a Malásia, Singapura, Tailândia e Indonésia (https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/) (Financial Times (via CNA / DCD))
+- Senado aprova urgência; relatora tira Lei das Estatais e acaba quarentena só nas agências reguladoras (https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml) (g1 / O Globo / Brazil Journal)
+- Norse Atlantic suspende voos e ameaça pedir falência com choque do combustível da guerra no Irã (https://www.investing.com/news/stock-market-news/airline-norse-atlantic-flags-bankruptcy-risk-as-flights-suspended-5052475) (Reuters (Investing.com))
+- NYT: novas tarifas propostas miram a China nas cadeias de suprimento; audiência em 14/1 (https://www.nytimes.com/) (The New York Times / the news)
+
+## Bloco 2 — VC e startups
+- Avra capta US$ 6 mi em seed liderada pela NXTP para modelo fundacional de crédito e fraude (https://startups.com.br/negocios/rodada-de-investimento/com-mais-us-6m-no-caixa-avra-aposta-em-pd-para-crescer-dentro-da-base/) (Startups / Brazil Journal)
+- FURIA fecha parceria com Novorizontino, que vira Furia Novorizontino em 2027 (https://www.estadao.com.br/esportes/rodrigo-capelo/parceria-no-marketing-com-opcao-de-compra-entenda-o-negocio-por-tras-do-furia-novorizontino/) (Grêmio Novorizontino / Estadão / ge)
+- Bossa Invest vai gerir FIP de R$ 250 mi de BNDES e Finep para startups (https://startups.com.br/negocios/venture-capital/bossanova-e-escolhida-para-gerir-fundo-do-bndes-e-finep/) (Agência BNDES / Startups / Reuters)
+- Patria incorpora mais de 30 fundos e reorganiza plataforma de R$ 38 bi; Advent zera posição na Allied (https://braziljournal.com/) (Brazil Journal)
+- ElevenLabs em conversas iniciais para captar a US$ 33 bi (https://thenextweb.com/news/elevenlabs-33bn-valuation-funding-talks-2027) (Bloomberg (via Sifted / TNW))
+- Musk promete duas ações da SpaceX para cada criança americana, quase US$ 18 bi (https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us) (Reuters (Guardian) / Axios / Bloomberg)
+- Altria estuda oferta em dinheiro pela Imperial Brands, com Japan Tobacco (https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands) (Guardian / Bloomberg / Sharecast)
+- Semana de 23 a 29/11: cerca de 70 rodadas e US$ 4,1 bi; Sierra respondeu pela maior (https://startupreader.com/funding) (StartupReader)
+- UniCredit conclui aprovações para controlar o Commerzbank e propõe Orcel como presidente do conselho (https://www.commerzbank.de/group/newsroom/press-releases/egm-request.html) (Reuters / Commerzbank)
+
+## Bloco 3 — Inteligência artificial
+- Restrições a chips e a destilação atrasam modelos chineses: Z.AI atrasa e Moonshot vê ciclo dobrar (https://finance.yahoo.com/news/exclusive-us-chip-curbs-distillation-071923947.html) (Reuters (via Yahoo Finance))
+- Apple tira do ar o Talkie, app de companhia da MiniMax, por segurança infantil (https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834) (Reuters / ABC News)
+- Nova York proíbe por cinco anos brinquedos com chatbot de IA (https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Governo de NY / Fox 5)
+- TIM: agentes de IA cortam 86% do tempo de resolução; 154 mil interações por mês (https://www.minhaoperadora.com.br/2026/11/tim-usa-ia-no-atendimento-e-corta-86-do-tempo-de-resolucao.html) (Minha Operadora)
+- Pagaleve resolve mais de 80% dos chamados de primeiro nível com agente próprio (https://www.letsmoney.com.br/fintech/pagaleve-ia-aline-atendimento-80/) (Let's Money)
+- Avra: modelo relacional permitiu vender o mesmo com 88% menos visitas de campo (https://startups.com.br/negocios/rodada-de-investimento/com-mais-us-6m-no-caixa-avra-aposta-em-pd-para-crescer-dentro-da-base/) (Startups)
+- Gartner: IA cria 10,6 mi de vagas e elimina 8,9 mi até 2030 (https://www.gartner.com/en/newsroom/press-releases/2026-11-10-gartner-forecasts-artificial-intelligence-will-drive-a-net-increase-of-1-7-million-jobs-by-2030) (Gartner)
+- Editor de IA do NYT usa IA para investigar, mas escreve à máquina (https://www.nytimes.com/) (The New York Times)
+
+## Bloco 4 — Mídia, software e plataformas
+- Black Friday hoje: CNC projeta R$ 11,5 bi, maior desde 2014 (https://economia.ig.com.br/2026-11-27/black-friday-deve-movimentar-r--11-5-bilhoes-no-varejo-neste-ano.html) (iG (CNC) / Jornal Nacional)
+- Fraude na Black Friday tem tíquete 45% maior que compra legítima (https://cryptoid.com.br/) (Crypto ID)
+- Globo perde Emmy de melhor novela para versão turca de Avenida Brasil (https://veja.abril.com.br/cultura/globo-perde-emmy-internacional-de-melhor-novela-pelo-sexto-ano-seguido/) (O Globo / Veja / tns business)
+- Grupos holandeses pedem à Justiça que barre a venda dos óculos da Meta (https://nltimes.nl/2026/11/26/meta-defends-ai-glasses-court-dutch-groups-demand-ban) (Reuters (Investing.com) / NL Times)
+- Standard and Poor's põe nota AA da Nvidia em observação negativa por governança (https://www.channelnewsasia.com/business/s-and-p-nvidia-board-compromised-rating-downgrade-watch-6582441) (S&amp;P Global / Reuters (CNA))
+- FIFA confirma ataque hacker com roubo de dados pessoais e de negócios (https://apnews.com/article/fifa-cyberattack-hack-6de93d5f8bcc655c774e2e41e2dfea1f) (AP / Reuters)
+- Calendário de US$ 148 da Skims vira propaganda para concorrentes (https://www.thenews.cc/) (tns business)
+- Zanzar leva telas em táxis e apps para Brasília e Goiânia (https://www.meioemensagem.com.br/midia/zanzar-expande-operacao-para-brasilia-e-goiania) (Meio &amp; Mensagem)
+- Folha apresenta anúncios clicáveis no Folha Day hoje (desdobramento) (https://www1.folha.uol.com.br/) (Folha)
+- Entidades de telecom e energia pedem sanção integral do PL dos postes; Minicom sugere vetos parciais (https://teletime.com.br/26/11/2026/entidades-pl-postes/) (Teletime / Convergência Digital)
+
+Roteiro e narração gerados com IA a partir de newsletters e fontes abertas citadas acima.</description>
+      <content:encoded>&lt;p&gt;Trabuco aceita a Fazenda e o Ibovespa dispara 6,07%, segunda maior alta desde 2021; IPCA-15 de 0,22% surpreende para baixo; Durigan mira supersalários e aposentadoria de militares; Operação Dinheiro Fictício bloqueia R$ 4,3 bi do Grupo Fictor. No mundo, houthis atacam Ras Tanura, drone mata dois italianos no Kuwait, Norse Atlantic à beira da falência e Hernández de Cos vai ao BCE. No VC, a Avra capta US$ 6 mi com a NXTP e a FURIA entra no futebol; ElevenLabs mira US$ 33 bi. Na IA, chips e destilação atrasam a China, Apple tira o Talkie do ar e TIM e Pagaleve mostram agentes em produção. Na mídia, Black Friday de R$ 11,5 bi, Globo perde o Emmy para Avenida Brasil turca e Standard and Poor&amp;#x27;s põe a Nvidia em observação.&lt;/p&gt;
+&lt;p&gt;## Bloco 1 — Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/notas-oficiais/nota-a-imprensa"&gt;Trabuco aceita convite de Lula e será ministro da Fazenda a partir de 2027&lt;/a&gt; (Planalto / Valor / Exame / CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml"&gt;Ibovespa sobe 6,07% a 176.799 pontos, segunda maior alta desde 2021; dólar a R$ 5,7441&lt;/a&gt; (g1 / Reuters (Investing.com))&lt;br/&gt;
+- &lt;a href="https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48750-ipca15novrelease"&gt;IPCA-15 sobe 0,22% em novembro, abaixo do piso das projeções; 12 meses em 4,64%&lt;/a&gt; (IBGE / Estadão)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/mercado/2026/11/durigan-fala-em-combater-supersalarios-e-mudar-aposentadoria-de-militares-em-novo-pacote-fiscal.shtml"&gt;Durigan fala em rever supersalários e aposentadoria de militares em nova PEC fiscal&lt;/a&gt; (Folha / O Globo / CartaCapital)&lt;br/&gt;
+- &lt;a href="https://www.mpsp.mp.br/w/grupo-suspeito-de-simular-faturamento-bilionario-e-alvo-da-operacao-dinheiro-ficticio"&gt;Operação Dinheiro Fictício: Justiça bloqueia até R$ 4,3 bi do Grupo Fictor, que quis comprar o Master&lt;/a&gt; (MPSP / g1 / CNN Brasil)&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/economia/noticia/2026/11/25/caixa-avalia-possivel-aquisicao-do-brb-em-crise-financeira-provocada-pelo-caso-master.ghtml"&gt;Caixa avalia comprar o controle do BRB&lt;/a&gt; (O Globo / CNN Brasil / tns business)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/25/relatorio-da-pf-entregue-a-fachin-nao-inclui-caso-tayaya-veja-o-que-pesa-contra-ministros-e-ficou-de-fora.ghtml"&gt;Relatórios da PF sobre ministros do STF deixam fora 47 mensagens a Moraes e o caso Tayayá&lt;/a&gt; (g1 / Folha / the news)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-comemora-veto-da-ue-ao-produto.ghtml"&gt;Macron chama carne brasileira de &amp;#x27;dopada&amp;#x27;; governo e produtores repudiam&lt;/a&gt; (g1 / Agência Brasil)&lt;br/&gt;
+- &lt;a href="https://www.infomoney.com.br/mundo/brasileiros-sao-atraidos-por-ate-r-574-mil-para-lutar-pela-russia-diz-nyt/"&gt;NYT: brasileiros atraídos com até US$ 100 mil para lutar pela Rússia&lt;/a&gt; (The New York Times (via InfoMoney))&lt;br/&gt;
+- &lt;a href="https://www.nbcnews.com/world/saudi-arabia/yemen-houthi-rebels-attack-saudi-arabia-largest-oil-refinery-rcna611319"&gt;Houthis atacam Ras Tanura, maior refinaria saudita; Brent volta a US$ 95&lt;/a&gt; (NBC / The National / DW / the news)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/c39w9y5dx4k5o"&gt;Ataque com drones no Kuwait mata dois técnicos italianos da Rheinmetall; Irã nega&lt;/a&gt; (BBC / Washington Post)&lt;br/&gt;
+- &lt;a href="https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/"&gt;Pablo Hernández de Cos será o próximo presidente do BCE&lt;/a&gt; (Conselho Europeu / AP / CNBC)&lt;br/&gt;
+- &lt;a href="https://www.nytimes.com/"&gt;Migração líquida ao Reino Unido cai a 77 mil, menor em quase três décadas&lt;/a&gt; (The New York Times)&lt;br/&gt;
+- &lt;a href="https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/"&gt;Nvidia suspende envio de servidores a Malásia, Singapura, Tailândia e Indonésia&lt;/a&gt; (Financial Times (via CNA / DCD))&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml"&gt;Senado aprova urgência; relatora tira Lei das Estatais e acaba quarentena só nas agências reguladoras&lt;/a&gt; (g1 / O Globo / Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/stock-market-news/airline-norse-atlantic-flags-bankruptcy-risk-as-flights-suspended-5052475"&gt;Norse Atlantic suspende voos e ameaça pedir falência com choque do combustível da guerra no Irã&lt;/a&gt; (Reuters (Investing.com))&lt;br/&gt;
+- &lt;a href="https://www.nytimes.com/"&gt;NYT: novas tarifas propostas miram a China nas cadeias de suprimento; audiência em 14/1&lt;/a&gt; (The New York Times / the news)&lt;/p&gt;
+&lt;p&gt;## Bloco 2 — VC e startups&lt;br/&gt;
+- &lt;a href="https://startups.com.br/negocios/rodada-de-investimento/com-mais-us-6m-no-caixa-avra-aposta-em-pd-para-crescer-dentro-da-base/"&gt;Avra capta US$ 6 mi em seed liderada pela NXTP para modelo fundacional de crédito e fraude&lt;/a&gt; (Startups / Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.estadao.com.br/esportes/rodrigo-capelo/parceria-no-marketing-com-opcao-de-compra-entenda-o-negocio-por-tras-do-furia-novorizontino/"&gt;FURIA fecha parceria com Novorizontino, que vira Furia Novorizontino em 2027&lt;/a&gt; (Grêmio Novorizontino / Estadão / ge)&lt;br/&gt;
+- &lt;a href="https://startups.com.br/negocios/venture-capital/bossanova-e-escolhida-para-gerir-fundo-do-bndes-e-finep/"&gt;Bossa Invest vai gerir FIP de R$ 250 mi de BNDES e Finep para startups&lt;/a&gt; (Agência BNDES / Startups / Reuters)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/"&gt;Patria incorpora mais de 30 fundos e reorganiza plataforma de R$ 38 bi; Advent zera posição na Allied&lt;/a&gt; (Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://thenextweb.com/news/elevenlabs-33bn-valuation-funding-talks-2027"&gt;ElevenLabs em conversas iniciais para captar a US$ 33 bi&lt;/a&gt; (Bloomberg (via Sifted / TNW))&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"&gt;Musk promete duas ações da SpaceX para cada criança americana, quase US$ 18 bi&lt;/a&gt; (Reuters (Guardian) / Axios / Bloomberg)&lt;br/&gt;
+- &lt;a href="https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands"&gt;Altria estuda oferta em dinheiro pela Imperial Brands, com Japan Tobacco&lt;/a&gt; (Guardian / Bloomberg / Sharecast)&lt;br/&gt;
+- &lt;a href="https://startupreader.com/funding"&gt;Semana de 23 a 29/11: cerca de 70 rodadas e US$ 4,1 bi; Sierra respondeu pela maior&lt;/a&gt; (StartupReader)&lt;br/&gt;
+- &lt;a href="https://www.commerzbank.de/group/newsroom/press-releases/egm-request.html"&gt;UniCredit conclui aprovações para controlar o Commerzbank e propõe Orcel como presidente do conselho&lt;/a&gt; (Reuters / Commerzbank)&lt;/p&gt;
+&lt;p&gt;## Bloco 3 — Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://finance.yahoo.com/news/exclusive-us-chip-curbs-distillation-071923947.html"&gt;Restrições a chips e a destilação atrasam modelos chineses: Z.AI atrasa e Moonshot vê ciclo dobrar&lt;/a&gt; (Reuters (via Yahoo Finance))&lt;br/&gt;
+- &lt;a href="https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834"&gt;Apple tira do ar o Talkie, app de companhia da MiniMax, por segurança infantil&lt;/a&gt; (Reuters / ABC News)&lt;br/&gt;
+- &lt;a href="https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"&gt;Nova York proíbe por cinco anos brinquedos com chatbot de IA&lt;/a&gt; (Governo de NY / Fox 5)&lt;br/&gt;
+- &lt;a href="https://www.minhaoperadora.com.br/2026/11/tim-usa-ia-no-atendimento-e-corta-86-do-tempo-de-resolucao.html"&gt;TIM: agentes de IA cortam 86% do tempo de resolução; 154 mil interações por mês&lt;/a&gt; (Minha Operadora)&lt;br/&gt;
+- &lt;a href="https://www.letsmoney.com.br/fintech/pagaleve-ia-aline-atendimento-80/"&gt;Pagaleve resolve mais de 80% dos chamados de primeiro nível com agente próprio&lt;/a&gt; (Let&amp;#x27;s Money)&lt;br/&gt;
+- &lt;a href="https://startups.com.br/negocios/rodada-de-investimento/com-mais-us-6m-no-caixa-avra-aposta-em-pd-para-crescer-dentro-da-base/"&gt;Avra: modelo relacional permitiu vender o mesmo com 88% menos visitas de campo&lt;/a&gt; (Startups)&lt;br/&gt;
+- &lt;a href="https://www.gartner.com/en/newsroom/press-releases/2026-11-10-gartner-forecasts-artificial-intelligence-will-drive-a-net-increase-of-1-7-million-jobs-by-2030"&gt;Gartner: IA cria 10,6 mi de vagas e elimina 8,9 mi até 2030&lt;/a&gt; (Gartner)&lt;br/&gt;
+- &lt;a href="https://www.nytimes.com/"&gt;Editor de IA do NYT usa IA para investigar, mas escreve à máquina&lt;/a&gt; (The New York Times)&lt;/p&gt;
+&lt;p&gt;## Bloco 4 — Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://economia.ig.com.br/2026-11-27/black-friday-deve-movimentar-r--11-5-bilhoes-no-varejo-neste-ano.html"&gt;Black Friday hoje: CNC projeta R$ 11,5 bi, maior desde 2014&lt;/a&gt; (iG (CNC) / Jornal Nacional)&lt;br/&gt;
+- &lt;a href="https://cryptoid.com.br/"&gt;Fraude na Black Friday tem tíquete 45% maior que compra legítima&lt;/a&gt; (Crypto ID)&lt;br/&gt;
+- &lt;a href="https://veja.abril.com.br/cultura/globo-perde-emmy-internacional-de-melhor-novela-pelo-sexto-ano-seguido/"&gt;Globo perde Emmy de melhor novela para versão turca de Avenida Brasil&lt;/a&gt; (O Globo / Veja / tns business)&lt;br/&gt;
+- &lt;a href="https://nltimes.nl/2026/11/26/meta-defends-ai-glasses-court-dutch-groups-demand-ban"&gt;Grupos holandeses pedem à Justiça que barre a venda dos óculos da Meta&lt;/a&gt; (Reuters (Investing.com) / NL Times)&lt;br/&gt;
+- &lt;a href="https://www.channelnewsasia.com/business/s-and-p-nvidia-board-compromised-rating-downgrade-watch-6582441"&gt;Standard and Poor&amp;#x27;s põe nota AA da Nvidia em observação negativa por governança&lt;/a&gt; (S&amp;amp;P Global / Reuters (CNA))&lt;br/&gt;
+- &lt;a href="https://apnews.com/article/fifa-cyberattack-hack-6de93d5f8bcc655c774e2e41e2dfea1f"&gt;FIFA confirma ataque hacker com roubo de dados pessoais e de negócios&lt;/a&gt; (AP / Reuters)&lt;br/&gt;
+- &lt;a href="https://www.thenews.cc/"&gt;Calendário de US$ 148 da Skims vira propaganda para concorrentes&lt;/a&gt; (tns business)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/zanzar-expande-operacao-para-brasilia-e-goiania"&gt;Zanzar leva telas em táxis e apps para Brasília e Goiânia&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/"&gt;Folha apresenta anúncios clicáveis no Folha Day hoje (desdobramento)&lt;/a&gt; (Folha)&lt;br/&gt;
+- &lt;a href="https://teletime.com.br/26/11/2026/entidades-pl-postes/"&gt;Entidades de telecom e energia pedem sanção integral do PL dos postes; Minicom sugere vetos parciais&lt;/a&gt; (Teletime / Convergência Digital)&lt;/p&gt;
+&lt;p&gt;Roteiro e narração gerados com IA a partir de newsletters e fontes abertas citadas acima.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-27/entreouvido-por-ai-2026-11-27.mp3" length="44506426" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — sexta-feira, 27 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Trabuco aceita a Fazenda e o Ibovespa dispara 6,07%, segunda maior alta desde 2021; IPCA-15 de 0,22% surpreende para baixo; Durigan mira supersalários e aposentadoria de militares; Operação Dinheiro Fictício bloqueia R$ 4,3 bi do Grupo Fictor. No mundo, houthis atacam Ras Tanura, drone mata dois italianos no Kuwait, Norse Atlantic à beira da falência e Hernández de Cos vai ao BCE. No VC, a Avra capta US$ 6 mi com a NXTP e a FURIA entra no futebol; ElevenLabs mira US$ 33 bi. Na IA, chips e destilação atrasam a China, Apple tira o Talkie do ar e TIM e Pagaleve mostram agentes em produção. Na mídia, Black Friday de R$ 11,5 bi, Globo perde o Emmy para Avenida Brasil turca e Standard and Poor's põe a Nvidia em observação.
+
+## Bloco 1 — Política, geopolítica e economia
+- Trabuco aceita convite de Lula e será ministro da Fazenda a partir de 2027 (https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/notas-oficiais/nota-a-imprensa) (Planalto / Valor / Exame / CNN Brasil)
+- Ibovespa sobe 6,07% a 176.799 pontos, segunda maior alta desde 2021; dólar a R$ 5,7441 (https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml) (g1 / Reuters (Investing.com))
+- IPCA-15 sobe 0,22% em novembro, abaixo do piso das projeções; 12 meses em 4,64% (https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48750-ipca15novrelease) (IBGE / Estadão)
+- Durigan fala em rever supersalários e aposentadoria de militares em nova PEC fiscal (https://www1.folha.uol.com.br/mercado/2026/11/durigan-fala-em-combater-supersalarios-e-mudar-aposentadoria-de-militares-em-novo-pacote-fiscal.shtml) (Folha / O Globo / CartaCapital)
+- Operação Dinheiro Fictício: Justiça bloqueia até R$ 4,3 bi do Grupo Fictor, que quis comprar o Master (https://www.mpsp.mp.br/w/grupo-suspeito-de-simular-faturamento-bilionario-e-alvo-da-operacao-dinheiro-ficticio) (MPSP / g1 / CNN Brasil)
+- Caixa avalia comprar o controle do BRB (https://oglobo.globo.com/economia/noticia/2026/11/25/caixa-avalia-possivel-aquisicao-do-brb-em-crise-financeira-provocada-pelo-caso-master.ghtml) (O Globo / CNN Brasil / tns business)
+- Relatórios da PF sobre ministros do STF deixam fora 47 mensagens a Moraes e o caso Tayayá (https://g1.globo.com/politica/noticia/2026/11/25/relatorio-da-pf-entregue-a-fachin-nao-inclui-caso-tayaya-veja-o-que-pesa-contra-ministros-e-ficou-de-fora.ghtml) (g1 / Folha / the news)
+- Macron chama carne brasileira de 'dopada'; governo e produtores repudiam (https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-comemora-veto-da-ue-ao-produto.ghtml) (g1 / Agência Brasil)
+- NYT: brasileiros atraídos com até US$ 100 mil para lutar pela Rússia (https://www.infomoney.com.br/mundo/brasileiros-sao-atraidos-por-ate-r-574-mil-para-lutar-pela-russia-diz-nyt/) (The New York Times (via InfoMoney))
+- Houthis atacam Ras Tanura, maior refinaria saudita; Brent volta a US$ 95 (https://www.nbcnews.com/world/saudi-arabia/yemen-houthi-rebels-attack-saudi-arabia-largest-oil-refinery-rcna611319) (NBC / The National / DW / the news)
+- Ataque com drones no Kuwait mata dois técnicos italianos da Rheinmetall; Irã nega (https://www.bbc.com/news/articles/c39w9y5dx4k5o) (BBC / Washington Post)
+- Pablo Hernández de Cos será o próximo presidente do BCE (https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/) (Conselho Europeu / AP / CNBC)
+- Migração líquida ao Reino Unido cai a 77 mil, menor em quase três décadas (https://www.nytimes.com/) (The New York Times)
+- Nvidia suspende envio de servidores a Malásia, Singapura, Tailândia e Indonésia (https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/) (Financial Times (via CNA / DCD))
+- Senado aprova urgência; relatora tira Lei das Estatais e acaba quarentena só nas agências reguladoras (https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml) (g1 / O Globo / Brazil Journal)
+- Norse Atlantic suspende voos e ameaça pedir falência com choque do combustível da guerra no Irã (https://www.investing.com/news/stock-market-news/airline-norse-atlantic-flags-bankruptcy-risk-as-flights-suspended-5052475) (Reuters (Investing.com))
+- NYT: novas tarifas propostas miram a China nas cadeias de suprimento; audiência em 14/1 (https://www.nytimes.com/) (The New York Times / the news)
+
+## Bloco 2 — VC e startups
+- Avra capta US$ 6 mi em seed liderada pela NXTP para modelo fundacional de crédito e fraude (https://startups.com.br/negocios/rodada-de-investimento/com-mais-us-6m-no-caixa-avra-aposta-em-pd-para-crescer-dentro-da-base/) (Startups / Brazil Journal)
+- FURIA fecha parceria com Novorizontino, que vira Furia Novorizontino em 2027 (https://www.estadao.com.br/esportes/rodrigo-capelo/parceria-no-marketing-com-opcao-de-compra-entenda-o-negocio-por-tras-do-furia-novorizontino/) (Grêmio Novorizontino / Estadão / ge)
+- Bossa Invest vai gerir FIP de R$ 250 mi de BNDES e Finep para startups (https://startups.com.br/negocios/venture-capital/bossanova-e-escolhida-para-gerir-fundo-do-bndes-e-finep/) (Agência BNDES / Startups / Reuters)
+- Patria incorpora mais de 30 fundos e reorganiza plataforma de R$ 38 bi; Advent zera posição na Allied (https://braziljournal.com/) (Brazil Journal)
+- ElevenLabs em conversas iniciais para captar a US$ 33 bi (https://thenextweb.com/news/elevenlabs-33bn-valuation-funding-talks-2027) (Bloomberg (via Sifted / TNW))
+- Musk promete duas ações da SpaceX para cada criança americana, quase US$ 18 bi (https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us) (Reuters (Guardian) / Axios / Bloomberg)
+- Altria estuda oferta em dinheiro pela Imperial Brands, com Japan Tobacco (https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands) (Guardian / Bloomberg / Sharecast)
+- Semana de 23 a 29/11: cerca de 70 rodadas e US$ 4,1 bi; Sierra respondeu pela maior (https://startupreader.com/funding) (StartupReader)
+- UniCredit conclui aprovações para controlar o Commerzbank e propõe Orcel como presidente do conselho (https://www.commerzbank.de/group/newsroom/press-releases/egm-request.html) (Reuters / Commerzbank)
+
+## Bloco 3 — Inteligência artificial
+- Restrições a chips e a destilação atrasam modelos chineses: Z.AI atrasa e Moonshot vê ciclo dobrar (https://finance.yahoo.com/news/exclusive-us-chip-curbs-distillation-071923947.html) (Reuters (via Yahoo Finance))
+- Apple tira do ar o Talkie, app de companhia da MiniMax, por segurança infantil (https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834) (Reuters / ABC News)
+- Nova York proíbe por cinco anos brinquedos com chatbot de IA (https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Governo de NY / Fox 5)
+- TIM: agentes de IA cortam 86% do tempo de resolução; 154 mil interações por mês (https://www.minhaoperadora.com.br/2026/11/tim-usa-ia-no-atendimento-e-corta-86-do-tempo-de-resolucao.html) (Minha Operadora)
+- Pagaleve resolve mais de 80% dos chamados de primeiro nível com agente próprio (https://www.letsmoney.com.br/fintech/pagaleve-ia-aline-atendimento-80/) (Let's Money)
+- Avra: modelo relacional permitiu vender o mesmo com 88% menos visitas de campo (https://startups.com.br/negocios/rodada-de-investimento/com-mais-us-6m-no-caixa-avra-aposta-em-pd-para-crescer-dentro-da-base/) (Startups)
+- Gartner: IA cria 10,6 mi de vagas e elimina 8,9 mi até 2030 (https://www.gartner.com/en/newsroom/press-releases/2026-11-10-gartner-forecasts-artificial-intelligence-will-drive-a-net-increase-of-1-7-million-jobs-by-2030) (Gartner)
+- Editor de IA do NYT usa IA para investigar, mas escreve à máquina (https://www.nytimes.com/) (The New York Times)
+
+## Bloco 4 — Mídia, software e plataformas
+- Black Friday hoje: CNC projeta R$ 11,5 bi, maior desde 2014 (https://economia.ig.com.br/2026-11-27/black-friday-deve-movimentar-r--11-5-bilhoes-no-varejo-neste-ano.html) (iG (CNC) / Jornal Nacional)
+- Fraude na Black Friday tem tíquete 45% maior que compra legítima (https://cryptoid.com.br/) (Crypto ID)
+- Globo perde Emmy de melhor novela para versão turca de Avenida Brasil (https://veja.abril.com.br/cultura/globo-perde-emmy-internacional-de-melhor-novela-pelo-sexto-ano-seguido/) (O Globo / Veja / tns business)
+- Grupos holandeses pedem à Justiça que barre a venda dos óculos da Meta (https://nltimes.nl/2026/11/26/meta-defends-ai-glasses-court-dutch-groups-demand-ban) (Reuters (Investing.com) / NL Times)
+- Standard and Poor's põe nota AA da Nvidia em observação negativa por governança (https://www.channelnewsasia.com/business/s-and-p-nvidia-board-compromised-rating-downgrade-watch-6582441) (S&amp;P Global / Reuters (CNA))
+- FIFA confirma ataque hacker com roubo de dados pessoais e de negócios (https://apnews.com/article/fifa-cyberattack-hack-6de93d5f8bcc655c774e2e41e2dfea1f) (AP / Reuters)
+- Calendário de US$ 148 da Skims vira propaganda para concorrentes (https://www.thenews.cc/) (tns business)
+- Zanzar leva telas em táxis e apps para Brasília e Goiânia (https://www.meioemensagem.com.br/midia/zanzar-expande-operacao-para-brasilia-e-goiania) (Meio &amp; Mensagem)
+- Folha apresenta anúncios clicáveis no Folha Day hoje (desdobramento) (https://www1.folha.uol.com.br/) (Folha)
+- Entidades de telecom e energia pedem sanção integral do PL dos postes; Minicom sugere vetos parciais (https://teletime.com.br/26/11/2026/entidades-pl-postes/) (Teletime / Convergência Digital)
+
+Roteiro e narração gerados com IA a partir de newsletters e fontes abertas citadas acima.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>30:54</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — quinta-feira, 26 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
