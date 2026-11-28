@@ -7,7 +7,7 @@
     <copyright>© 2026 Artur Ururahy</copyright>
     <description>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</description>
     <atom:link href="https://catu46.github.io/entreouvido-por-ai/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 27 Nov 2026 08:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:03:29 +0000</lastBuildDate>
     <itunes:author>Artur Ururahy</itunes:author>
     <itunes:summary>Boletim diário em português sobre política, geopolítica e economia, capital de risco e startups, inteligência artificial, e mídia, software e plataformas.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -26,6 +26,131 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:category text="Technology" />
+    <item>
+      <title>Entreouvido por AI — sábado, 28 de novembro de 2026</title>
+      <link>https://catu46.github.io/entreouvido-por-ai/</link>
+      <guid isPermaLink="false">tag:catu46.github.io,2026-11-28:entreouvido-por-ai/ep-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Dólar cai 4% e fecha a R$ 5,51 com Trabuco (-7% na semana); desemprego de 5,1% iguala a mínima histórica; Camilo Santana deve ir para a Casa Civil; Dino suspende as emendas que Flávio Bolsonaro mandou dos EUA. No mundo, a Espanha vota no domingo com o PP à frente, a Reuters revela pressão dos EUA para Venezuela e Iraque deixarem a Opep, e hackers invadem a nuvem da Força Aérea americana. No VC, B3 e seis bancos criam a stablecoin Open BRL, Pagaleve levanta FIDC de R$ 250 mi e Altair capta US$ 100 mi. Na IA, tráfego vindo de assistentes cresce 162% no Dia de Ação de Graças e a Anthropic migra sua API para Rust com agentes. Na mídia, balanço parcial da Black Friday, Senacon aperta o Google e as agências sentem o fim das bets.
+
+## Bloco 1 — Política, geopolítica e economia
+- Dólar cai 4% e fecha a R$ 5,51; queda de 7% na semana com Trabuco; Ibovespa -0,13% a 176.573 (https://g1.globo.com/economia/noticia/2026/11/27/dolar-ibovespa.ghtml) (g1 / UOL / InfoMoney / Reuters)
+- Desemprego de 5,1% iguala mínima histórica; 103,7 mi ocupados e renda de R$ 3.812 (https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48778-pnad-continua-taxa-de-desocupacao-e-de-5-1-e-taxa-de-subutilizacao-e-de-12-7-no-trimestre-encerrado-em-outubro) (IBGE / Secom / Estadão)
+- POF: renda familiar média de R$ 9.255; 2,6% mais ricos concentram 19% da renda (https://economia.uol.com.br/noticias/redacao/2026/11/27/pof-concentracao-de-renda-2024-2025.ghtm) (UOL / the news)
+- Lula convida Camilo Santana para a Casa Civil; Moretti deve seguir no Planejamento (https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml) (g1 (Ana Flor) / CBN / O Globo / UOL)
+- Dino suspende 14 emendas de Flávio Bolsonaro (R$ 79,3 mi) apresentadas dos EUA (https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml) (UOL / Folha / Conjur / CBN)
+- Espanha vota no domingo: PP de Feijóo à frente, Vox decisivo (https://www.bbc.com/news/articles/c6wy4ejnyvdyo) (BBC / Reuters / ABC / the news)
+- Reuters: EUA pressionaram Venezuela e Iraque a considerar saída da Opep (https://www.investing.com/news/commodities-news/exclusiveus-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-5052970) (Reuters (Investing.com) / Brazil Journal)
+- Hackers invadem o Cloud One, plataforma de nuvem da Força Aérea dos EUA (https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html) (Reuters / CNBC / NBC)
+- Reuters: novas tarifas de Trump buscam tirar o comércio global das mãos da China (https://www.reuters.com/world/china/trumps-new-tariffs-aim-prise-global-trade-chinas-grip-2026-11-26/) (Reuters)
+
+## Bloco 2 — VC e startups
+- B3 e seis bancos criam a Open BRL, stablecoin em reais (https://www.b3.com.br/pt_br/noticias/bolsa-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais.htm) (B3 / Exame / Reuters)
+- Pagaleve capta R$ 250 mi em FIDC com Itaú Asset e BV (https://neofeed.com.br/negocios/com-itau-asset-e-bv-pagaleve-levanta-fidc-de-r-250-milhoes-para-financiar-pix-parcelado/) (NeoFeed / PEGN)
+- Axia vende R$ 2,1 bi em ações da ISA Energia num block trade (https://braziljournal.com/axia-vende-r-2-1-bilhoes-de-isa-energia-surfando-o-rali-trabuco) (Brazil Journal / Estadão / Agência iNFRA)
+- Alex Allard recruta Patrick Mendes, ex-Accor, para comandar a Mata Company (https://braziljournal.com/alex-allard-recruta-ex-ceo-da-accor-para-comandar-a-mata) (Brazil Journal / Hotelnews)
+- Altair Semiconductor, spin-off da Sony, capta US$ 100 mi (https://siliconangle.com/2026/11/26/wireless-networking-chip-startup-altair-nabs-100m-investment/) (SiliconANGLE / Globes / Calcalist)
+- Semana de 23 a 29/11: Just Raised soma 423 rodadas e US$ 9,9 bi em 44 países (https://justraised.io/all-rounds/week/2026-11-23) (Just Raised / Tech Startups)
+
+## Bloco 3 — Inteligência artificial
+- Ação de Graças tem recorde de US$ 7,1 bi online nos EUA; tráfego vindo de IA sobe 162% (https://www.digitalcommerce360.com/article/thanksgiving-ecommerce-sales/) (Digital Commerce 360 / Anadolu / Salesforce)
+- Anthropic usa agentes Claude para migrar sua API de Python para Rust: 70% menos CPU (https://www.anthropic.com/research/migrating-api-to-rust) (Anthropic / TechRepublic / InfoWorld)
+- Tencent abre o DFly2 e acelera DeepSeek em até 81% (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+- Canadá põe mais C$ 700 mi no fundo de acesso a computação para IA, total de C$ 1 bi (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+- Microsoft descreve ARTEX, framework de agentes usado por hackers estatais; Suíça relata cinco ataques com agentes (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+- Global Payments: 72% dos brasileiros já testaram ou aceitariam agente de IA comprando por eles (https://startups.com.br/dados-e-agentes/brasil-lidera-comercio-agentico-no-ocidente-aponta-global-payments/) (Startups)
+- OpenAI corrige erro de cobrança (limites do GPT-6.2 até 40% mais rápidos); UE pode votar direção assistida da Tesla em 15/12 (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+
+## Bloco 4 — Mídia, software e plataformas
+- Black Friday: e-commerce soma R$ 5,64 bi em quinta e sexta (+10,8%), mas sexta desacelera (+5,6%) (https://oglobo.globo.com/economia/financas/noticia/2026/11/27/black-friday-comercio-eletronico-fatura-r-27-bi-nas-primeiras-15-horas-alta-de-56percent.ghtml) (O Globo / Valor / E-Commerce Brasil)
+- Senacon manda Google ampliar transparência de anúncios, inclusive YouTube; multa de R$ 200 mil por dia (https://www.meioemensagem.com.br/midia/google-devera-elevar-transparencia-sobre-anuncios) (Meio &amp; Mensagem)
+- Sem bets, agências realocam e demitem; W+K reorganiza conta da Betano (https://www.meioemensagem.com.br/comunicacao/sem-as-contas-de-bets-agencias-tentam-manter-equipes) (Meio &amp; Mensagem)
+- Argentina aprova lei que proíbe patrocínio de bets no esporte (https://www.dw.com/pt-br/argentina-aprova-lei-contra-bets-que-pro%C3%ADbe-patroc%C3%ADnio-no-esporte/a-80079926) (DW / Valor / Exame / La Nación)
+- XP tira verba da DPZ e concentra na LePub, do mesmo grupo Publicis (https://www.meioemensagem.com.br/comunicacao/xp-transfere-verba-publicitaria-da-dpz-para-a-lepub) (Meio &amp; Mensagem)
+- Uber lança Uber Assist para PcD, idosos e gestantes em dez capitais (https://exame.com/tecnologia/uber-lanca-modalidade-de-corridas-com-assistencia-extra-do-motorista-para-pcds-e-idosos/) (Exame / the news)
+
+Newsletters lidas: Brazil Journal, the news / the news night, Reuters Business e Technology, Telecompaper, The New York Times, tns business.</description>
+      <content:encoded>&lt;p&gt;Dólar cai 4% e fecha a R$ 5,51 com Trabuco (-7% na semana); desemprego de 5,1% iguala a mínima histórica; Camilo Santana deve ir para a Casa Civil; Dino suspende as emendas que Flávio Bolsonaro mandou dos EUA. No mundo, a Espanha vota no domingo com o PP à frente, a Reuters revela pressão dos EUA para Venezuela e Iraque deixarem a Opep, e hackers invadem a nuvem da Força Aérea americana. No VC, B3 e seis bancos criam a stablecoin Open BRL, Pagaleve levanta FIDC de R$ 250 mi e Altair capta US$ 100 mi. Na IA, tráfego vindo de assistentes cresce 162% no Dia de Ação de Graças e a Anthropic migra sua API para Rust com agentes. Na mídia, balanço parcial da Black Friday, Senacon aperta o Google e as agências sentem o fim das bets.&lt;/p&gt;
+&lt;p&gt;## Bloco 1 — Política, geopolítica e economia&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/noticia/2026/11/27/dolar-ibovespa.ghtml"&gt;Dólar cai 4% e fecha a R$ 5,51; queda de 7% na semana com Trabuco; Ibovespa -0,13% a 176.573&lt;/a&gt; (g1 / UOL / InfoMoney / Reuters)&lt;br/&gt;
+- &lt;a href="https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48778-pnad-continua-taxa-de-desocupacao-e-de-5-1-e-taxa-de-subutilizacao-e-de-12-7-no-trimestre-encerrado-em-outubro"&gt;Desemprego de 5,1% iguala mínima histórica; 103,7 mi ocupados e renda de R$ 3.812&lt;/a&gt; (IBGE / Secom / Estadão)&lt;br/&gt;
+- &lt;a href="https://economia.uol.com.br/noticias/redacao/2026/11/27/pof-concentracao-de-renda-2024-2025.ghtm"&gt;POF: renda familiar média de R$ 9.255; 2,6% mais ricos concentram 19% da renda&lt;/a&gt; (UOL / the news)&lt;br/&gt;
+- &lt;a href="https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml"&gt;Lula convida Camilo Santana para a Casa Civil; Moretti deve seguir no Planejamento&lt;/a&gt; (g1 (Ana Flor) / CBN / O Globo / UOL)&lt;br/&gt;
+- &lt;a href="https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml"&gt;Dino suspende 14 emendas de Flávio Bolsonaro (R$ 79,3 mi) apresentadas dos EUA&lt;/a&gt; (UOL / Folha / Conjur / CBN)&lt;br/&gt;
+- &lt;a href="https://www.bbc.com/news/articles/c6wy4ejnyvdyo"&gt;Espanha vota no domingo: PP de Feijóo à frente, Vox decisivo&lt;/a&gt; (BBC / Reuters / ABC / the news)&lt;br/&gt;
+- &lt;a href="https://www.investing.com/news/commodities-news/exclusiveus-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-5052970"&gt;Reuters: EUA pressionaram Venezuela e Iraque a considerar saída da Opep&lt;/a&gt; (Reuters (Investing.com) / Brazil Journal)&lt;br/&gt;
+- &lt;a href="https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html"&gt;Hackers invadem o Cloud One, plataforma de nuvem da Força Aérea dos EUA&lt;/a&gt; (Reuters / CNBC / NBC)&lt;br/&gt;
+- &lt;a href="https://www.reuters.com/world/china/trumps-new-tariffs-aim-prise-global-trade-chinas-grip-2026-11-26/"&gt;Reuters: novas tarifas de Trump buscam tirar o comércio global das mãos da China&lt;/a&gt; (Reuters)&lt;/p&gt;
+&lt;p&gt;## Bloco 2 — VC e startups&lt;br/&gt;
+- &lt;a href="https://www.b3.com.br/pt_br/noticias/bolsa-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais.htm"&gt;B3 e seis bancos criam a Open BRL, stablecoin em reais&lt;/a&gt; (B3 / Exame / Reuters)&lt;br/&gt;
+- &lt;a href="https://neofeed.com.br/negocios/com-itau-asset-e-bv-pagaleve-levanta-fidc-de-r-250-milhoes-para-financiar-pix-parcelado/"&gt;Pagaleve capta R$ 250 mi em FIDC com Itaú Asset e BV&lt;/a&gt; (NeoFeed / PEGN)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/axia-vende-r-2-1-bilhoes-de-isa-energia-surfando-o-rali-trabuco"&gt;Axia vende R$ 2,1 bi em ações da ISA Energia num block trade&lt;/a&gt; (Brazil Journal / Estadão / Agência iNFRA)&lt;br/&gt;
+- &lt;a href="https://braziljournal.com/alex-allard-recruta-ex-ceo-da-accor-para-comandar-a-mata"&gt;Alex Allard recruta Patrick Mendes, ex-Accor, para comandar a Mata Company&lt;/a&gt; (Brazil Journal / Hotelnews)&lt;br/&gt;
+- &lt;a href="https://siliconangle.com/2026/11/26/wireless-networking-chip-startup-altair-nabs-100m-investment/"&gt;Altair Semiconductor, spin-off da Sony, capta US$ 100 mi&lt;/a&gt; (SiliconANGLE / Globes / Calcalist)&lt;br/&gt;
+- &lt;a href="https://justraised.io/all-rounds/week/2026-11-23"&gt;Semana de 23 a 29/11: Just Raised soma 423 rodadas e US$ 9,9 bi em 44 países&lt;/a&gt; (Just Raised / Tech Startups)&lt;/p&gt;
+&lt;p&gt;## Bloco 3 — Inteligência artificial&lt;br/&gt;
+- &lt;a href="https://www.digitalcommerce360.com/article/thanksgiving-ecommerce-sales/"&gt;Ação de Graças tem recorde de US$ 7,1 bi online nos EUA; tráfego vindo de IA sobe 162%&lt;/a&gt; (Digital Commerce 360 / Anadolu / Salesforce)&lt;br/&gt;
+- &lt;a href="https://www.anthropic.com/research/migrating-api-to-rust"&gt;Anthropic usa agentes Claude para migrar sua API de Python para Rust: 70% menos CPU&lt;/a&gt; (Anthropic / TechRepublic / InfoWorld)&lt;br/&gt;
+- &lt;a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"&gt;Tencent abre o DFly2 e acelera DeepSeek em até 81%&lt;/a&gt; (The Neuron)&lt;br/&gt;
+- &lt;a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"&gt;Canadá põe mais C$ 700 mi no fundo de acesso a computação para IA, total de C$ 1 bi&lt;/a&gt; (The Neuron)&lt;br/&gt;
+- &lt;a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"&gt;Microsoft descreve ARTEX, framework de agentes usado por hackers estatais; Suíça relata cinco ataques com agentes&lt;/a&gt; (The Neuron)&lt;br/&gt;
+- &lt;a href="https://startups.com.br/dados-e-agentes/brasil-lidera-comercio-agentico-no-ocidente-aponta-global-payments/"&gt;Global Payments: 72% dos brasileiros já testaram ou aceitariam agente de IA comprando por eles&lt;/a&gt; (Startups)&lt;br/&gt;
+- &lt;a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"&gt;OpenAI corrige erro de cobrança (limites do GPT-6.2 até 40% mais rápidos); UE pode votar direção assistida da Tesla em 15/12&lt;/a&gt; (The Neuron)&lt;/p&gt;
+&lt;p&gt;## Bloco 4 — Mídia, software e plataformas&lt;br/&gt;
+- &lt;a href="https://oglobo.globo.com/economia/financas/noticia/2026/11/27/black-friday-comercio-eletronico-fatura-r-27-bi-nas-primeiras-15-horas-alta-de-56percent.ghtml"&gt;Black Friday: e-commerce soma R$ 5,64 bi em quinta e sexta (+10,8%), mas sexta desacelera (+5,6%)&lt;/a&gt; (O Globo / Valor / E-Commerce Brasil)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/midia/google-devera-elevar-transparencia-sobre-anuncios"&gt;Senacon manda Google ampliar transparência de anúncios, inclusive YouTube; multa de R$ 200 mil por dia&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/comunicacao/sem-as-contas-de-bets-agencias-tentam-manter-equipes"&gt;Sem bets, agências realocam e demitem; W+K reorganiza conta da Betano&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://www.dw.com/pt-br/argentina-aprova-lei-contra-bets-que-pro%C3%ADbe-patroc%C3%ADnio-no-esporte/a-80079926"&gt;Argentina aprova lei que proíbe patrocínio de bets no esporte&lt;/a&gt; (DW / Valor / Exame / La Nación)&lt;br/&gt;
+- &lt;a href="https://www.meioemensagem.com.br/comunicacao/xp-transfere-verba-publicitaria-da-dpz-para-a-lepub"&gt;XP tira verba da DPZ e concentra na LePub, do mesmo grupo Publicis&lt;/a&gt; (Meio &amp;amp; Mensagem)&lt;br/&gt;
+- &lt;a href="https://exame.com/tecnologia/uber-lanca-modalidade-de-corridas-com-assistencia-extra-do-motorista-para-pcds-e-idosos/"&gt;Uber lança Uber Assist para PcD, idosos e gestantes em dez capitais&lt;/a&gt; (Exame / the news)&lt;/p&gt;
+&lt;p&gt;Newsletters lidas: Brazil Journal, the news / the news night, Reuters Business e Technology, Telecompaper, The New York Times, tns business.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/catu46/entreouvido-por-ai/releases/download/ep-2026-11-28/entreouvido-por-ai-2026-11-28.mp3" length="44918952" type="audio/mpeg" />
+      <itunes:title>Entreouvido por AI — sábado, 28 de novembro de 2026</itunes:title>
+      <itunes:author>Artur Ururahy</itunes:author>
+      <itunes:summary>Dólar cai 4% e fecha a R$ 5,51 com Trabuco (-7% na semana); desemprego de 5,1% iguala a mínima histórica; Camilo Santana deve ir para a Casa Civil; Dino suspende as emendas que Flávio Bolsonaro mandou dos EUA. No mundo, a Espanha vota no domingo com o PP à frente, a Reuters revela pressão dos EUA para Venezuela e Iraque deixarem a Opep, e hackers invadem a nuvem da Força Aérea americana. No VC, B3 e seis bancos criam a stablecoin Open BRL, Pagaleve levanta FIDC de R$ 250 mi e Altair capta US$ 100 mi. Na IA, tráfego vindo de assistentes cresce 162% no Dia de Ação de Graças e a Anthropic migra sua API para Rust com agentes. Na mídia, balanço parcial da Black Friday, Senacon aperta o Google e as agências sentem o fim das bets.
+
+## Bloco 1 — Política, geopolítica e economia
+- Dólar cai 4% e fecha a R$ 5,51; queda de 7% na semana com Trabuco; Ibovespa -0,13% a 176.573 (https://g1.globo.com/economia/noticia/2026/11/27/dolar-ibovespa.ghtml) (g1 / UOL / InfoMoney / Reuters)
+- Desemprego de 5,1% iguala mínima histórica; 103,7 mi ocupados e renda de R$ 3.812 (https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48778-pnad-continua-taxa-de-desocupacao-e-de-5-1-e-taxa-de-subutilizacao-e-de-12-7-no-trimestre-encerrado-em-outubro) (IBGE / Secom / Estadão)
+- POF: renda familiar média de R$ 9.255; 2,6% mais ricos concentram 19% da renda (https://economia.uol.com.br/noticias/redacao/2026/11/27/pof-concentracao-de-renda-2024-2025.ghtm) (UOL / the news)
+- Lula convida Camilo Santana para a Casa Civil; Moretti deve seguir no Planejamento (https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml) (g1 (Ana Flor) / CBN / O Globo / UOL)
+- Dino suspende 14 emendas de Flávio Bolsonaro (R$ 79,3 mi) apresentadas dos EUA (https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml) (UOL / Folha / Conjur / CBN)
+- Espanha vota no domingo: PP de Feijóo à frente, Vox decisivo (https://www.bbc.com/news/articles/c6wy4ejnyvdyo) (BBC / Reuters / ABC / the news)
+- Reuters: EUA pressionaram Venezuela e Iraque a considerar saída da Opep (https://www.investing.com/news/commodities-news/exclusiveus-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-5052970) (Reuters (Investing.com) / Brazil Journal)
+- Hackers invadem o Cloud One, plataforma de nuvem da Força Aérea dos EUA (https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html) (Reuters / CNBC / NBC)
+- Reuters: novas tarifas de Trump buscam tirar o comércio global das mãos da China (https://www.reuters.com/world/china/trumps-new-tariffs-aim-prise-global-trade-chinas-grip-2026-11-26/) (Reuters)
+
+## Bloco 2 — VC e startups
+- B3 e seis bancos criam a Open BRL, stablecoin em reais (https://www.b3.com.br/pt_br/noticias/bolsa-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais.htm) (B3 / Exame / Reuters)
+- Pagaleve capta R$ 250 mi em FIDC com Itaú Asset e BV (https://neofeed.com.br/negocios/com-itau-asset-e-bv-pagaleve-levanta-fidc-de-r-250-milhoes-para-financiar-pix-parcelado/) (NeoFeed / PEGN)
+- Axia vende R$ 2,1 bi em ações da ISA Energia num block trade (https://braziljournal.com/axia-vende-r-2-1-bilhoes-de-isa-energia-surfando-o-rali-trabuco) (Brazil Journal / Estadão / Agência iNFRA)
+- Alex Allard recruta Patrick Mendes, ex-Accor, para comandar a Mata Company (https://braziljournal.com/alex-allard-recruta-ex-ceo-da-accor-para-comandar-a-mata) (Brazil Journal / Hotelnews)
+- Altair Semiconductor, spin-off da Sony, capta US$ 100 mi (https://siliconangle.com/2026/11/26/wireless-networking-chip-startup-altair-nabs-100m-investment/) (SiliconANGLE / Globes / Calcalist)
+- Semana de 23 a 29/11: Just Raised soma 423 rodadas e US$ 9,9 bi em 44 países (https://justraised.io/all-rounds/week/2026-11-23) (Just Raised / Tech Startups)
+
+## Bloco 3 — Inteligência artificial
+- Ação de Graças tem recorde de US$ 7,1 bi online nos EUA; tráfego vindo de IA sobe 162% (https://www.digitalcommerce360.com/article/thanksgiving-ecommerce-sales/) (Digital Commerce 360 / Anadolu / Salesforce)
+- Anthropic usa agentes Claude para migrar sua API de Python para Rust: 70% menos CPU (https://www.anthropic.com/research/migrating-api-to-rust) (Anthropic / TechRepublic / InfoWorld)
+- Tencent abre o DFly2 e acelera DeepSeek em até 81% (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+- Canadá põe mais C$ 700 mi no fundo de acesso a computação para IA, total de C$ 1 bi (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+- Microsoft descreve ARTEX, framework de agentes usado por hackers estatais; Suíça relata cinco ataques com agentes (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+- Global Payments: 72% dos brasileiros já testaram ou aceitariam agente de IA comprando por eles (https://startups.com.br/dados-e-agentes/brasil-lidera-comercio-agentico-no-ocidente-aponta-global-payments/) (Startups)
+- OpenAI corrige erro de cobrança (limites do GPT-6.2 até 40% mais rápidos); UE pode votar direção assistida da Tesla em 15/12 (https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/) (The Neuron)
+
+## Bloco 4 — Mídia, software e plataformas
+- Black Friday: e-commerce soma R$ 5,64 bi em quinta e sexta (+10,8%), mas sexta desacelera (+5,6%) (https://oglobo.globo.com/economia/financas/noticia/2026/11/27/black-friday-comercio-eletronico-fatura-r-27-bi-nas-primeiras-15-horas-alta-de-56percent.ghtml) (O Globo / Valor / E-Commerce Brasil)
+- Senacon manda Google ampliar transparência de anúncios, inclusive YouTube; multa de R$ 200 mil por dia (https://www.meioemensagem.com.br/midia/google-devera-elevar-transparencia-sobre-anuncios) (Meio &amp; Mensagem)
+- Sem bets, agências realocam e demitem; W+K reorganiza conta da Betano (https://www.meioemensagem.com.br/comunicacao/sem-as-contas-de-bets-agencias-tentam-manter-equipes) (Meio &amp; Mensagem)
+- Argentina aprova lei que proíbe patrocínio de bets no esporte (https://www.dw.com/pt-br/argentina-aprova-lei-contra-bets-que-pro%C3%ADbe-patroc%C3%ADnio-no-esporte/a-80079926) (DW / Valor / Exame / La Nación)
+- XP tira verba da DPZ e concentra na LePub, do mesmo grupo Publicis (https://www.meioemensagem.com.br/comunicacao/xp-transfere-verba-publicitaria-da-dpz-para-a-lepub) (Meio &amp; Mensagem)
+- Uber lança Uber Assist para PcD, idosos e gestantes em dez capitais (https://exame.com/tecnologia/uber-lanca-modalidade-de-corridas-com-assistencia-extra-do-motorista-para-pcds-e-idosos/) (Exame / the news)
+
+Newsletters lidas: Brazil Journal, the news / the news night, Reuters Business e Technology, Telecompaper, The New York Times, tns business.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>31:12</itunes:duration>
+      <itunes:image href="https://catu46.github.io/entreouvido-por-ai/cover.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Entreouvido por AI — sexta-feira, 27 de novembro de 2026</title>
       <link>https://catu46.github.io/entreouvido-por-ai/</link>
